@@ -35,6 +35,9 @@ pages=$1
 imdir=${pages%/pages}
 setname=${imdir##*/}
 resdir=testing/results/$setname
+echo "imdir:" $imdir
+echo "setname:" $setname
+echo "resdir:" $resdir
 mkdir -p testing/reports
 echo "Counting on set $setname in directory $imdir to $resdir"
 accfiles=""
@@ -49,10 +52,10 @@ do
   fi
 #  echo "$srcdir/$page.tif"
   # Count character errors.
-  testing/unlv/accuracy $srcdir/$page.txt $resdir/$page.txt $resdir/$page.acc
+  testing/unlv/accuracy $srcdir/$page.txt $resdir/$page.unlv $resdir/$page.acc
   accfiles="$accfiles $resdir/$page.acc"
   # Count word errors.
-  testing/unlv/wordacc $srcdir/$page.txt $resdir/$page.txt $resdir/$page.wa
+  testing/unlv/wordacc $srcdir/$page.txt $resdir/$page.unlv $resdir/$page.wa
   wafiles="$wafiles $resdir/$page.wa"
 done <$pages
 testing/unlv/accsum $accfiles >testing/reports/$setname.characc

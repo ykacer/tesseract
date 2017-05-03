@@ -59,12 +59,15 @@ END {
 imdir="$1"
 vid="$2"
 bindir=${0%/*}
+echo $0
+echo $bindir
 if [ "$bindir" = "$0" ]
 then
     bindir="./"
 fi
 rdir=testing/reports
-testsets="bus.3B doe3.3B mag.3B news.3B"
+#testsets="bus.3B doe3.3B mag.3B news.3B"
+testsets="spn.3B"
 
 totalerrs=0
 totalwerrs=0
@@ -87,20 +90,26 @@ do
 	# Get the new character word and nonstop word errors and accuracy.
 	cherrs=$(head -4 testing/reports/$set.characc |tail -1 |cut -c1-9 |
 	    tr -d '[:blank:]')
+	echo $set "char errors :" $cherrs "- char old errors :" $olderrs
 	chacc=$(head -5 testing/reports/$set.characc |tail -1 |cut -c1-9 |
 	    tr -d '[:blank:]')
 	wderrs=$(head -4 testing/reports/$set.wordacc |tail -1 |cut -c1-9 |
 	    tr -d '[:blank:]')
+	echo $set "word errors :" $wderrs "- word old errors :" $oldwerrs
 	wdacc=$(head -5 testing/reports/$set.wordacc |tail -1 |cut -c1-9 |
 	    tr -d '[:blank:]')
 	nswderrs=$(grep Total testing/reports/$set.wordacc |head -2 |tail -1 |
 	    cut -c10-17 |tr -d '[:blank:]')
+	echo $set "ns word errors :" $nswderrs "-ns word old errors :" $oldnswerrs
 	nswdacc=$(grep Total testing/reports/$set.wordacc |head -2 |tail -1 |
 	    cut -c19-26 |tr -d '[:blank:]')
 	# Compute the percent change.
 	chdelta=$(deltapc $cherrs $olderrs)
+	echo $set "char error delta (%) :" $chdelta
 	wdelta=$(deltapc $wderrs $oldwerrs)
+	echo $set "word error delta (%) :" $wdelta
 	nswdelta=$(deltapc $nswderrs $oldnswerrs)
+	echo $set "ns word error delta (%) :" $nswdelta
 	sumfile=$rdir/$vid.$set.sum
         if [ -r testing/reports/$set.times ]
         then

@@ -38,10 +38,14 @@ else
   tess="time -f %U -o times.txt api/tesseract"
   export TESSDATA_PREFIX=$PWD/
 fi
-
+echo $tess
 pages=$1
 imdir=${pages%/pages}
+echo "pages:" $pages
+echo "imdir:" $imdir
 setname=${imdir##*/}
+echo "setname:" $setname
+echo "PWD:" $PWD
 if [ $# -eq 2 -a "$2" = "-zoning" ]
 then
   config=unlv.auto
@@ -50,6 +54,7 @@ else
   config=unlv
   resdir=testing/results/$setname
 fi
+echo "resdir:" $resdir
 echo -e "Testing on set $setname in directory $imdir to $resdir\n"
 mkdir -p $resdir
 rm -f testing/reports/$setname.times
@@ -57,6 +62,8 @@ while read page dir
 do
   # A pages file may be a list of files with subdirs or maybe just
   # a plain list of files so accommodate both.
+  echo "dir:" $dir
+  echo "page:" $page
   if [ "$dir" ]
   then
      srcdir="$imdir/$dir"
@@ -64,7 +71,8 @@ do
      srcdir="$imdir"
   fi
 #  echo "$srcdir/$page.tif"
-  $tess $srcdir/$page.tif $resdir/$page --psm 6 $config 2>&1 |grep -v "OCR Engine"
+  echo $tess $srcdir/$page.tif $resdir/$page --psm 6 $config #2>&1 |grep -v "OCR Engine"
+  $tess $srcdir/$page.tif $resdir/$page --psm 6 $config #2>&1 |grep -v "OCR Engine"
   if [ -r times.txt ]
   then
     read t <times.txt
