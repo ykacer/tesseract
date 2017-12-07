@@ -1,0 +1,4078 @@
+UNLV-ISRI OCR Accuracy Report Version 5.1
+-----------------------------------------
+  492080   Characters
+   45435   Errors
+   90.77%  Accuracy
+
+     883   Reject Characters
+     670   Suspect Markers
+     338   False Marks
+    0.32%  Characters Marked
+   92.99%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+    1034      761     9158    10953   Marked
+    9820     7551    17111    34482   Unmarked
+   10854     8312    26269    45435   Total
+
+   Count   Missed   %Right
+   83467     2170    97.40   ASCII Spacing Characters
+   17536     1838    89.52   ASCII Special Symbols
+    3871      360    90.70   ASCII Digits
+   18963     2089    88.98   ASCII Uppercase Letters
+  368243    12709    96.55   ASCII Lowercase Letters
+  492080    19166    96.11   Total
+
+  Errors   Marked   Correct-Generated
+     821      821   {}-{~<\n>positions at its Ca...}
+     573        0   {}-{Hundreds try to make sen...}
+     549        0   {Previous positions: Chai...}-{}
+     509        0   {}-{narrowly last fall to re...}
+     483        0   {}-{U.S. attorney at the sam...}
+     480      480   {}-{A<\n>effect next year, t...}
+     458        0   {}-{The nearby trailer park ...}
+     439      439   {}-{teacher, for integrated ...}
+     421      421   {}-{Falcone has appealec<\n>...}
+     412      412   {}-{likely that the parent h...}
+     383      383   {}-{~<\n>~<\n>~<\n>Neighbors...}
+     370      370   {}-{~~<\n>~<\n>~<\n>Latm'lme...}
+     362        0   {}-{Energy and Commerce pane...}
+     354        0   {different now," said Joa...}-{}
+     326        0   {}-{to a comatose state on T...}
+     316        0   {.}-{,}
+     316        0   {}-{indicted.<\n>The investi...}
+     267        0   {People wishing to send m...}-{}
+     267        0   {}-{People wishing to send m...}
+     256        0   {BEZACK: Jett's math teac...}-{}
+     240      240   {}-{~<\n>~<\n>~<\n>~<\n>~...}
+     230      230   {}-{~<\n>}
+     230      230   {}-{~<\n>~<\n>A CRY AND A SM...}
+     228        0   {.}-{}
+     219        0   {}-{"But the truth is everyt...}
+     215      215   {}-{"00<\n>~<\n>~<\n>Leollll...}
+     212        0   {(Photo by Dorab Khandala...}-{}
+     181        0   {}-{"I think maybe there are...}
+     178      178   {}-{(Foster) had<\n>any of t...}
+     176        0   {Vince (Foster) had<\n>an...}-{}
+     170        0   {Napa (~18-20)<\n>Concent...}-{}
+     168        0   {U.S. soccer fans bare th...}-{}
+     168        0   {}-{no longer see kids walki...}
+     166        0   {Sarah Chopp, from left, ...}-{}
+     166        0   {}-{.}
+     162        0   {}-{. }
+     154        0   {}-{Efforts to avoid journal...}
+     148      148   {}-{ates of worien: 5 to da ...}
+     148        0   {}-{| }
+     145        0   {}-{rtment of Model Citles, ...}
+     142      142   {}-{~<\n>" We're the only ci...}
+     141      141   {}-{ team,. Every<\n>anes in...}
+     141      141   {}-{ts who want to report pr...}
+     137        0   {<\n>Best and worst lists...}-{}
+     134        0   {}-{st to meetings, a<\n>eac...}
+     125        0   {16 +under 17 +over Total...}-{}
+     125        0   {}-{:}
+     123        0   {Reuters file photo<\n>Th...}-{}
+     123        0   {}-{H<\n>Burn technician Gar...}
+     119        0   {`Simply to live under...}-{}
+     117        0   {}-{a |<\n>Astocated Pres...}
+     115        0   {}-{onvertible<\n>Cadillac D...}
+     114        0   {his own youth in North B...}-{}
+     110      110   {}-{~~~<\n>~~<\n>H<\n>~ ~~...}
+     108      108   {}-{~<\n>= Unsettled by elec...}
+     107      107   {}-{35<\n>342<\n>335<\n>3...}
+     106      106   {}-{ Fa Netharlands® 10.5%...}
+     106        0   {.<\n>`I think maybe<\n>t...}-{}
+     106        0   {}-{- }
+     105        0   {who has contracted with ...}-{}
+     105        0   {~ Unsettled by election:...}-{}
+     101        0   {book with James Morgan i...}-{}
+     100      100   {}-{x $ Brazil mmm 3.7%<\n>*...}
+      98       98   {}-{elson Mandela, expected ...}
+      98        0   {ASSOCIATED PRESS<\n>A fl...}-{}
+      96       96   {}-{its public distribution....}
+      96        0   {on compromise for approv...}-{}
+      96        0   {}-{1988. anc<\n>illness de...}
+      96        0   {}-{Marcy Eisenberg and Shan...}
+      95        0   {-}-{}
+      95        0   {}-{unde<\n>cial &<\n>itself...}
+      92       92   {}-{~ ~~<\n>~<\n>Asociared P...}
+      91        0   {REAC}-{Some officers have fixed...}
+      91        0   {}-{l of<\n>gunpowder that c...}
+      90        0   {,}-{.}
+      89       89   {}-{Koos Calitz, regional po...}
+      89        0   {}-{'Health and safety<\n>ar...}
+      88        0   {}-{zirah Sheraton, t<\n>neg...}
+      87        0   {SU}-{form of the racism they ...}
+      86        0   {STEVE DEAL / Staff<\n>A ...}-{}
+      84        0   {}-{just cause them more hea...}
+      83       83   {}-{~<\n>Special<\n>Horse ra...}
+      82        0   {"It wiped out my<\n>nurs...}-{}
+      81        0   {it's hockey and basketba...}-{}
+      80        0   {}-{they realize they have s...}
+      79       79   {}-{People hit by stray bull...}
+      78       78   {}-{~<\n>~<\n>~<\n>~<\n>Tank...}
+      77        0   {}-{the scandal; two House m...}
+      74       74   {}-{wn with<\n>the newspaper...}
+      72       72   {}-{g<\n>. J- Mexico _s<\n>F...}
+      72        0   {}-{ Passover, wh<\n>Jews ob...}
+      72        0   {}-{Effort with Industrial U...}
+      72        0   {}-{honna Bates,<\n>as funer...}
+      70       70   {}-{~<\n>~<\n>~<\n>Sirsa Wai...}
+      70       70   {}-{~<\n>~~~<\n>~<\n>~ ~<\n>...}
+      70        0   {}-{"This is a new day," Cis...}
+      70        0   {}-{Washington port town onc...}
+      70        0   {}-{exwale (right), premier ...}
+      70        0   {}-{oud<\n>when Jett got int...}
+      69        0   {ancient Mayan practices,...}-{}
+      68       68   {}-{tlass four-door<\n>Oldsm...}
+      67       67   {}-{~<\n>¢.<\n>| &<\n>TME ST...}
+      66       66   {}-{an Republic AIIM 4.4%...}
+      66        0   {}-{ical-practice group. As...}
+      65       65   {}-{tors for another purpose...}
+      65        0   {anywhere. What good<\n>i...}-{}
+      65        0   {}-{zs,<\n>10, a catcher and...}
+      64        0   {}-{ys the failure rate for ...}
+      62        0   {}-{mpact of the major leagu...}
+      61        0   {}-{iped out my<\n>nursery i...}
+      60       60   {}-{wee clan aie bra 2<\n>~~...}
+      60       60   {}-{~<\n>A once-hip sport is...}
+      60        0   {two-door Pontiac Grand P...}-{S}
+      60        0   {}-{ A<\n>YEARBOOK PHOTO: Or...}
+      60        0   {}-{ would be<\n>the first c...}
+      60        0   {}-{ |}
+      60        0   {}-{pate i<\n>Mo<\n>proac...}
+      58       58   {1994}-{Strange leglslatlve sess...}
+      58       58   {}-{ Nows via AF<\n>CHRISTOP...}
+      58        0   {Clinton may be<\n>losing...}-{}
+      56       56   {}-{~<\n>A movie will bring ...}
+      56       56   {}-{~<\n>~<\n>}
+      56       56   {}-{~<\n>~<\n>~<\n>~~<\n>A...}
+      56        0   {Strange legislative sess...}-{}
+      56        0   {}-{o,<\n>1981-89; Sen Anton...}
+      55       55   {.}-{<\n>Christmas day in Qui...}
+      55        0   {-}-{:}
+      55        0   {}-{lew in its own chef a...}
+      55        0   {}-{o oy Gorab Emi! Del Pret...}
+      54       54   {}-{ E Q; anima . oxtar~ nor...}
+      52       52   {}-{l but effectively banned...}
+      52       52   {}-{~<\n>A Zulu boy in Umlaz...}
+      52        0   {likely to be stolen: Lea...}-{}
+      51       51   {Daimion Osby, right, acc...}-{~}
+      51        0   {}-{In Western Oregon from t...}
+      51        0   {}-{hem so poor that they ha...}
+      50        0   {}-{e and cre-<\n>ate a digi...}
+      50        0   {}-{r,<\n>house or boat, tha...}
+      49        0   {livestock. His township ...}-{10}
+      49        0   {uld<\n>think of people's...}-{}
+      49        0   {}-{ in the<\n>year followin...}
+      49        0   {}-{ supam: Emirates politic...}
+      49        0   {}-{lly eat their meals sepa...}
+      48       13   {i}-{l}
+      48        0   {e}-{c}
+      48        0   {}-{ Gallery<\n>Bruce Newman...}
+      48        0   {}-{Asset Management Co.<\n>...}
+      48        0   {}-{assistant to vice presid...}
+      47        0   {Ralph Ellison<\n>... `to...}-{}
+      47        0   {}-{teacher at Wickliffe Hig...}
+      46       46   {sits with court-appointe...}-{~}
+      46        0   {NEWHOUSE<\n>The Army has...}-{B}
+      46        0   {}-{ | &,; - gon the sheer s...}
+      46        0   {}-{nsistently opposed such ...}
+      46        0   {}-{pproving casi-<\n>no pac...}
+      45       45   {Nelson Mandela, expected...}-{~}
+      45       45   {speaks to reporters Satu...}-{~}
+      45       45   {}-{ Mn,<\n>1972-74; assista...}
+      45        0   {U.S. unable to stem drug...}-{}
+      45        0   {c}-{e}
+      45        0   {}-{as Britain's vast army o...}
+      45        0   {}-{re fighting<\n>the war i...}
+      45        0   {}-{to he stoien<\n>Ford Tau...}
+      45        0   {}-{y Loss Data institute's ...}
+      44        0   {}-{ Kelley, who wrote her...}
+      44        0   {}-{recognize differences....}
+      43       43   {}-{ahilas tha shuttle cae m...}
+      43       43   {}-{whore han fathan TAL has...}
+      43        0   {fort with Industrial Uni...}-{}
+      43        0   {}-{M Friends and strangers ...}
+      42       42   {bidity of his more recen...}-{~<\n>~<\n>~~}
+      42        0   { }-{}
+      42        0   {Pirates attack fishermen...}-{}
+      42        0   {a}-{e}
+      42        0   {}-{ I see in life. I<\n>som...}
+      42        0   {}-{ predicts<\n>ing ceremon...}
+      42        0   {}-{, estimated by some to b...}
+      41       41   {}-{anined tha uactam Rorlin...}
+      41        0   {}-{searching to find meanin...}
+      40       40   {}-{intallast and charm. hnt...}
+      40        0   {}-{seball left with their k...}
+      39        0   { a perfect<\n>bunt huggi...}-{}
+      39        0   {and basketball.'<\n>-~Ca...}-{}
+      39        0   {}-{ | X/ $% escalation has ...}
+      39        0   {}-{esident Richard M. Nixon...}
+      39        0   {}-{sse complex in Piscatawa...}
+      38       38   {}-{mavemant wasad oin hattl...}
+      38       38   {}-{~~~<\n>f you ever find y...}
+      38        6   {in}-{m}
+      38        1   {}-{'}
+      38        0   {By Ellen Bartlett<\n>GLO...}-{}
+      38        0   {}-{m The governor and House...}
+      37       37   {}-{Serbs raid Gorazde; NATO...}
+      37       37   {}-{shington<\n>fost<\n>Comp...}
+      37        0   {ine in the fourth inning...}-{}
+      37        0   {i}-{I}
+      37        0   {said Mark Brienza,<\n>10...}-{}
+      36       36   {for salmon fishing faces...}-{~}
+      36       36   {}-{~<\n>STEVE WILSON<\n>Rep...}
+      36       36   {}-{~<\n>~<\n>~<\n>}
+      36        0   {HE}-{hey said the practice is...}
+      36        0   {`}-{*<\n>ly don't bave a maj...}
+      36        0   {his body in a wildfire i...}-{}
+      36        0   {}-{ in south-central Los An...}
+      36        0   {}-{ }
+      36        0   {}-{'Employer-paid health pl...}
+      35        0   {Few in kingdom read, wri...}-{}
+      35        0   {}-{. force has its own spec...}
+      35        0   {}-{e<\n>Reno, Cisneros is t...}
+      35        0   {}-{emergency room physician...}
+      34       34   {Employer-paid health pla...}-{~<\n>~}
+      34        0   {RACE}-{that complaining about t...}
+      34        0   {With News Wire Service...}-{C}
+      34        0   {}-{ since 1981 has since be...}
+      34        0   {}-{nflu<\n>ence over public...}
+      34        0   {}-{nt was 'a gentleman," Be...}
+      34        0   {}-{w in kingdom read, write...}
+      33       33   {" We're the only city in...}-{~}
+      33        0   {O}-{hey see no easy solution...}
+      33        0   {d Taurus station wagon...}-{}
+      33        0   {l}-{}
+      33        0   {with extraterrestrials a...}-{}
+      33        0   {}-{ A badge of pride: India...}
+      33        0   {}-{"I said, 'It's not luek....}
+      33        0   {}-{980 ANN - lace than half...}
+      33        0   {}-{e claims for 1994-93 pas...}
+      33        0   {}-{rist, says sexual experi...}
+      32       32   {ASSOCIATED PRESS}-{~}
+      32       32   {Dr. John Mack, a Harvard...}-{~}
+      32       32   {MICHAEL~S. GREEN/The Det...}-{~}
+      32       32   {}-{ETARY, ING &<\n>URBAN DE...}
+      32       32   {}-{~<\n>Coll dill<\n>~<\n>G...}
+      32        1   {e}-{o}
+      32        0   {GENERAL}-{resigned after being cau...}
+      32        0   {SEMBLY}-{enate Republican floor l...}
+      32        0   {r}-{t}
+      32        0   {}-{ "The Oenver Post / Hele...}
+      32        0   {}-{Rcwamnina® ha anid arriv...}
+      32        0   {}-{d base line in the fourt...}
+      32        0   {}-{demands for greater effi...}
+      32        0   {}-{s Duong's works are not ...}
+      31       31   {"But the truth is everyt...}-{~}
+      31       31   {Washington port town onc...}-{~<\n>~<\n>~~~~<\n>9}
+      31       31   {atrist, says sexual expe...}-{~}
+      31       31   {}-{Phina in tha Wast His in...}
+      31       31   {}-{~<\n>~<\n>HOT WHEELS & C...}
+      31        0   {raid Gorazde; NATO jet d...}-{}
+      31        0   {}-{ ball was his main game ...}
+      31        0   {}-{them of the truth. They ...}
+      31        0   {}-{used to map the fingerti...}
+      30       30   {"}-{n steals the show fro~l ...}
+      30       30   {Virginia Kelley, who wro...}-{~}
+      30       30   {~ The governor and House...}-{~}
+      30        0   {s said that wasn't enoug...}-{}
+      30        0   {}-{ -}
+      30        0   {}-{ about all sports, but b...}
+      30        0   {}-{ patients are 1<\n>not l...}
+      29        0   {I}-{| "p__, |. military vict...}
+      29        0   {ailments,<\n>emotional...}-{}
+      29        0   {}-{ slole 156 5. 20k s . 1d...}
+      29        0   {}-{'s leadership in the dis...}
+      29        0   {}-{Mountain gorilfas in Rwa...}
+      29        0   {}-{except in an emergency, ...}
+      29        0   {}-{ne cause of death in the...}
+      29        0   {}-{of breast cancer Jan. 6....}
+      29        0   {}-{to suggest that his son ...}
+      28       28   {SUSAN WALSH~/~ASSOCIATED...}-{~}
+      28       28   {}-{ated Press<\n>i<\n>I<\n>...}
+      28       28   {}-{shavoh sha haveat# io a...}
+      28       28   {}-{~<\n>C222 2 ]<\n>Rocky M...}
+      28        0   {ever find you do have so...}-{}
+      28        0   {ntial but effectively ba...}-{;}
+      28        0   {}-{ By last March, the fath...}
+      28        0   {}-{cf of staff.<\n>At Cairo...}
+      28        0   {}-{halw " Ahildras asatem c...}
+      28        0   {}-{ugh they might as well b...}
+      27       27   {People hit by stray bull...}-{~}
+      27       27   {}-{case he died in office....}
+      27        0   {Hillmann }-{}
+      27        0   {at could<\n>blow up in o...}-{}
+      27        0   {delphia makes for a move...}-{}
+      27        0   {h}-{b}
+      27        0   {i}-{t}
+      27        0   {zi township sells "sjamb...}-{}
+      27        0   {}-{ he was soon offering in...}
+      27        0   {}-{abil Shaath i<\n>optimis...}
+      27        0   {}-{cked look, "W<\n>all lov...}
+      27        0   {}-{hungry?®*<\n>MOROCCAN ST...}
+      27        0   {}-{likely to be stoten:<\n>...}
+      26       26   {}-{~<\n>~~~~<\n>~<\n>~<\n>~...}
+      26        0   {FRICA, PAGE 10<\n>A Zulu...}-{gr}
+      26        0   {}-{ formed opinions about a...}
+      26        0   {}-{: Pages D1 and D3.<\n>po...}
+      26        0   {}-{pointed attorney David B...}
+      25       25   {(Photo by Pim Van Hemmen...}-{~}
+      25       25   {Cl}-{~<\n>~<\n>~ ~ ~<\n>~<\n>...}
+      25       25   {}-{46<\n>~<\n>Previous posl...}
+      25       25   {}-{es for a move- ><\n>~...}
+      25       25   {}-{l whip that<\n>~~~<\n>is...}
+      25        0   {,}-{s get rain forest reserv...}
+      25        0   {l}-{i}
+      25        0   {}-{Duong Thu Huong<\n>Has t...}
+      25        0   {}-{d central thoroughfare, ...}
+      25        0   {}-{n a skill event spon-...}
+      25        0   {}-{ock. His township is a s...}
+      25        0   {}-{s not<\n>part of the sam...}
+      25        0   {}-{s t!<\n>can be done by M...}
+      25        0   {}-{t and worst lists from t...}
+      24       24   {}-{~<\n>1994<\n>GENERAL<\n>...}
+      24       24   {}-{~<\n>New leadership: Tok...}
+      24        0   {"}-{''}
+      24        0   {I}-{will not reprint her por}
+      24        0   {`}-{'}
+      24        0   {victory in Turkey, given}-{._}
+      24        0   {}-{ .}
+      24        0   {}-{ Cabriolet<\n>Ford Musta...}
+      24        0   {}-{ USA TODAY - org and the}
+      24        0   {}-{- William B. McKee. In. }
+      24        0   {}-{ong Inkatha area.<\n>cou...}
+      23       23   {}-{ of<\n>327326531; for an...}
+      23       23   {}-{Drectny<\n>~<\n>crone st...}
+      23       23   {}-{will wi<\n>other ~Israel...}
+      23       23   {}-{~<\n>~~<\n>~<\n>~<\n>~...}
+      23        0   {HAEL<\n>DALY}-{C C naisc an wa mines a}
+      23        0   {ary in the rain forest }-{}
+      23        0   {ight-Ridder<\n>Tribune N...}-{s,<\n>Hollywood, Fla.,...}
+      23        0   {i}-{}
+      23        0   {o}-{a}
+      23        0   {utfielder, who laid dow}-{}
+      23        0   {w}-{ s are th f<\n>I<\n>|...}
+      23        0   {}-{ . The journey of Rich-}
+      23        0   {}-{ies with the best<\n>rec...}
+      23        0   {}-{irport.<\n>African Jews,...}
+      23        0   {}-{u-Natal, won by<\n>domin...}
+      23        0   {}-{was expelled, party off}
+      22       22   {ed}-{tins sas<\n>~~<\n>~~<\n>...}
+      22       22   {}-{~<\n>~<\n>Conents<\n>100...}
+      22        0   {,}-{}
+      22        0   {i}-{t."<\n>- Duong Thu Huong...}
+      22        0   {l}-{t}
+      22        0   {n steals the show from}-{}
+      22        0   {n}-{m}
+      22        0   {}-{MICHAELS. GREEN/The De}
+      22        0   {}-{Th<\n>take tums playing ...}
+      22        0   {}-{e left the Communist P}
+      22        0   {}-{eft out of the<\n>revolu...}
+      22        0   {}-{f<\n>Forestry Commission...}
+      22        0   {}-{our; StrU99!® fOr _ Wh}
+      21       21   {}-{~<\n>( To report problem}
+      21       21   {}-{~<\n>Hillary<\n>Clinton:...}
+      21        0   { them, but the Army s}-{}
+      21        0   {8}-{group that claims 95,}
+      21        0   {ING}-{hey are surprised whe}
+      21        0   {wi}-{ered from the shock e}
+      21        0   {}-{Rutgers University so}
+      21        0   {}-{had labor-management }
+      21        0   {}-{nd Pricfour-door<\n>Olds}
+      21        0   {}-{rcent of the 250,000 }
+      21        0   {}-{ries. However, th<\n>usu}
+      21        0   {}-{s to<\n>support the Amer}
+      20       20   {'I did not know that}-{~}
+      20       20   {SECRETARY, HOUSING &}-{~}
+      20       20   {SPECIAL TO THE GLOBE}-{souoms<\n>~~<\n>~<\n>~~}
+      20       20   {THE ASSOCIATED PRESS}-{~~<\n>vie associren per}
+      20       20   {}-{femme<\n>SUBURES<\n>~...}
+      20       20   {}-{~<\n>~<\n>~<\n>~<\n>~~ ~...}
+      20        0   { `We don't want war'}-{}
+      20        0   { a major league game}-{}
+      20        0   {$1.2 million state g}-{k}
+      20        0   {STAFF}-{stare}
+      20        0   {aid economics forced}-{}
+      20        0   {burns over 75 percen}-{}
+      20        0   {cam-<\n>paign," Antho}-{presidency. pieces a}
+      20        0   {id.<\n>The marriage had}-{stric problems.<\n>"His}
+      20        0   {ns to give them to N}-{b}
+      20        0   {promise her passing }-{}
+      20        0   {r}-{}
+      20        0   {s}-{}
+      20        0   {}-{ . fraced./ Page A20}
+      20        0   {}-{'We don't want war'<\n>}
+      20        0   {}-{c<\n>Adm., George Washi}
+      20        0   {}-{couple of weeks of b}
+      20        0   {}-{d be a ballplayer wh}
+      20        0   {}-{gt Univ. °<\n>SOURCE: F}
+      20        0   {}-{him, and it makes | }
+      20        0   {}-{were having the spee}
+      20        0   {}-{what is at the<\n>botto}
+      19       19   {1990 Robert Mondavi}-{~}
+      19       19   {cabernet sauvignon,}-{~}
+      19       19   {ck to a settlement.}-{n<\n>~<\n>~}
+      19       19   {}-{<\n>~<\n>~<\n>~~ ~<\n>on...}
+      19       19   {}-{h care industry.<\n>hu}
+      19        0   { two-door Oldsmobil}-{}
+      19        0   {," Easter said in a}-{}
+      19        0   {8}-{to chief exes<\n>See V}
+      19        0   {Republic Columnist<\n>}-{}
+      19        0   {WALL STREET JOURNAL}-{o}
+      19        0   {}-{ - losing ground on}
+      19        0   {}-{ . his health plan.}
+      19        0   {}-{ . number of teams,}
+      19        0   {}-{- government-contro}
+      19        0   {}-{4 nelunta hint +an<\n>}
+      19        0   {}-{Ted Darling's wife }
+      19        0   {}-{Ted, and I look at }
+      19        0   {}-{be the luckiest 6ye}
+      19        0   {}-{common fear: being }
+      19        0   {}-{econd opinion from }
+      19        0   {}-{ities, 1970-71;<\n>Dep}
+      19        0   {}-{r that runs softwar}
+      18       18   {Henry Cisneros, 46}-{~}
+      18       18   {Ted Darling's wife}-{~}
+      18       18   {}-{<\n>i Any nme a surge}
+      18       18   {}-{~<\n>NEW ERA<\n>~<\n>~...}
+      18       18   {}-{~<\n>~<\n>Ins<\n>~~~<\n>...}
+      18       18   {}-{~<\n>~<\n>~<\n>~~<\n>~~...}
+      18        0   {-}-{»}
+      18        0   {; still I wouldn't}-{}
+      18        0   {a colorful whip th}-{P}
+      18        0   {a good buy com-<\n>pa}-{vintage.<\n>That al}
+      18        0   {foun-<\n>REFLECTIONS:}-{their farm at a -}
+      18        0   {wonderful:<\n>a bouqu}-{But<\n>saying how I w}
+      18        0   {}-{ '}
+      18        0   {}-{ - MILOOKING BACK:}
+      18        0   {}-{ being the<\n>number }
+      18        0   {}-{ hu Phra Fals aat }
+      18        0   {}-{' }
+      18        0   {}-{cial<\n>say she resig}
+      18        0   {}-{ity-group memt<\n>bec}
+      18        0   {}-{me mad, because - }
+      18        0   {}-{t this<\n>wicked gove}
+      17       17   { Julie and Tricia}-{ic<\n>~<\n>~<\n>L222<\n>...}
+      17       17   {EBORAH SOLOMON}-{eve<\n>~<\n>Minneapolis}
+      17       17   {URBAN DEVELOPMENT}-{~}
+      17       17   {}-{~<\n>Schell<\n>Colbert...}
+      17        0   { Cutlass two-door}-{}
+      17        0   {Associated Press<\n>}-{}
+      17        0   {l}-{ms can pray<\n>anywh}
+      17        0   {oop-withdrawal tr}-{}
+      17        0   {raced. / Page A20}-{o}
+      17        0   {}-{ - ard M. Nixonis}
+      17        0   {}-{ . Clinton may be}
+      17        0   {}-{ a bookseller whi}
+      17        0   {}-{ stem a rising ti}
+      17        0   {}-{"}
+      17        0   {}-{, Education and W}
+      17        0   {}-{,}
+      17        0   {}-{By Terry Ashe, AB}
+      17        0   {}-{Fla.,<\n>sanitation }
+      17        0   {}-{books from on<\n>of }
+      17        0   {}-{e National Regist}
+      17        0   {}-{eek in Cairc<\n>Chri}
+      17        0   {}-{mendment; and th<\n>}
+      17        0   {}-{nd Saudi Arabia a}
+      17        0   {}-{stics<\n>are frighte}
+      17        0   {}-{ted, "those compa}
+      17        0   {}-{uong is influenti}
+      17        0   {}-{vi<\n>ing training t}
+      16       16   {ASSOCIATED PRESS}-{noes<\n>~}
+      16       16   {Associated Press}-{~<\n>~}
+      16       16   {Muslims can pray}-{~}
+      16       16   {STORIES IT COULD}-{access.<\n>~~~<\n>New}
+      16       16   {ta}-{~<\n>~<\n>~<\n>- mem "**...}
+      16       16   {}-{ald<\n>~<\n>in and pla}
+      16       16   {}-{~<\n>~<\n>~<\n>~<\n>}
+      16       16   {}-{~~~<\n>~<\n>~<\n>}
+      16        0   {<\n>firm's founder,}-{ NCAA ?<\n>$10,000}
+      16        0   {ASSOCIATED PRESS}-{associtenpness}
+      16        0   {Thu Huong is inf}-{}
+      16        0   {be permitted out}-{photo. One c<\n>The}
+      16        0   {h<\n>~ Friends and s}-{}
+      16        0   {in Europe. The M}-{}
+      16        0   {tected sex, 150 }-{}
+      16        0   {t}-{}
+      16        0   {}-{ bids 'bon voyag}
+      16        0   {}-{ grave if they k}
+      16        0   {}-{"If a person wan}
+      16        0   {}-{bat troops who w}
+      16        0   {}-{cross Mexic<\n>or a}
+      16        0   {}-{expel Muslims an}
+      16        0   {}-{i}
+      16        0   {}-{n Friday.<\n>dent o}
+      16        0   {}-{ntinued to<\n>easte}
+      16        0   {}-{xtraterrestrials}
+      16        0   {}-{y, with a<\n>comput}
+      16        0   {}-{y<\n>hould be displ}
+      15       15   {REGION IN BRIEF}-{~}
+      15       15   {}-{~~~~<\n>~~<\n>~<\n>~~~~...}
+      15        0   { alike grieve f}-{}
+      15        0   {1,060-megawatt<\n>}-{}
+      15        0   {COUNTY}-{county -_____ |}
+      15        0   {Rocky Mountain<\n>}-{}
+      15        0   {STAFF WRITER<\n>A }-{}
+      15        0   {Schell Colbert<\n>}-{}
+      15        0   {b}-{en Stree<\n>the wi}
+      15        0   {ed most-<\n>ly thi}-{}
+      15        0   {ledge about the}-{!}
+      15        0   {ll looks<\n>perfec}-{}
+      15        0   {medical docs."<\n>}-{}
+      15        0   {o}-{}
+      15        0   {there are only }-{}
+      15        0   {uild the world'}-{}
+      15        0   {with her,"<\n>Gol}-{as scoliosis an}
+      15        0   {}-{ an opera-<\n>tion}
+      15        0   {}-{ believe me," t}
+      15        0   {}-{<\n>shelves."<\n>Miss}
+      15        0   {}-{BEZACK: Jet's m}
+      15        0   {}-{h}
+      15        0   {}-{llare,<\n>1971-72;}
+      15        0   {}-{place, The stat}
+      15        0   {}-{s with them :<\n>P}
+      15        0   {}-{son in the new }
+      14       14   {.}-{<\n>~}
+      14       14   {Burn technicia}-{~~<\n>~~<\n>~<\n>Ro}
+      14       14   {SENTINEL STAFF}-{sexmwet saee<\n>~}
+      14       14   {ensitivities."}-{"<\n>~~<\n>~<\n>~~}
+      14       14   {~ LOOKING BACK:}-{~}
+      14        1   {a}-{u}
+      14        0   { Sherman Oaks }-{ic<\n>}
+      14        0   {-door<\n>Honda Ci}-{}
+      14        0   {Knight-Ridder }-{}
+      14        0   {SMITH/Buffalo }-{}
+      14        0   {Traffic<\n>alert<\n>}-{}
+      14        0   {annel up to 10}-{}
+      14        0   {cal and sexual}-{}
+      14        0   {e, 2-acetyl-5-}-{}
+      14        0   {eport problems}-{<\n>success.<\n>"The}
+      14        0   {last week, re-}-{I}
+      14        0   {rn}-{m}
+      14        0   {s a barrel of<\n>}-{n}
+      14        0   {sidency.<\n>"Pat}-{ way he picked}
+      14        0   {}-{ Chopp, from l}
+      14        0   {}-{ Turkey, given}
+      14        0   {}-{ | _____--____}
+      14        0   {}-{' to the SS La}
+      14        0   {}-{, }
+      14        0   {}-{-theft insuran}
+      14        0   {}-{I<\n>1<\n>|<\n>I<\n>i...}
+      14        0   {}-{committees,"<\n>C}
+      14        0   {}-{d.<\n>He also lea}
+      14        0   {}-{d}
+      14        0   {}-{m'<\n>the America}
+      14        0   {}-{members.<\n>nearl}
+      14        0   {}-{olence in the }
+      14        0   {}-{roit News<\n>Sarc}
+      14        0   {}-{serious proble}
+      14        0   {}-{world's<\n>bigges}
+      13       13   {l marshals to}-{tion<\n>~<\n>~<\n>~}
+      13       13   {versey Avenue}-{~}
+      13       13   {}-{ ~é~gal<\n>the f}
+      13       13   {}-{g as<\n>~~~<\n>~<\n>~...}
+      13       13   {}-{watChlng 5 - }
+      13       13   {}-{~<\n>AP Photo<\n>~<\n>}
+      13        0   { -~ and `great}-{}
+      13        0   { about that,"}-{}
+      13        0   { medical-prac}-{sul<\n>assuming }
+      13        0   { proud<\n>Quaker}-{nd . spenthis}
+      13        0   {'}-{}
+      13        0   {,}-{ should<\n>think}
+      13        0   {<\n>Wednesday on}-{ - MEMORIES:}
+      13        0   {ANGELES TIMES}-{sommes}
+      13        0   {Jessica Lee<\n>U}-{I}
+      13        0   {STAFF WRITERS}-{sma}
+      13        0   {ast March, th}-{ooked lik}
+      13        0   {e-election as}-{}
+      13        0   {er who would }-{}
+      13        0   {homemade trib}-{sur-. Poll fo}
+      13        0   {like to get t}-{f}
+      13        0   {pro}-{cells : ; " a}
+      13        0   {p}-{week.<\n>In a ce}
+      13        0   {royed only 30}-{s a surviving}
+      13        0   {s L. Patterso}-{}
+      13        0   {s,<\n>Hollywood,}-{ight-Ridder}
+      13        0   {stead of brin}-{}
+      13        0   {the New York }-{}
+      13        0   {vent the form}-{}
+      13        0   {viving peach}-{op.<\n>assocnten}
+      13        0   {v}-{y}
+      13        0   {}-{ surgeon who }
+      13        0   {}-{- Shirley _ '}
+      13        0   {}-{Philadelphia }
+      13        0   {}-{U.S. unable t}
+      13        0   {}-{es attack fis}
+      13        0   {}-{g a street an}
+      13        0   {}-{ion from Prij}
+      13        0   {}-{s,<\n>Hollywood,}
+      13        0   {}-{s.<\n>According }
+      13        0   {}-{s}
+      13        0   {}-{ular old work}
+      13        0   {}-{us grower<\n>war}
+      12       12   { achieve'<\n>By}-{rld}
+      12       12   { to find }-{ta~ndap~r~ml}
+      12       12   {STEVE WILSON}-{~~}
+      12       12   {}-{ and ~presic}
+      12       12   {}-{- -<\n>~<\n>U<\n>sts<\n>}
+      12       12   {}-{~<\n>usa Topay<\n>}
+      12       12   {}-{~~~<\n>}
+      12        0   { Cutlass fou}-{}
+      12        0   { it's hockey}-{}
+      12        0   { nearby<\n>runn}-{dy will lie }
+      12        0   {"This is a n}-{bl}
+      12        0   {332-1088, op}-{we<\n>sys}
+      12        0   {3}-{8}
+      12        0   {9}-{8}
+      12        0   {: "My daugh-}-{}
+      12        0   {<\n>political t}-{}
+      12        0   {ASSOCIATED P}-{}
+      12        0   {HRISTOPHER:}-{hristopher |}
+      12        0   {I}-{T}
+      12        0   {NEWS SERVICE}-{service}
+      12        0   {RESS}-{ress}
+      12        0   {SAN FRANCISC}-{2}
+      12        0   {SSOCIA}-{ssocia}
+      12        0   {TAFF}-{tare}
+      12        0   {URBS}-{ias, Page A1}
+      12        0   {agon<\n>Ford Mu}-{}
+      12        0   {a}-{}
+      12        0   {cells<\n>Still,}-{an<\n>Y ers are}
+      12        0   {ector who is}-{}
+      12        0   {h}-{}
+      12        0   {it would be }-{m}
+      12        0   {l-}-{k}
+      12        0   {lottery, you}-{1}
+      12        0   {ly don't hav}-{}
+      12        0   {ly, military}-{/A}
+      12        0   {l}-{f}
+      12        0   {l}-{nd a survey }
+      12        0   {l}-{program cons}
+      12        0   {n Stewart<\n>an}-{}
+      12        0   {nse.<\n>"They d}-{ol found ne}
+      12        0   {nt expressed}-{}
+      12        0   {n}-{}
+      12        0   {om. Winter<\n>d}-{rchard, insp}
+      12        0   {on't be in v}-{}
+      12        0   {picked right}-{two 5<\n>son's}
+      12        0   {powerful a}-{It's<\n>somethi}
+      12        0   {s<\n>$10,000 o}-{t down $<\n>tra}
+      12        0   {tranquiliz-<\n>}-{million copi}
+      12        0   {ushed earthe}-{}
+      12        0   {yellow-hued<\n>}-{}
+      12        0   {y}-{ights.<\n>While}
+      12        0   {}-{ - Miss Duon}
+      12        0   {}-{ College: fo}
+      12        0   {}-{ and this is}
+      12        0   {}-{ attend Tue:}
+      12        0   {}-{ ered up a b}
+      12        0   {}-{ fices in t!}
+      12        0   {}-{ ocratic Nat}
+      12        0   {}-{ real.<\n>the e}
+      12        0   {}-{/ Staff<\n>m A }
+      12        0   {}-{<\n>Rutgers/IUC}
+      12        0   {}-{LANSBUBY -- }
+      12        0   {}-{a county hos}
+      12        0   {}-{e icc cc]<\n>an}
+      12        0   {}-{in the ca<\n>ma}
+      12        0   {}-{ks measured }
+      12        0   {}-{luminum stan}
+      12        0   {}-{m adl<\n>decidi}
+      12        0   {}-{o be met wit}
+      12        0   {}-{public ac-<\n>c}
+      12        0   {}-{s to<\n>. put t}
+      12        0   {}-{to see what }
+      11       11   {MBURG DAILY}-{tt mumumom}
+      11       11   {d<\n>Charles,}-{y Fur mundm}
+      11       11   {}-{~<\n>~<\n>~~<\n>~<\n>~...}
+      11        0   { COLD MODEL}-{}
+      11        0   { Kenya, and}-{}
+      11        0   { `No tanks'}-{}
+      11        0   { candidate.}-{}
+      11        0   { network TV}-{}
+      11        0   { species is}-{}
+      11        0   {. It's<\n>some}-{erful and }
+      11        0   {<\n>Associated}-{}
+      11        0   {<\n>Hollywood,}-{}
+      11        0   {<\n>}-{ PRISON PRO}
+      11        0   {ASSOCIATED }-{}
+      11        0   {A}-{commissione}
+      11        0   {Hundreds tr}-{B}
+      11        0   {London woma}-{his relatio}
+      11        0   {Until now,<\n>}-{}
+      11        0   {a combinati}-{Bordeaux,<\n>s}
+      11        0   {bain's pain}-{ney....<\n>He}
+      11        0   {b}-{h}
+      11        0   {chauffeur-<\n>}-{}
+      11        0   {first round}-{.. (gether}
+      11        0   {have the sa}-{}
+      11        0   {ive days af}-{}
+      11        0   {l}-{th extensiv}
+      11        0   {mixed-race }-{}
+      11        0   {nesburg.}-{d police st}
+      11        0   {n}-{ Gov. Chris}
+      11        0   {of<\n>four men}-{"That<\n>flag}
+      11        0   {omen will w}-{}
+      11        0   {o}-{pen farmlan}
+      11        0   {respects.<\n>a}-{acl<\n>grou}
+      11        0   {rnet sauvig}-{ Scrip<\n>is a}
+      11        0   {s Chateau<\n>L}-{nces<\n>for g}
+      11        0   {the sheer s}-{}
+      11        0   {truth. They}-{_ pominick}
+      11        0   {y<\n>MEMORIES:}-{espects.}
+      11        0   {z}-{use it woul}
+      11        0   {}-{ - Page 14.}
+      11        0   {}-{ Darling Sa}
+      11        0   {}-{ and respec}
+      11        0   {}-{ during his}
+      11        0   {}-{ enlightenn}
+      11        0   {}-{ from histo}
+      11        0   {}-{ grace amic}
+      11        0   {}-{ he dogged)}
+      11        0   {}-{ in Novembe}
+      11        0   {}-{ |__ Africa}
+      11        0   {}-{"They didn'}
+      11        0   {}-{."<\n>*> _ - M}
+      11        0   {}-{John manage}
+      11        0   {}-{Kenya, and<\n>}
+      11        0   {}-{WASHINGTON }
+      11        0   {}-{hatman of<\n>C}
+      11        0   {}-{icles.<\n>Most}
+      11        0   {}-{lives<\n>inste}
+      11        0   {}-{longer.<\n>By }
+      11        0   {}-{ted Nati<\n>Hi}
+      11        0   {}-{to achieve }
+      11        0   {}-{udy publish}
+      11        0   {}-{won, while }
+      10       10   { near Gaza}-{."<\n>~}
+      10       10   {TO TEST OR}-{~~<\n>~}
+      10       10   {The Galler}-{~<\n>~<\n>~~<\n>it}
+      10       10   {ease.}-{<\n>~ ~<\n>~~~ ~}
+      10       10   {study show}-{~<\n>a on<\n>alr}
+      10       10   {}-{he "$150n }
+      10       10   {}-{~<\n>Reuters }
+      10       10   {}-{~<\n>~<\n>~<\n>~~~<\n>}
+      10        8   {ti}-{u}
+      10        3   {}-{l}
+      10        2   {ri}-{n}
+      10        1   {}-{«}
+      10        0   { flourish.}-{}
+      10        0   { little-kn}-{ge had t}
+      10        0   {"}-{}
+      10        0   {$80-$100}-{sauvignons}
+      10        0   {1992, Coba}-{hospital }
+      10        0   {<\n>S}-{ Most of t}
+      10        0   {<\n>chara}-{annins, bu}
+      10        0   {ABC}-{F<\n>gotiator}
+      10        0   {ASSOCIATED}-{assocnreo}
+      10        0   {ASSOCIATED}-{assocnten}
+      10        0   {ASSOCIATED}-{assoonten}
+      10        0   {By Hubert }-{}
+      10        0   {Chronicle<\n>}-{}
+      10        0   {PNINI,<\n>coo}-{}
+      10        0   {PRESS}-{rress}
+      10        0   {RITER}-{aren}
+      10        0   {WASHINGTON}-{is}
+      10        0   {Yo}-{is necessa}
+      10        0   {a circular}-{soil. They}
+      10        0   {ails again}-{}
+      10        0   {andchildre}-{by .. paig}
+      10        0   {a}-{of people'}
+      10        0   {a}-{them, fite}
+      10        0   {blems with}-{<\n>Piazza of}
+      10        0   {bscurity<\n>t}-{n woman wh}
+      10        0   {b}-{cent of Bo}
+      10        0   {day," Cisn}-{th}
+      10        0   {e luckiest}-{ampionship}
+      10        0   {e<\n>Mountain}-{y be WJC.}
+      10        0   {emergency,}-{about}
+      10        0   {escalation}-{#}
+      10        0   {e}-{ f JA - f<\n>}
+      10        0   {fe.<\n>"It}-{s physical}
+      10        0   {fl}-{and the Un}
+      10        0   {f}-{shing hous}
+      10        0   {ighed<\n>down}-{cep-<\n>tive,}
+      10        0   {in.<\n>By Jam}-{rr}
+      10        0   {lated by L}-{}
+      10        0   {ldren<\n>Furt}-{s wife, P}
+      10        0   {lls<\n>should}-{ treatment}
+      10        0   {lucky }-{growths.<\n>S}
+      10        0   {most<\n>exp}-{al-<\n>ways s}
+      10        0   {next round}-{game.}
+      10        0   {of Rich-<\n>a}-{tu}
+      10        0   {ommission,}-{}
+      10        0   {on Gorazde}-{0}
+      10        0   {opinion fr}-{it agree<\n>h}
+      10        0   {os said th}-{}
+      10        0   {o}-{e}
+      10        0   {past year.}-{unknown}
+      10        0   {r station }-{}
+      10        0   {ry he<\n>woul}-{}
+      10        0   {s instead.}-{}
+      10        0   {s late as }-{}
+      10        0   {s of alco-}-{}
+      10        0   {s,}-{nding<\n>upon}
+      10        0   {s.<\n>"<\n>ARIEH}-{}
+      10        0   {streets,"}-{Cobain off}
+      10        0   {t<\n>Supermax}-{pe- - been}
+      10        0   {t<\n>is used }-{}
+      10        0   {to inquire}-{underdogs}
+      10        0   {to<\n>thos}-{very weigh}
+      10        0   {ucks}-{-g:<\n>WHAT'S}
+      10        0   {wever,<\n>was}-{ld . of}
+      10        0   {w}-{}
+      10        0   {}-{ ,}
+      10        0   {}-{ In the 20}
+      10        0   {}-{ Ron Nygre}
+      10        0   {}-{ World Wat}
+      10        0   {}-{ bookselle}
+      10        0   {}-{ in Londot}
+      10        0   {}-{ man, sena}
+      10        0   {}-{ multiraci}
+      10        0   {}-{ recommend}
+      10        0   {}-{ sitting d}
+      10        0   {}-{ went on t}
+      10        0   {}-{, so long }
+      10        0   {}-{," he said}
+      10        0   {}-{: }
+      10        0   {}-{Duong Thu }
+      10        0   {}-{_ }
+      10        0   {}-{a A<\n>"T<\n>m<\n>C}
+      10        0   {}-{cer-la-<\n>cr}
+      10        0   {}-{drank writ}
+      10        0   {}-{e}
+      10        0   {}-{flag on hi}
+      10        0   {}-{has broad }
+      10        0   {}-{ir goal<\n>ki}
+      10        0   {}-{n Gorazde<\n>}
+      10        0   {}-{tea and pa}
+      10        0   {}-{the<\n>Op "(h}
+      10        0   {}-{training. }
+      10        0   {~}-{<\n>By rory AP}
+       9        9   { dismayin}-{o<\n>~<\n>Eg}
+       9        9   {NEW}-{~<\n>~~~<\n>~<\n>~}
+       9        9   {WILBUR G.}-{~<\n>~}
+       9        9   {isconsin,}-{o New; }
+       9        9   {pe}-{Ftory, - }
+       9        9   {}-{ DALY a 8}
+       9        9   {}-{ in SOUth}
+       9        9   {}-{C lilo<\n>~<\n>}
+       9        9   {}-{he-<\n>ever }
+       9        9   {}-{ug-traf~c}
+       9        9   {}-{~<\n>Virgini}
+       9        9   {}-{~<\n>had bee}
+       9        9   {}-{~<\n>mans l<\n>}
+       9        9   {}-{~<\n>~<\n>~<\n>+- }
+       9        9   {}-{~~<\n>}
+       9        9   {}-{~~<\n>~<\n>~<\n>~<\n>}
+       9        0   { becoming}-{}
+       9        0   { curious.}-{t,}
+       9        0   { same vin}-{re<\n>tion: }
+       9        0   { success.}-{}
+       9        0   { whirl-<\n>w}-{nse,"<\n>sa}
+       9        0   {"<\n>Gaza~.~.~.~}-{tect}
+       9        0   {"}-{'}
+       9        0   {'}-{"}
+       9        0   {(}-{Inkatha F}
+       9        0   {, that's<\n>}-{ion Depar}
+       9        0   {, violet}-{s-<\n>es say}
+       9        0   {, }-{s;<\n>delici}
+       9        0   {,<\n>which r}-{ 22-year-}
+       9        0   {.<\n>A group}-{ turmoil,}
+       9        0   {1968,<\n>}-{blocks . }
+       9        0   {:}-{tlanta<\n>At}
+       9        0   {<\n>ANALYSIS}-{ - fc}
+       9        0   {Bordeaux}-{wines set}
+       9        0   {Caggiano }-{of t}
+       9        0   {Illinois }-{}
+       9        0   {Illinois<\n>}-{}
+       9        0   {K}-{ In |- \"}
+       9        0   {MI}-{12. (O9 T}
+       9        0   {PROTEST:}-{also will}
+       9        0   {SSOCIATED}-{ssociateo}
+       9        0   {SSOCIATED}-{ssociren}
+       9        0   {SSOCIATED}-{ssocisren}
+       9        0   {SSOCIATED}-{ssocnten}
+       9        0   {THOMPSON<\n>}-{}
+       9        0   {a day wit}-{}
+       9        0   {a<\n>lo}-{- speeche}
+       9        0   {agen Cabr}-{}
+       9        0   {ain's def}-{scurity<\n>d}
+       9        0   {answer<\n>br}-{could g}
+       9        0   {arteries }-{}
+       9        0   {cal devic}-{sky," h}
+       9        0   {car,<\n>hou}-{the<\n>city'}
+       9        0   {convince<\n>}-{Fa}
+       9        0   {d M. Nixo}-{}
+       9        0   {dy lower}-{uvi-<\n>gnon}
+       9        0   {ebel<\n>flag}-{k,<\n>"This}
+       9        0   {embraced }-{}
+       9        0   {ey....<\n>He}-{."<\n>Cobain}
+       9        0   {federate }-{}
+       9        0   {girl's de}-{P}
+       9        0   {gony was }-{s a cul-<\n>}
+       9        0   {growth}-{expensive}
+       9        0   {his prob-}-{Aberdeen.}
+       9        0   {h}-{ 125 prot}
+       9        0   {if necess}-{}
+       9        0   {is<\n>year's}-{e kitchen}
+       9        0   {lif., kne}-{m- - expr}
+       9        0   {ll.}-{L}
+       9        0   {motiva-<\n>t}-{is a comb}
+       9        0   {mpionship}-{d, | from}
+       9        0   {m}-{r will th}
+       9        0   {of Nirvan}-{Osborne, }
+       9        0   {onchitis}-{uary 1992}
+       9        0   {poor<\n>soil}-{in 1968, }
+       9        0   {r say thi}-{ment cell}
+       9        0   {rrels, fr}-{ys,<\n>Coba}
+       9        0   {ructive p}-{ween a fr}
+       9        0   {s in 1922}-{,<\n>Tuesday}
+       9        0   {says.<\n>"In}-{I wanted}
+       9        0   {so}-{by the Ra}
+       9        0   {spapers w}-{}
+       9        0   {st}-{ $80-$100}
+       9        0   {tar, he w}-{ joined<\n>L}
+       9        0   {tastings:}-{from - |}
+       9        0   {too.<\n>Fir}-{sauvignon}
+       9        0   {w I went }-{nderful:<\n>}
+       9        0   {y call<\n>th}-{id. "<\n>fiv}
+       9        0   {y}-{ Sotnmiox}
+       9        0   {}-{ Nixon, t}
+       9        0   {}-{ __. __..}
+       9        0   {}-{ de<\n>stati}
+       9        0   {}-{ former s}
+       9        0   {}-{ guards w}
+       9        0   {}-{.<\n>taching}
+       9        0   {}-{<\n>new work}
+       9        0   {}-{ANALYSIS<\n>}
+       9        0   {}-{and crew }
+       9        0   {}-{deral Slo}
+       9        0   {}-{ere}
+       9        0   {}-{est in no}
+       9        0   {}-{lleagues }
+       9        0   {}-{mm ___;<\n>m}
+       9        0   {}-{o<\n>build t}
+       9        0   {}-{ogram<\n>hop}
+       9        0   {}-{ould<\n>rise}
+       9        0   {}-{ry Cisner}
+       9        0   {}-{r}
+       9        0   {}-{s along T}
+       9        0   {}-{say 'shal}
+       9        0   {}-{ssocmrep }
+       9        0   {}-{the<\n>FDA s}
+       9        0   {}-{to<\n>Then-P}
+       9        0   {}-{to<\n>those }
+       9        0   {}-{us all.' }
+       8        8   {<\n>COBAIN:}-{}}
+       8        8   {AP Photo}-{~}
+       8        8   {LANSBURY}-{~~~ ~<\n>~}
+       8        8   {his use }-{c~~mw t}
+       8        8   {in South}-{~<\n>~~<\n>~~~}
+       8        8   {l<\n>the }-{ifor-<\n>~<\n>}
+       8        8   {med, the}-{<\n>~<\n>~<\n>~}
+       8        8   {physical}-{~ ~}
+       8        8   {problems}-{his<\n>wife}
+       8        8   {rt}-{m.<\n>~<\n>Med}
+       8        8   {ys she b}-{ cxrcul}
+       8        8   {}-{ M|c L ¢}
+       8        8   {}-{'l'~'f~f}
+       8        8   {}-{~ }
+       8        8   {}-{~<\n>| }
+       8        8   {}-{~<\n>~ ~<\n>~<\n>}
+       8        8   {}-{~<\n>~~~<\n>~<\n>}
+       8        1   {r}-{v}
+       8        0   { $20-$50}-{deaux'-}
+       8        0   { al-}-{pe-fruit}
+       8        0   { ballpla}-{}
+       8        0   { breakth}-{-known<\n>}
+       8        0   { call}-{hough th}
+       8        0   { failure}-{ons who}
+       8        0   { four,}-{<\n>typical}
+       8        0   { future.}-{}
+       8        0   { or m}-{r-<\n>venti}
+       8        0   { reserve}-{}
+       8        0   { you can}-{-<\n>Brion,}
+       8        0   {"Neverm}-{be chatt}
+       8        0   {,<\n>}-{ Rutgers}
+       8        0   {-<\n>es say}-{, viclet}
+       8        0   {.,<\n>sanit}-{ recre}
+       8        0   {1993.<\n>Tu}-{"In spit}
+       8        0   {6-year-o}-{wou}
+       8        0   {:}-{rovinces}
+       8        0   {<\n>biggest}-{}
+       8        0   {<\n>ers are}-{ Still,}
+       8        0   {<\n>expre}-{ . on hi}
+       8        0   {<\n>known}-{- .- 20d}
+       8        0   {<\n>son's a}-{ "I thou}
+       8        0   {<\n>}-{ }
+       8        0   {Although}-{Rey,}
+       8        0   {Bill Hay}-{promis}
+       8        0   {DEUTSCHE}-{neutsone}
+       8        0   {Fla.,<\n>sa}-{'<\n>Tribu}
+       8        0   {I asked<\n>}-{meeting }
+       8        0   {INQUIRER}-{nge meen}
+       8        0   {PRISON}-{Supermax}
+       8        0   {aid.}-{}
+       8        0   {ally<\n>se}-{. D<\n>Wint}
+       8        0   {at<\n>Ted, }-{diwwri}
+       8        0   {at<\n>him, }-{w}
+       8        0   {ath in G}-{f}
+       8        0   {atting a}-{irl:<\n>wi}
+       8        0   {aux,<\n>or,}-{t<\n>cassis}
+       8        0   {cause<\n>he}-{}
+       8        0   {controve}-{900-squa}
+       8        0   {convince}-{}
+       8        0   {d down t}-{}
+       8        0   {d<\n>abou}-{ an inma}
+       8        0   {d<\n>draped}-{n insult}
+       8        0   {dish mi-}-{}
+       8        0   {dy will}-{ntrover-}
+       8        0   {earchers}-{}
+       8        0   {erstar.}-{rob<\n>lems}
+       8        0   {e}-{}
+       8        0   {friende}-{r,"'<\n>Gol}
+       8        0   {g<\n>upon}-{es share}
+       8        0   {has clos}-{T}
+       8        0   {he mis-<\n>}-{ional bu}
+       8        0   {hey<\n>were}-{}
+       8        0   {his main}-{Produce}
+       8        0   {icans he}-{}
+       8        0   {im.<\n>Hi}-{at he wa}
+       8        0   {ing-away}-{ld}
+       8        0   {ion."<\n>C}-{ar, he w}
+       8        0   {ir wagon}-{ople}
+       8        0   {itle.<\n>"I}-{ round}
+       8        0   {market'}-{put f<\n>ba}
+       8        0   {m}-{a, Saraj}
+       8        0   {nd}-{t least,}
+       8        0   {only<\n>tw}-{sucker f}
+       8        0   {opinions}-{Several}
+       8        0   {o}-{c}
+       8        0   {party Th}-{b}
+       8        0   {p}-{}
+       8        0   {rate for}-{¢<\n>making}
+       8        0   {rchard,}-{yed only}
+       8        0   {re<\n>told }-{t as muc}
+       8        0   {repor}-{alignmen}
+       8        0   {returned}-{|}
+       8        0   {ry Spike}-{s}
+       8        0   {ry}-{ Se<\n>seek}
+       8        0   {s 33-y~~r-}-{}
+       8        0   {saw<\n>him}-{C & S to}
+       8        0   {so well }-{!<\n>brough}
+       8        0   {st choic}-{}
+       8        0   {struggle}-{1993. an}
+       8        0   {s}-{fully, w}
+       8        0   {t.}-{ $20-850}
+       8        0   {that}-{in}
+       8        0   {the entr}-{Florid}
+       8        0   {the firs}-{enough }
+       8        0   {tween a}-{rmind,".}
+       8        0   {u<\n>Latour}-{st in my}
+       8        0   {unpowder}-{}
+       8        0   {vignons }-{ch as Ch}
+       8        0   {which hi}-{defender}
+       8        0   {w}-{hour-by-}
+       8        0   {y sold}-{ peace,"}
+       8        0   {ys later}-{id.<\n>"But}
+       8        0   {y}-{}
+       8        0   {}-{ !}
+       8        0   {}-{ ;}
+       8        0   {}-{ I}
+       8        0   {}-{ Securit}
+       8        0   {}-{ at look}
+       8        0   {}-{ doles h}
+       8        0   {}-{ says sh}
+       8        0   {}-{ to conv}
+       8        0   {}-{affic<\n>al}
+       8        0   {}-{c.<\n>"Robi}
+       8        0   {}-{ients,<\n>t}
+       8        0   {}-{in Bay o}
+       8        0   {}-{le:<\n>publ}
+       8        0   {}-{low.shad}
+       8        0   {}-{nce - di}
+       8        0   {}-{n}
+       8        0   {}-{o Riyadh}
+       8        0   {}-{s evacua}
+       8        0   {}-{s<\n>I can }
+       8        0   {}-{t for on}
+       8        0   {}-{the publ}
+       8        0   {}-{the }
+       8        0   {}-{woos... }
+       7        7   { Indi}-{fflff h}
+       7        7   { a}-{<\n>~<\n>~<\n>I<\n>}
+       7        7   {-}-{~}
+       7        7   {.}-{<\n>~~ ~ ~}
+       7        7   {Africa}-{~~<\n>~<\n>~~}
+       7        7   {As Serb}-{~~<\n>~<\n>th}
+       7        7   {BECKHAM}-{Mair o}
+       7        7   {Clinton}-{~}
+       7        7   {Fifty}-{the New}
+       7        7   {HARRY H}-{~<\n>~<\n>}
+       7        7   {House O}-{n~éoh}
+       7        7   {LANDREY}-{~}
+       7        7   {amounts}-{~ ~<\n>~<\n>a}
+       7        7   {benefic}-{~~~~<\n>lo}
+       7        7   {months.}-{~}
+       7        7   {mosque.}-{~}
+       7        7   {people,}-{FCOPIC'}
+       7        7   {r to fi}-{nn~}
+       7        7   {r}-{<\n>~~<\n>~<\n>i}
+       7        7   {up the}-{1<\n>~<\n>gui}
+       7        7   {years.}-{~<\n>~<\n>~<\n>~}
+       7        7   {}-{rt<\n>~<\n>re}
+       7        7   {}-{~<\n>belt }
+       7        7   {}-{~}
+       7        7   {}-{~~<\n>~~~<\n>}
+       7        1   {s}-{a}
+       7        0   { Osborn}-{bout th}
+       7        0   { penis.}-{}
+       7        0   { ro}-{<\n>Legisl}
+       7        0   { see wh}-{p}
+       7        0   { somewh}-{au<\n>Marg}
+       7        0   { two s}-{.<\n>Calif}
+       7        0   { wa}-{onchiti}
+       7        0   {,"<\n>sai}-{y talke}
+       7        0   {,}-{iberate}
+       7        0   {-}-{ }
+       7        0   {. . .<\n>t}-{T}
+       7        0   {.'}-{ate Fet}
+       7        0   {.}-{, who !}
+       7        0   {900-squ}-{she b}
+       7        0   {;}-{:}
+       7        0   {<\n>Walker}-{fforts,}
+       7        0   {<\n>severe}-{ Cobain}
+       7        0   {<\n>should}-{}
+       7        0   {ANDATES}-{anpates}
+       7        0   {ANGELES}-{nceues}
+       7        0   {Cali}-{a | per}
+       7        0   {Col}-{said<\n>th}
+       7        0   {ENJAMIN}-{ernt}
+       7        0   {EWHOUSE}-{ewnouse}
+       7        0   {Furtad}-{1822, m}
+       7        0   {I'd<\n>p}-{the . f}
+       7        0   {ILKISON}-{irkison}
+       7        0   {I}-{1}
+       7        0   {Koos}-{his<\n>"We}
+       7        0   {MPLOYEE}-{mptover}
+       7        0   {Nixon}-{grew up}
+       7        0   {OURNAL}-{ourneac}
+       7        0   {Produce}-{players}
+       7        0   {SERVICE}-{service}
+       7        0   {TRIBUNE}-{uue}
+       7        0   {The fa-}-{£}
+       7        0   {World W}-{}
+       7        0   {a 22-ye}-{good p}
+       7        0   {a sleep}-{Coba}
+       7        0   {an unkn}-{*<\n>sc}
+       7        0   {are<\n>no}-{with d<\n>}
+       7        0   {bba,<\n>or}-{dying}
+       7        0   {brary<\n>g}-{e Fu}
+       7        0   {but two}-{Osborne}
+       7        0   {b}-{a hik-<\n>}
+       7        0   {b}-{}
+       7        0   {ch morn}-{n-<\n>was }
+       7        0   {convert}-{W}
+       7        0   {d C & S}-{sponse.}
+       7        0   {d<\n>to th}-{ sec}
+       7        0   {danger }-{}
+       7        0   {d}-{}
+       7        0   {e<\n>Flori}-{ ahea}
+       7        0   {e<\n>eve}-{ronic b}
+       7        0   {employe}-{was ups}
+       7        0   {entered}-{&}
+       7        0   {ern Ore}-{<\n>testin}
+       7        0   {evrolet}-{}
+       7        0   {exec-<\n>u}-{|<\n>was a}
+       7        0   {exhi}-{| ink, }
+       7        0   {father }-{sub}
+       7        0   {for fam}-{as "int}
+       7        0   {found n}-{h<\n>hav}
+       7        0   {from-~<\n>s}-{I knew h}
+       7        0   {good pa}-{curvatu}
+       7        0   {himself}-{8}
+       7        0   {hould s}-{ing th}
+       7        0   {h}-{ldiers }
+       7        0   {in Rwa}-{Jeffers}
+       7        0   {in }-{Player<\n>}
+       7        0   {ious}-{ lIlzgm}
+       7        0   {itation}-{e News}
+       7        0   {king sh}-{H}
+       7        0   {known a}-{quarrel}
+       7        0   {kyo}-{vincial}
+       7        0   {le (dep}-{ all<\n>th}
+       7        0   {ll. }-{I<\n>destr}
+       7        0   {malisti}-{ }
+       7        0   {me.<\n>The}-{usuall}
+       7        0   {n when }-{d.<\n>T}
+       7        0   {nia}-{cuss Ir}
+       7        0   {nority.}-{6°}
+       7        0   {on."<\n>In}-{hecked}
+       7        0   {ospital}-{at<\n>went}
+       7        0   {o}-{ng J<\n>Ki}
+       7        0   {o}-{t we ca}
+       7        0   {part-ti}-{told }
+       7        0   {people }-{}
+       7        0   {pice<\n>-~a}-{omething}
+       7        0   {ppiest }-{cy<\n>of c}
+       7        0   {pp}-{dor.<\n>th}
+       7        0   {process}-{that if}
+       7        0   {p}-{homicid}
+       7        0   {p}-{makers }
+       7        0   {r LaSho}-{}
+       7        0   {recalls}-{°}
+       7        0   {rits ma}-{}
+       7        0   {rtage<\n>o}-{}
+       7        0   {s /<\n>THE}-{ public}
+       7        0   {s a spo}-{}
+       7        0   {s, he}-{ family}
+       7        0   {self-d}-{match b}
+       7        0   {simple.}-{always}
+       7        0   {sitting}-{carly -}
+       7        0   {small,}-{v<\n>Spine}
+       7        0   {syncrat}-{ur, wh}
+       7        0   {s}-{c}
+       7        0   {t (800)}-{rs}
+       7        0   {t<\n>we're}-{s}
+       7        0   {table<\n>t}-{}
+       7        0   {tey nor}-{cades}
+       7        0   {that."<\n>}-{if Td }
+       7        0   {trees}-{running}
+       7        0   {ve wind}-{nipulat}
+       7        0   {way he }-{in<\n>cla}
+       7        0   {will ha}-{}
+       7        0   {with<\n>th}-{to Duk}
+       7        0   {xpr}-{ said y}
+       7        0   {y.<\n>Sup}-{ns stag}
+       7        0   {ys.<\n>C}-{me or m}
+       7        0   {}-{ a<\n>seco}
+       7        0   {}-{ ae?" E}
+       7        0   {}-{ guaran}
+       7        0   {}-{ know t}
+       7        0   {}-{ stem d}
+       7        0   {}-{-}
+       7        0   {}-{Associa}
+       7        0   {}-{___ _-<\n>}
+       7        0   {}-{at<\n>Vinc}
+       7        0   {}-{chael T}
+       7        0   {}-{d his c}
+       7        0   {}-{d. Gaso}
+       7        0   {}-{e U.S. }
+       7        0   {}-{ear:<\n>[g}
+       7        0   {}-{em on o}
+       7        0   {}-{g " «ai}
+       7        0   {}-{ger.<\n>na}
+       7        0   {}-{ging th}
+       7        0   {}-{g}
+       7        0   {}-{he heal}
+       7        0   {}-{i<\n>|<\n>|<\n>"}
+       7        0   {}-{likely }
+       7        0   {}-{nk a ci}
+       7        0   {}-{play<\n>be}
+       7        0   {}-{r-old o}
+       7        0   {}-{sistant}
+       7        0   {}-{the AN<\n>}
+       7        0   {}-{t}
+       7        0   {}-{wboards}
+       7        0   {}-{we re g}
+       7        0   {}-{xtraor-}
+       7        0   {}-{y}
+       6        6   { heart}-{<\n>~ ~<\n>|}
+       6        6   {A}-{~<\n>~<\n>~<\n>}
+       6        6   {Th}-{~<\n>As S}
+       6        6   {and<\n>he}-{DOMI~}
+       6        6   {and}-{31,151}
+       6        6   {e rou-}-{<\n>~}
+       6        6   {have f}-{mmh am}
+       6        6   {homici}-{11110}
+       6        6   {ion 3.}-{em."<\n>~}
+       6        6   {li}-{h}
+       6        6   {police}-{1301l}
+       6        6   {p}-{fggszg}
+       6        6   {said.}-{~<\n>~~<\n>~}
+       6        6   {}-{lf h" }
+       6        6   {}-{~<\n>(Pho}
+       6        6   {}-{~<\n>~~<\n>F}
+       6        6   {}-{~~<\n>~~<\n>}
+       6        6   {}-{~~~<\n>~<\n>}
+       6        6   {}-{~~~~~<\n>}
+       6        6   {~}-{~<\n>STEVE}
+       6        4   {i}-{n}
+       6        2   {t}-{l}
+       6        1   {t}-{f}
+       6        0   { "inte}-{n't a }
+       6        0   { Co-<\n>b}-{berg s}
+       6        0   { Nauma}-{}
+       6        0   { he wa}-{rs.<\n>Hi}
+       6        0   { journ}-{as}
+       6        0   { made.}-{tings:}
+       6        0   { or Ch}-{s, bec}
+       6        0   { poor.}-{}
+       6        0   { probl}-{).<\n>Th}
+       6        0   { sur-<\n>}-{ands a}
+       6        0   { su}-{}
+       6        0   { their}-{ly<\n>two}
+       6        0   { way,"}-{d}
+       6        0   { who i}-{t}
+       6        0   {"That<\n>}-{}
+       6        0   {"it's }-{}
+       6        0   {& S, a}-{£<\n>know}
+       6        0   {'}-{" }
+       6        0   {-<\n>sas.}-{d the}
+       6        0   {-~ Mich}-{neth W}
+       6        0   {. As<\n>f}-{r}
+       6        0   {. He}-{tet<\n>wi}
+       6        0   {10 m}-{Co-<\n>ba}
+       6        0   {10, }-{suicid}
+       6        0   {1992, }-{}
+       6        0   {9}-{0}
+       6        0   {<\n>Distr}-{ B<\n>- M}
+       6        0   {<\n>Duong}-{}
+       6        0   {<\n>promp}-{n . Wi}
+       6        0   {<\n>with }-{ fo}
+       6        0   {<\n>world}-{}
+       6        0   {Ab}-{have f}
+       6        0   {BUREAU}-{norma}
+       6        0   {Bates,}-{Jr.}
+       6        0   {Bogot~~ }-{}
+       6        0   {By Jan}-{}
+       6        0   {Cavali}-{N}
+       6        0   {Center}-{as ©}
+       6        0   {Fi}-{probab}
+       6        0   {F}-{P}
+       6        0   {I<\n>don'}-{par}
+       6        0   {Ill}-{M}
+       6        0   {I}-{}
+       6        0   {Ovral<\n>}-{}
+       6        0   {PRESSE}-{rnesse}
+       6        0   {Press<\n>}-{}
+       6        0   {RIBUNE}-{rmune}
+       6        0   {RIBUNE}-{rrmune}
+       6        0   {RIBUNE}-{rsone}
+       6        0   {Sever}-{arugul}
+       6        0   {TODAY<\n>}-{}
+       6        0   {T}-{have t}
+       6        0   {T}-{prison}
+       6        0   {WRITER}-{warren}
+       6        0   {WRITER}-{warten}
+       6        0   {WRITER}-{water}
+       6        0   {a seco}-{A}
+       6        0   {ab}-{delici}
+       6        0   {al of }-{}
+       6        0   {alifo}-{oncent}
+       6        0   {all<\n>th}-{return}
+       6        0   {ally a}-{t befo}
+       6        0   {als to}-{}
+       6        0   {ams.<\n>B}-{}
+       6        0   {an-up}-{ighbor}
+       6        0   {ances}-{ might}
+       6        0   {and th}-{pool. }
+       6        0   {and}-{-}
+       6        0   {and}-{. grow}
+       6        0   {and}-{.}
+       6        0   {and}-{to his}
+       6        0   {annual}-{best,"}
+       6        0   {at Nix}-{tone f}
+       6        0   {at alr}-{:<\n>w}
+       6        0   {atch b}-{. "Nev}
+       6        0   {au<\n>Mar}-{<\n>the }
+       6        0   {a}-{i}
+       6        0   {ble Fo}-{}
+       6        0   {b}-{a d th}
+       6        0   {c-}-{ple go}
+       6        0   {cassi}-{my gue}
+       6        0   {cell}-{inmate}
+       6        0   {ch mad}-{diosyn}
+       6        0   {cked }-{ trapp}
+       6        0   {curity}-{e ;}
+       6        0   {d Rick}-{}
+       6        0   {d evi-}-{}
+       6        0   {d roun}-{ calle}
+       6        0   {d-<\n>mir}-{t." ce}
+       6        0   {d<\n>wine}-{se ta}
+       6        0   {de-<\n>cl}-{}
+       6        0   {delici}-{ab}
+       6        0   {d}-{xwale,}
+       6        0   {e bl}-{ss<\n>1. }
+       6        0   {ed<\n>Lov}-{-<\n>na D}
+       6        0   {es wou}-{}
+       6        0   {es}-{}
+       6        0   {f all }-{me<\n>res}
+       6        0   {ff}-{t}
+       6        0   {formed}-{nick.}
+       6        0   {f}-{What g}
+       6        0   {g and}-{ sits,}
+       6        0   {ge.<\n>Th}-{t Mond}
+       6        0   {gh}-{ll mee}
+       6        0   {grades}-{}
+       6        0   {head<\n>D}-{n}
+       6        0   {hrough}-{o "Pat}
+       6        0   {ick<\n>in}-{g}
+       6        0   {ing}-{}
+       6        0   {in}-{be per}
+       6        0   {irst}-{ a dif}
+       6        0   {is ter}-{of<\n>fou}
+       6        0   {it}-{the mo}
+       6        0   {izatio}-{y<\n>Mea}
+       6        0   {i}-{f}
+       6        0   {just b}-{wa}
+       6        0   {kitche}-{so}
+       6        0   {ky;}-{<\n>these}
+       6        0   {l.<\n>The}-{ugh to}
+       6        0   {line}-{m F of}
+       6        0   {li}-{nd on }
+       6        0   {ll fo}-{e cabe}
+       6        0   {l}-{}}
+       6        0   {mi-<\n>ni}-{re }
+       6        0   {mity }-{ town<\n>}
+       6        0   {m}-{rn}
+       6        0   {n-<\n>n}-{r of h}
+       6        0   {nce a}-{uvigno}
+       6        0   {ns,<\n>in}-{ther.}
+       6        0   {nywh}-{ve 200}
+       6        0   {o sugg}-{h}
+       6        0   {of her}-{Walton}
+       6        0   {of the}-{Bubb®,}
+       6        0   {offer<\n>}-{}
+       6        0   {old<\n>po}-{rangui}
+       6        0   {ould b}-{ith th}
+       6        0   {ow M}-{ibit<\n>m}
+       6        0   {ow }-{andchi}
+       6        0   {owed<\n>D}-{ampi}
+       6        0   {o}-{., in }
+       6        0   {r II m}-{ssont}
+       6        0   {r<\n>Shor}-{n}
+       6        0   {rchant}-{o}
+       6        0   {re<\n>"If}-{tation}
+       6        0   {red, v}-{m}
+       6        0   {ri}-{}
+       6        0   {rk.<\n>"T}-{t the }
+       6        0   {r}-{fugees}
+       6        0   {s in t}-{t.<\n>S}
+       6        0   {s near}-{o,}
+       6        0   {sai}-{}
+       6        0   {scolio}-{friend}
+       6        0   {sday i}-{}
+       6        0   {sell}-{growth}
+       6        0   {sheets}-{now .}
+       6        0   {ships.}-{d over}
+       6        0   {son mu}-{expert}
+       6        0   {stayed}-{was<\n>no}
+       6        0   {t down}-{ys. A}
+       6        0   {t-<\n>Bri}-{ can l}
+       6        0   {tching}-{}
+       6        0   {that, }-{}
+       6        0   {the t}-{. conf}
+       6        0   {the<\n>pr}-{E<\n>f ; }
+       6        0   {ther's}-{id,}
+       6        0   {there}-{| find}
+       6        0   {the}-{Nixon:}
+       6        0   {th}-{.. mov}
+       6        0   {th}-{ail-<\n>m}
+       6        0   {th}-{}
+       6        0   {to get}-{10,}
+       6        0   {to tak}-{?<\n>Th}
+       6        0   {to<\n>put}-{black}
+       6        0   {ts who}-{d give}
+       6        0   {t}-{ Commi}
+       6        0   {t}-{The ma}
+       6        0   {t}-{by poo}
+       6        0   {t}-{s}
+       6        0   {t}-{y publ}
+       6        0   {uld go}-{minick}
+       6        0   {unt}-{n work}
+       6        0   {ut the}-{lepsy,}
+       6        0   {uvigno}-{nce a}
+       6        0   {u}-{w}
+       6        0   {vari-<\n>}-{th}
+       6        0   {ve,}-{in and}
+       6        0   {want t}-{comf}
+       6        0   {with g}-{to nea}
+       6        0   {w}-{. outs}
+       6        0   {xt}-{.<\n>Musl}
+       6        0   {y in J}-{ns."<\n>S}
+       6        0   {y stu-}-{}
+       6        0   {y<\n>numb}-{ts wer}
+       6        0   {ze of }-{}
+       6        0   {}-{ - ---}
+       6        0   {}-{ . fie}
+       6        0   {}-{ .,}
+       6        0   {}-{ >}
+       6        0   {}-{ H n E}
+       6        0   {}-{ Highw}
+       6        0   {}-{ NIXON}
+       6        0   {}-{ Recon}
+       6        0   {}-{ a pan}
+       6        0   {}-{ am ho}
+       6        0   {}-{ i}
+       6        0   {}-{ lives}
+       6        0   {}-{ mosqu}
+       6        0   {}-{ of th}
+       6        0   {}-{ owner}
+       6        0   {}-{ state}
+       6        0   {}-{ switc}
+       6        0   {}-{! }
+       6        0   {}-{. Win,}
+       6        0   {}-{1 }
+       6        0   {}-{199<\n>- }
+       6        0   {}-{: zoms}
+       6        0   {}-{:<\n>ruar}
+       6        0   {}-{<\n>based}
+       6        0   {}-{<\n>where}
+       6        0   {}-{Hood a}
+       6        0   {}-{Total<\n>}
+       6        0   {}-{agony }
+       6        0   {}-{aken t}
+       6        0   {}-{at-<\n>ed}
+       6        0   {}-{ays. s}
+       6        0   {}-{a}
+       6        0   {}-{d of t}
+       6        0   {}-{e for }
+       6        0   {}-{e-fire}
+       6        0   {}-{i-<\n>vat}
+       6        0   {}-{ildfir}
+       6        0   {}-{ini-<\n>c}
+       6        0   {}-{it if }
+       6        0   {}-{loors,}
+       6        0   {}-{o ll] }
+       6        0   {}-{o meet}
+       6        0   {}-{o pla<\n>}
+       6        0   {}-{o sti }
+       6        0   {}-{of }
+       6        0   {}-{on in }
+       6        0   {}-{on wha}
+       6        0   {}-{ong th}
+       6        0   {}-{ould s}
+       6        0   {}-{r }
+       6        0   {}-{ree ch}
+       6        0   {}-{rs'}
+       6        0   {}-{s and<\n>}
+       6        0   {}-{s, too}
+       6        0   {}-{sioner}
+       6        0   {}-{sold o}
+       6        0   {}-{to 18<\n>}
+       6        0   {}-{topher}
+       6        0   {}-{urged }
+       6        0   {}-{ween t}
+       6        0   {}-{y, eve}
+       6        0   {}-{ying i}
+       6        0   {}-{«__ "<\n>}
+       5        5   {LOS}-{~<\n>tos}
+       5        5   {NIXON}-{~}
+       5        5   {eeds.}-{wch}
+       5        5   {erica}-{ng'l'}
+       5        5   {favo}-{~*<\n>fi}
+       5        5   {he go}-{raw}
+       5        5   {small}-{~<\n>~<\n>~}
+       5        5   {try."}-{~~<\n>~}
+       5        5   {vina,}-{n the}
+       5        5   {}-{ Tm ~}
+       5        5   {}-{(-<\n>~<\n>}
+       5        5   {}-{_-<\n>~<\n>}
+       5        5   {}-{~<\n>"I<\n>}
+       5        5   {}-{~<\n>+_ }
+       5        5   {}-{~<\n>~<\n>f}
+       5        5   {}-{~<\n>~~ }
+       5        5   {}-{~<\n>~~<\n>}
+       5        1   {e}-{s}
+       5        1   {j}-{J}
+       5        1   {s}-{g}
+       5        0   { 1913}-{g}
+       5        0   { 6637}-{}
+       5        0   { Nix}-{ing t}
+       5        0   { annu}-{ketb}
+       5        0   { at k}-{}
+       5        0   { at}-{ions.}
+       5        0   { be}-{!<\n>whi}
+       5        0   { fede}-{ist}
+       5        0   { grou}-{y'<\n>ap}
+       5        0   { kiss}-{te}
+       5        0   { lead}-{ets. }
+       5        0   { le}-{eau<\n>L}
+       5        0   { now,}-{}
+       5        0   { set }-{t-<\n>gr}
+       5        0   { surg}-{ti}
+       5        0   { work}-{ns, a}
+       5        0   { }-{-}
+       5        0   { }-{<\n>}
+       5        0   { }-{es.<\n>g}
+       5        0   {"Peop}-{Sa}
+       5        0   {),}-{ next}
+       5        0   {, 59,}-{ving}
+       5        0   {, who}-{}
+       5        0   {,}-{eeing}
+       5        0   {,}-{ffect}
+       5        0   {-<\n>fum}-{enc}
+       5        0   {-<\n>ven}-{ock s}
+       5        0   {-~}-{pered.}
+       5        0   {. "He}-{}
+       5        0   {5}-{6}
+       5        0   {93366}-{case}
+       5        0   {:}-{t}
+       5        0   {<\n>Most}-{}
+       5        0   {<\n>The }-{ :<\n>}
+       5        0   {<\n>me m}-{h}
+       5        0   {<\n>of }-{ a li}
+       5        0   {<\n>then}-{}
+       5        0   {ANIEL}-{arien}
+       5        0   {Ahuva}-{|}
+       5        0   {Arco }-{1<\n>ga}
+       5        0   {CHIEF}-{cher}
+       5        0   {Del R}-{sup}
+       5        0   {EGACY}-{eoacy}
+       5        0   {ESS<\n>R}-{}
+       5        0   {Febru}-{into }
+       5        0   {GLOBE}-{clone}
+       5        0   {GLOBE}-{cuore}
+       5        0   {HENRY}-{henry}
+       5        0   {Hi}-{It wa}
+       5        0   {IN}-{would}
+       5        0   {I}-{l}
+       5        0   {M}-{}
+       5        0   {NCAA}-{pool,}
+       5        0   {OGERS}-{ocers}
+       5        0   {PRESS}-{paese}
+       5        0   {PRESS}-{passe}
+       5        0   {PRESS}-{press}
+       5        0   {PRESS}-{races}
+       5        0   {PRESS}-{rness}
+       5        0   {RITER}-{armer}
+       5        0   {RITER}-{emen}
+       5        0   {Ron<\n>M}-{}
+       5        0   {Ro}-{at 9 }
+       5        0   {SOCIA}-{socia}
+       5        0   {STAFF}-{starr}
+       5        0   {Serbs}-{M}
+       5        0   {S}-{Commi}
+       5        0   {TELL:}-{York}
+       5        0   {TIMES}-{tas}
+       5        0   {TREET}-{treez}
+       5        0   {The s}-{}
+       5        0   {Three}-{But}
+       5        0   {T}-{}
+       5        0   {Ville}-{}
+       5        0   {W}-{}
+       5        0   {a AP}-{sits.}
+       5        0   {a par}-{&<\n>of }
+       5        0   {ader}-{orgia}
+       5        0   {ag on}-{oyees}
+       5        0   {al-<\n>b}-{He wo}
+       5        0   {also }-{}
+       5        0   {and m}-{fusi}
+       5        0   {an}-{.. 20}
+       5        0   {ar, a}-{t}
+       5        0   {ay."<\n>}-{<\n>'}
+       5        0   {aying}-{mells}
+       5        0   {ays s}-{}
+       5        0   {a}-{o}
+       5        0   {a}-{s}
+       5        0   {being}-{of}
+       5        0   {bu}-{Cente}
+       5        0   {caber}-{to wi}
+       5        0   {camps}-{}
+       5        0   {ce of}-{n the}
+       5        0   {cinal}-{ ary}
+       5        0   {ck pe}-{g}
+       5        0   {come<\n>}-{gra}
+       5        0   {con}-{it re}
+       5        0   {copie}-{he wa}
+       5        0   {creat}-{ath }
+       5        0   {ctive}-{}
+       5        0   {curva}-{feas}
+       5        0   {c}-{ furt}
+       5        0   {c}-{}
+       5        0   {da.}-{.. Ci}
+       5        0   {daugh}-{. pos}
+       5        0   {dency}-{}
+       5        0   {doing}-{offer}
+       5        0   {ds of}-{ning}
+       5        0   {d}-{stoph}
+       5        0   {ecad}-{ hims}
+       5        0   {egree}-{}
+       5        0   {ents'}-{ough.}
+       5        0   {esear}-{ }
+       5        0   {et.<\n>S}-{}
+       5        0   {even }-{gros}
+       5        0   {ex}-{from }
+       5        0   {e}-{a}
+       5        0   {e}-{oup a}
+       5        0   {f the}-{ndavi}
+       5        0   {fe, P}-{th gr}
+       5        0   {ffer}-{uld w}
+       5        0   {ffort}-{ wa}
+       5        0   {flag.}-{rebel}
+       5        0   {food }-{}
+       5        0   {frail}-{and<\n>A}
+       5        0   {f}-{l}
+       5        0   {f}-{}
+       5        0   {g tha}-{'s<\n>u}
+       5        0   {g<\n>for}-{stead}
+       5        0   {gener}-{motiv}
+       5        0   {going}-{°}
+       5        0   {gram }-{}
+       5        0   {gros}-{even }
+       5        0   {gton}-{ 1913}
+       5        0   {g}-{r wad}
+       5        0   {g}-{terim}
+       5        0   {g}-{}
+       5        0   {he bl}-{}
+       5        0   {him s}-{Cob}
+       5        0   {hol a}-{u}
+       5        0   {h}-{ Mond}
+       5        0   {ime a}-{o<\n>ing}
+       5        0   {in Bo}-{cabe}
+       5        0   {in W}-{argum}
+       5        0   {is pa}-{}
+       5        0   {is,<\n>}-{Rober}
+       5        0   {is<\n>s}-{the S}
+       5        0   {is}-{to th}
+       5        0   {it pl}-{}
+       5        0   {it<\n>by}-{from}
+       5        0   {ith }-{as in}
+       5        0   {i}-{Amy a}
+       5        0   {k say}-{uriou}
+       5        0   {k}-{ impr}
+       5        0   {l en-}-{}
+       5        0   {lar, }-{}
+       5        0   {latio}-{ know}
+       5        0   {llio}-{n whe}
+       5        0   {lly A}-{}
+       5        0   {load}-{NEXT:}
+       5        0   {lso}-{ceful}
+       5        0   {l}-{ent w}
+       5        0   {makes}-{com-}
+       5        0   {manag}-{Pet}
+       5        0   {mbar-}-{in}
+       5        0   {media}-{p on }
+       5        0   {ment}-{r say}
+       5        0   {mmend}-{f th<\n>}
+       5        0   {mpio}-{no, a}
+       5        0   {multi}-{f}
+       5        0   {n Uml}-{c}
+       5        0   {n.<\n>"T}-{t- }
+       5        0   {nd ov}-{sk}
+       5        0   {ndavi}-{f its}
+       5        0   {nds<\n>o}-{vi}
+       5        0   {now<\n>a}-{fir}
+       5        0   {nting}-{f art}
+       5        0   {n}-{r}
+       5        0   {o all}-{heir}
+       5        0   {o.<\n>Th}-{gl}
+       5        0   {of wi}-{caber}
+       5        0   {old m}-{}
+       5        0   {on fr}-{.<\n>Als}
+       5        0   {on, a}-{her's}
+       5        0   {on. I}-{trees}
+       5        0   {or bo}-{Sanit}
+       5        0   {or<\n>sp}-{}
+       5        0   {ough<\n>}-{y of }
+       5        0   {part }-{}
+       5        0   {passi}-{} }
+       5        0   {pboa}-{ughte}
+       5        0   {pical}-{ were}
+       5        0   {pool,}-{£}
+       5        0   {probl}-{as<\n>w}
+       5        0   {p}-{. com}
+       5        0   {r Dom}-{ play}
+       5        0   {r idi}-{nly f}
+       5        0   {r<\n>"Gr}-{}
+       5        0   {ratic}-{.}
+       5        0   {rejec}-{. pa}
+       5        0   {ried }-{hat s}
+       5        0   {rling}-{th-}
+       5        0   {row}-{uess }
+       5        0   {rring}-{d}
+       5        0   {rs}-{<\n>Fond}
+       5        0   {rtney}-{se of}
+       5        0   {ry<\n>t}-{.<\n>The}
+       5        0   {r}-{d}
+       5        0   {said }-{}
+       5        0   {says.}-{!}
+       5        0   {se fr}-{ld<\n>L}
+       5        0   {serio}-{j}
+       5        0   {spite}-{to To}
+       5        0   {sses,}-{ .}
+       5        0   {ssion}-{ze th}
+       5        0   {stabi}-{quick}
+       5        0   {stron}-{u}
+       5        0   {submi}-{of }
+       5        0   {s}-{S}
+       5        0   {s}-{ember}
+       5        0   {tball}-{ssed}
+       5        0   {te<\n>cl}-{xon d}
+       5        0   {ters}-{hould}
+       5        0   {th W}-{r |<\n>f}
+       5        0   {the t}-{C}
+       5        0   {the}-{| OUS}
+       5        0   {thing}-{<\n>-- a}
+       5        0   {three}-{apout}
+       5        0   {tion }-{}
+       5        0   {to th}-{Charl}
+       5        0   {tored}-{ays}
+       5        0   {two<\n>m}-{univ}
+       5        0   {t}-{r}
+       5        0   {ugh}-{cker.}
+       5        0   {up}-{Cross}
+       5        0   {uton,}-{ndavi}
+       5        0   {u}-{a}
+       5        0   {u}-{f Ame}
+       5        0   {v}-{recru}
+       5        0   {was i}-{pro}
+       5        0   {wasn'}-{be a<\n>}
+       5        0   {whe}-{and T}
+       5        0   {which}-{and}
+       5        0   {which}-{makes}
+       5        0   {wif}-{as th}
+       5        0   {will }-{}
+       5        0   {would}-{first}
+       5        0   {x}-{gis<\n>K}
+       5        0   {y and}-{}
+       5        0   {y as}-{nnfck}
+       5        0   {years}-{lucky}
+       5        0   {}-{ "vi-}
+       5        0   {}-{ . Pe}
+       5        0   {}-{ 85 p}
+       5        0   {}-{ a me}
+       5        0   {}-{ abou}
+       5        0   {}-{ bill}
+       5        0   {}-{ cont}
+       5        0   {}-{ of h}
+       5        0   {}-{ of m}
+       5        0   {}-{ ofli}
+       5        0   {}-{ oo w}
+       5        0   {}-{"% - }
+       5        0   {}-{"Peop}
+       5        0   {}-{'t th}
+       5        0   {}-{. __ }
+       5        0   {}-{<\n>fort}
+       5        0   {}-{AAA a}
+       5        0   {}-{Husse}
+       5        0   {}-{John }
+       5        0   {}-{[Toy }
+       5        0   {}-{[___ }
+       5        0   {}-{aP d<\n>}
+       5        0   {}-{ang T}
+       5        0   {}-{assis}
+       5        0   {}-{at th}
+       5        0   {}-{ctor }
+       5        0   {}-{c}
+       5        0   {}-{d cit}
+       5        0   {}-{e Vic}
+       5        0   {}-{ect. }
+       5        0   {}-{eee<\n>w}
+       5        0   {}-{he pr}
+       5        0   {}-{ick L}
+       5        0   {}-{in Fe}
+       5        0   {}-{ine i}
+       5        0   {}-{ing o}
+       5        0   {}-{le ph}
+       5        0   {}-{of fu}
+       5        0   {}-{other}
+       5        0   {}-{rael }
+       5        0   {}-{rbian}
+       5        0   {}-{reque}
+       5        0   {}-{s doi}
+       5        0   {}-{socia}
+       5        0   {}-{tide }
+       5        0   {}-{y Del}
+       5        0   {}-{«> . }
+       5        0   {}-{«by- }
+       5        0   {~cars.}-{}
+       4        4   {-}-{<\n>~}
+       4        4   {.<\n>}-{<\n>*~ }
+       4        4   {ERA}-{~<\n>~~}
+       4        4   {Fla}-{£131}
+       4        4   {He }-{~<\n>~<\n>}
+       4        4   {R~}-{~<\n>A" }
+       4        4   {W}-{Vg' }
+       4        4   {aged}-{zu,'}
+       4        4   {ance}-{mm}
+       4        4   {as s}-{Tnt}
+       4        4   {clin}-{gdm}
+       4        4   {dent}-{~<\n>by}
+       4        4   {eal,}-{m]}
+       4        4   {gu}-{~~<\n>F}
+       4        4   {hew}-{ NIL}
+       4        4   {ins.}-{~<\n>~}
+       4        4   {is<\n>}-{up $}
+       4        4   {ldom}-{men:}
+       4        4   {ling}-{mL}
+       4        4   {nifi}-{~~}
+       4        4   {onto}-{$0")}
+       4        4   {oung}-{ew}
+       4        4   {way.}-{~~<\n>~}
+       4        4   {xi}-{ge-f}
+       4        4   {}-{ ~}
+       4        4   {}-{Pira}
+       4        4   {}-{r<\n>~<\n>}
+       4        2   {ro}-{m}
+       4        1   {e}-{g}
+       4        1   {r}-{m}
+       4        0   { Cen}-{i}
+       4        0   { FDA}-{}
+       4        0   { Gas}-{m<\n>Ro}
+       4        0   { Jr.}-{}
+       4        0   { act}-{lex }
+       4        0   { an}-{tiff}
+       4        0   { ap}-{d<\n>Fr}
+       4        0   { ar}-{o<\n>mi}
+       4        0   { a}-{}
+       4        0   { dis}-{m}
+       4        0   { ex-}-{}
+       4        0   { it<\n>}-{r}
+       4        0   { lik}-{h}
+       4        0   { mor}-{.<\n>Y}
+       4        0   { sai}-{lf-}
+       4        0   { the}-{ded}
+       4        0   { the}-{em}
+       4        0   { the}-{}
+       4        0   { two}-{s}
+       4        0   { }-{,<\n>th}
+       4        0   {"The}-{L0}
+       4        0   {"you}-{held}
+       4        0   {,'}-{ough}
+       4        0   {,<\n>}-{ rea}
+       4        0   {-hip}-{ople}
+       4        0   {-}-{e}
+       4        0   {-~ M}-{Distr}
+       4        0   {."<\n>S}-{}
+       4        0   {..}-{}
+       4        0   {.<\n>"B}-{estr}
+       4        0   {.<\n>"I}-{}
+       4        0   {.<\n>Th}-{ wer}
+       4        0   {.<\n>h}-{e le}
+       4        0   {.}-{ all}
+       4        0   {0.2-~}-{}
+       4        0   {12<\n>}-{plig}
+       4        0   {3996}-{2050}
+       4        0   {<\n>FDA}-{ir}
+       4        0   {<\n>and}-{}
+       4        0   {<\n>b}-{ . w}
+       4        0   {<\n>c}-{or f}
+       4        0   {<\n>gu}-{od y}
+       4        0   {<\n>pi}-{re h}
+       4        0   {<\n>sy }-{fo}
+       4        0   {<\n>the}-{, ma}
+       4        0   {<\n>the}-{}
+       4        0   {<\n>th}-{ mir}
+       4        0   {<\n>}-{ . t}
+       4        0   {ALL}-{ars.}
+       4        0   {AVID}-{avin}
+       4        0   {AVID}-{avip}
+       4        0   {Afri}-{}
+       4        0   {Art}-{such}
+       4        0   {Beau}-{«<\n>w}
+       4        0   {Broo}-{}
+       4        0   {But<\n>}-{}
+       4        0   {By S}-{}
+       4        0   {By}-{Arab}
+       4        0   {CORR}-{conn}
+       4        0   {Chat}-{at l}
+       4        0   {Chat}-{betw}
+       4        0   {Co}-{his }
+       4        0   {C}-{was }
+       4        0   {EE}-{ee}
+       4        0   {FDA }-{ye}
+       4        0   {H}-{R}
+       4        0   {IMES}-{ives}
+       4        0   {I}-{five}
+       4        0   {I}-{|}
+       4        0   {Ma}-{thei}
+       4        0   {NATO}-{tage}
+       4        0   {NETT}-{ews}
+       4        0   {N}-{forc}
+       4        0   {Phil}-{}
+       4        0   {Sani}-{}
+       4        0   {S}-{70 p}
+       4        0   {S}-{s}
+       4        0   {TAFF}-{taze}
+       4        0   {Tess}-{|<\n>}
+       4        0   {Tow}-{by K}
+       4        0   {T}-{1<\n>| }
+       4        0   {T}-{Bosn}
+       4        0   {T}-{t}
+       4        0   {Wash}-{}
+       4        0   {West}-{work}
+       4        0   {Y }-{y}
+       4        0   {]}-{)}
+       4        0   {a cu}-{re}
+       4        0   {a li}-{the }
+       4        0   {a p}-{work}
+       4        0   {a }-{hi}
+       4        0   {a<\n>t}-{effo}
+       4        0   {abou}-{en}
+       4        0   {abou}-{for }
+       4        0   {ado}-{ on.}
+       4        0   {ak}-{}
+       4        0   {al}-{some}
+       4        0   {amp }-{ts t}
+       4        0   {and}-{1992}
+       4        0   {as t}-{whic}
+       4        0   {au}-{h ro}
+       4        0   {avi}-{ buy}
+       4        0   {a}-{ee t}
+       4        0   {a}-{fere}
+       4        0   {bain}-{uld}
+       4        0   {ball}-{C &}
+       4        0   {beca}-{}
+       4        0   {bl}-{r pr}
+       4        0   {born}-{<\n>s}
+       4        0   {bout}-{s.}
+       4        0   {by K}-{Tow}
+       4        0   {cI}-{el}
+       4        0   {ca's}-{}
+       4        0   {came}-{up}
+       4        0   {cell}-{thi}
+       4        0   {chro}-{"<\n>I}
+       4        0   {ci}-{d}
+       4        0   {comm}-{real}
+       4        0   {conc}-{sudd}
+       4        0   {cond}-{ll}
+       4        0   {co}-{}
+       4        0   {c}-{o}
+       4        0   {c}-{t}
+       4        0   {d of}-{swer}
+       4        0   {d, b}-{r}
+       4        0   {d.}-{}
+       4        0   {d<\n>Fr}-{ ap}
+       4        0   {demo}-{i}
+       4        0   {dent}-{}
+       4        0   {ders}-{t in}
+       4        0   {ders}-{}
+       4        0   {dicl}-{,<\n>f}
+       4        0   {ding}-{'t .}
+       4        0   {don'}-{}
+       4        0   {d}-{ture}
+       4        0   {d}-{t}
+       4        0   {e he}-{icia}
+       4        0   {e po}-{}
+       4        0   {e<\n>fr}-{ d}
+       4        0   {ead<\n>}-{om s}
+       4        0   {eat.}-{}
+       4        0   {ea}-{< cu}
+       4        0   {ed<\n>w}-{ilk}
+       4        0   {efu}-{tive}
+       4        0   {eila}-{}
+       4        0   {enc}-{<\n>fum}
+       4        0   {ense}-{}
+       4        0   {entr}-{h}
+       4        0   {epen}-{ }
+       4        0   {eral}-{}
+       4        0   {ere<\n>}-{at }
+       4        0   {eric}-{an}
+       4        0   {er}-{nown}
+       4        0   {ews,}-{ing}
+       4        0   {e}-{ying}
+       4        0   {f Ab}-{nc}
+       4        0   {f-<\n>f}-{ctur}
+       4        0   {f-<\n>f}-{ve p}
+       4        0   {ff}-{}
+       4        0   {flag}-{thou}
+       4        0   {flow}-{Thre}
+       4        0   {fl}-{N}
+       4        0   {forn}-{te }
+       4        0   {for}-{will}
+       4        0   {from}-{10 -}
+       4        0   {from}-{that}
+       4        0   {f}-{t}
+       4        0   {g id}-{a}
+       4        0   {g in}-{ Fur}
+       4        0   {g-<\n>g}-{ s}
+       4        0   {gaff}-{(dep}
+       4        0   {good}-{was}
+       4        0   {gree}-{}
+       4        0   {g}-{ovel}
+       4        0   {g}-{to b}
+       4        0   {have}-{cuss}
+       4        0   {he t}-{}
+       4        0   {held}-{"you}
+       4        0   {here}-{kiss}
+       4        0   {hes.}-{e of}
+       4        0   {he}-{EST:}
+       4        0   {he}-{o}
+       4        0   {hip }-{}
+       4        0   {hous}-{Juli}
+       4        0   {hysi}-{la}
+       4        0   {ick;}-{at}
+       4        0   {icke}-{boar}
+       4        0   {ight}-{g in}
+       4        0   {ilk}-{ed<\n>w}
+       4        0   {in<\n>t}-{s}
+       4        0   {inin}-{mm}
+       4        0   {in}-{just}
+       4        0   {io}-{m}
+       4        0   {is<\n>w}-{B}
+       4        0   {ists}-{}
+       4        0   {it."}-{Ken-}
+       4        0   {ith}-{hole}
+       4        0   {ive,}-{s,"}
+       4        0   {iver}-{ ski}
+       4        0   {i}-{!}
+       4        0   {i}-{lly<\n>}
+       4        0   {ji}-{fl}
+       4        0   {k-<\n>i}-{}
+       4        0   {k-}-{le}
+       4        0   {ks a}-{g bi}
+       4        0   {l bl}-{ndm}
+       4        0   {lead}-{mix}
+       4        0   {lice}-{f h}
+       4        0   {liev}-{r th}
+       4        0   {li}-{H}
+       4        0   {ll}-{}
+       4        0   {long}-{rath}
+       4        0   {loo}-{owar}
+       4        0   {lton}-{d}
+       4        0   {ly f}-{, wh}
+       4        0   {l}-{!}
+       4        0   {l}-{"I r}
+       4        0   {l}-{J}
+       4        0   {l}-{chos}
+       4        0   {make}-{}
+       4        0   {mass}-{of w}
+       4        0   {mat}-{cern}
+       4        0   {mili}-{gus}
+       4        0   {much}-{them}
+       4        0   {my a}-{ntho}
+       4        0   {m}-{in}
+       4        0   {m}-{nsur}
+       4        0   {m}-{sh h}
+       4        0   {n in}-{cros}
+       4        0   {n's<\n>}-{t<\n>ha}
+       4        0   {n's}-{ pay}
+       4        0   {n, a}-{}
+       4        0   {n-<\n>s}-{me }
+       4        0   {ndav}-{re r}
+       4        0   {nd}-{teau}
+       4        0   {next}-{.}
+       4        0   {ne}-{r}
+       4        0   {nia}-{ated}
+       4        0   {ning}-{d}
+       4        0   {n}-{. Al}
+       4        0   {n}-{ri}
+       4        0   {n}-{t}
+       4        0   {o<\n>wa}-{rugg}
+       4        0   {obv}-{at t}
+       4        0   {ock }-{iend}
+       4        0   {of t}-{"Th}
+       4        0   {om<\n>C}-{es}
+       4        0   {omac}-{he }
+       4        0   {on r}-{ us}
+       4        0   {on w}-{ever}
+       4        0   {on, }-{}
+       4        0   {ong}-{l to}
+       4        0   {on}-{me, }
+       4        0   {oon }-{ee w}
+       4        0   {op. }-{<\n>}
+       4        0   {or-}-{ect.}
+       4        0   {ov-<\n>}-{id}
+       4        0   {own<\n>}-{he c}
+       4        0   {o}-{he}
+       4        0   {pace}-{}
+       4        0   {pape}-{us A}
+       4        0   {pe-<\n>}-{t . }
+       4        0   {plan}-{in }
+       4        0   {play}-{th}
+       4        0   {ple}-{l is}
+       4        0   {ploy}-{ind}
+       4        0   {p}-{m th}
+       4        0   {r O}-{nath}
+       4        0   {r-<\n>}-{ 12 }
+       4        0   {r. H}-{t}
+       4        0   {rade}-{}
+       4        0   {rang}-{}
+       4        0   {rd u}-{}
+       4        0   {reat}-{}
+       4        0   {rebe}-{al}
+       4        0   {resp}-{Th}
+       4        0   {re}-{}
+       4        0   {rly}-{ther}
+       4        0   {ro,"}-{}
+       4        0   {ross}-{k}
+       4        0   {rou}-{aler}
+       4        0   {rs }-{: fl}
+       4        0   {rst }-{n}
+       4        0   {rs}-{}
+       4        0   {ry}-{}
+       4        0   {r}-{c}
+       4        0   {r}-{ttle}
+       4        0   {s s}-{lf,<\n>}
+       4        0   {s up}-{t<\n>Wa}
+       4        0   {s, v}-{diat}
+       4        0   {said}-{1}
+       4        0   {sand}-{lder}
+       4        0   {sd}-{ of }
+       4        0   {seve}-{"G}
+       4        0   {sh}-{}
+       4        0   {soci}-{talw}
+       4        0   {ss}-{kota}
+       4        0   {stat}-{Wedn}
+       4        0   {succ}-{T}
+       4        0   {suic}-{emot}
+       4        0   {surg}-{th}
+       4        0   {su}-{the }
+       4        0   {s}-{<\n>him}
+       4        0   {s}-{e}
+       4        0   {s}-{libr}
+       4        0   {s}-{n}
+       4        0   {t of}-{ed.}
+       4        0   {t }-{vi<\n>c}
+       4        0   {t, I}-{,<\n>in}
+       4        0   {t, w}-{ndc}
+       4        0   {t.}-{}
+       4        0   {t<\n>an}-{ecor}
+       4        0   {t<\n>be}-{, in}
+       4        0   {t<\n>up}-{ire}
+       4        0   {take}-{¢}
+       4        0   {tang}-{}
+       4        0   {te }-{forn}
+       4        0   {ted }-{g}
+       4        0   {ter.}-{g}
+       4        0   {tes }-{nd<\n>w}
+       4        0   {that}-{1990}
+       4        0   {the }-{Pa}
+       4        0   {the }-{Rosa}
+       4        0   {the }-{}
+       4        0   {them}-{njoy}
+       4        0   {they}-{|}
+       4        0   {the}-{/ill}
+       4        0   {till}-{.}
+       4        0   {ting}-{ed}
+       4        0   {to h}-{k}
+       4        0   {to h}-{}
+       4        0   {to p}-{inq}
+       4        0   {ts h}-{}
+       4        0   {turm}-{L}
+       4        0   {two}-{Were}
+       4        0   {ty<\n>E}-{}
+       4        0   {t}-{in g}
+       4        0   {t}-{i}
+       4        0   {t}-{pris}
+       4        0   {t}-{w}
+       4        0   {udyi}-{ake}
+       4        0   {ught}-{ all}
+       4        0   {ught}-{wed}
+       4        0   {univ}-{5<\n>y}
+       4        0   {up }-{A<\n>he}
+       4        0   {ut}-{vi}
+       4        0   {u}-{h Af}
+       4        0   {u}-{or i}
+       4        0   {ve p}-{f-<\n>f}
+       4        0   {very}-{- in}
+       4        0   {v}-{ sil}
+       4        0   {v}-{ch<\n>s}
+       4        0   {wate}-{i}
+       4        0   {wa}-{}
+       4        0   {well}-{flag}
+       4        0   {wh}-{a sl}
+       4        0   {wine}-{s<\n>:}
+       4        0   {wn f}-{}
+       4        0   {work}-{l}
+       4        0   {wyer}-{}
+       4        0   {w}-{ral,}
+       4        0   {w}-{r}
+       4        0   {y Du}-{}
+       4        0   {y }-{ |<\n>r}
+       4        0   {y, C}-{rst}
+       4        0   {y<\n>of}-{on.}
+       4        0   {ys s}-{ract}
+       4        0   {zoos}-{2008}
+       4        0   {}-{ - n}
+       4        0   {}-{ :}
+       4        0   {}-{ ===}
+       4        0   {}-{ Pod}
+       4        0   {}-{ _}
+       4        0   {}-{ ban}
+       4        0   {}-{ dis}
+       4        0   {}-{ in }
+       4        0   {}-{ j}
+       4        0   {}-{ thi}
+       4        0   {}-{ °}
+       4        0   {}-{" }
+       4        0   {}-{($18}
+       4        0   {}-{, al}
+       4        0   {}-{,<\n>po}
+       4        0   {}-{---<\n>}
+       4        0   {}-{. . }
+       4        0   {}-{. th}
+       4        0   {}-{."<\n>-}
+       4        0   {}-{1 -<\n>}
+       4        0   {}-{; }
+       4        0   {}-{Coba}
+       4        0   {}-{Lafi}
+       4        0   {}-{___<\n>}
+       4        0   {}-{alth}
+       4        0   {}-{and }
+       4        0   {}-{bl}
+       4        0   {}-{day-}
+       4        0   {}-{e ce}
+       4        0   {}-{eams}
+       4        0   {}-{ek<\n>a}
+       4        0   {}-{ey c}
+       4        0   {}-{fee,}
+       4        0   {}-{hell}
+       4        0   {}-{i }
+       4        0   {}-{ll a}
+       4        0   {}-{ll}
+       4        0   {}-{lorf}
+       4        0   {}-{nant}
+       4        0   {}-{ns}
+       4        0   {}-{obil}
+       4        0   {}-{of t}
+       4        0   {}-{or, }
+       4        0   {}-{ored}
+       4        0   {}-{o}
+       4        0   {}-{rmen}
+       4        0   {}-{t }
+       4        0   {}-{tens}
+       4        0   {}-{th}
+       4        0   {}-{ud}
+       4        0   {}-{use }
+       4        0   {}-{u}
+       4        0   {}-{vanc}
+       4        0   {}-{wi}
+       4        0   {}-{w}
+       4        0   {}-{ying}
+       4        0   {}-{| | }
+       4        0   {}-{© 6 }
+       4        0   {}-{» s }
+       4        0   {~}-{--}
+       3        3   { Ge}-{lfg}
+       3        3   { c}-{<\n>~<\n>}
+       3        3   { to}-{fd}
+       3        3   {.}-{<\n>~~}
+       3        3   {A }-{~<\n>Y}
+       3        3   {Dri}-{~<\n>h}
+       3        3   {Med}-{~<\n>}
+       3        3   {The}-{~~}
+       3        3   {`H}-{~<\n>s}
+       3        3   {`}-{~<\n>"}
+       3        3   {`}-{~<\n>.}
+       3        3   {ass}-{25;}
+       3        3   {ay}-{zzg}
+       3        3   {a}-{f"?}
+       3        3   {cit}-{"m}
+       3        3   {de}-{~lz}
+       3        3   {ei}-{L'l}
+       3        3   {ent}-{gm}
+       3        3   {fro}-{[m}
+       3        3   {ht}-{azf}
+       3        3   {in'}-{m }
+       3        3   {ini}-{mx}
+       3        3   {iti}-{m}
+       3        3   {kin}-{nhm}
+       3        3   {ny,}-{s}}
+       3        3   {oll}-{011}
+       3        3   {ont}-{em}
+       3        3   {ort}-{un}
+       3        3   {o}-{K'E}
+       3        3   {p}-{yf'}
+       3        3   {red}-{mi}
+       3        3   {rn-}-{mv}
+       3        3   {s i}-{gan}
+       3        3   {sti}-{'m'}
+       3        3   {s}-{'nt}
+       3        3   {tit}-{m}
+       3        3   {}-{~<\n>'}
+       3        3   {}-{~<\n>~}
+       3        3   {~~~}-{%<\n>~ ~~}
+       3        2   {i}-{x}
+       3        1   {e}-{d}
+       3        1   {n}-{g}
+       3        1   {o}-{g}
+       3        1   {s}-{t}
+       3        1   {}-{S}
+       3        0   { Ku}-{}
+       3        0   { an}-{ts}
+       3        0   { ar}-{d<\n>d}
+       3        0   { bo}-{nd<\n>}
+       3        0   { fi}-{}
+       3        0   { fo}-{nt}
+       3        0   { fu}-{t}
+       3        0   { in}-{our}
+       3        0   { is}-{}
+       3        0   { of}-{}
+       3        0   { or}-{ks,}
+       3        0   { r}-{pin}
+       3        0   { sc}-{r}
+       3        0   { sp}-{}
+       3        0   { th}-{urg}
+       3        0   { up}-{ho}
+       3        0   { ve}-{a}
+       3        0   { }-{ere}
+       3        0   {"I }-{th}
+       3        0   {"If}-{L6}
+       3        0   {"S}-{| g}
+       3        0   {"Wh}-{i}
+       3        0   {& S}-{and}
+       3        0   {'<\n>-~}-{<\n>The}
+       3        0   {(D)}-{}
+       3        0   {(}-{{}
+       3        0   {, a}-{n'}
+       3        0   {,}-{. °}
+       3        0   {,}-{re.}
+       3        0   {-<\n>n}-{ng }
+       3        0   {-Ri}-{ a}
+       3        0   {-ba}-{d }
+       3        0   {-fr}-{r p}
+       3        0   {-}-{e :}
+       3        0   {-}-{ts }
+       3        0   {. M}-{}
+       3        0   {.<\n>"}-{<\n>''}
+       3        0   {.<\n>W}-{ ar}
+       3        0   {.<\n>Y}-{opl}
+       3        0   {.m.}-{an}
+       3        0   {.}-{, _}
+       3        0   {.}-{, h}
+       3        0   {.}-{, i}
+       3        0   {.}-{:}
+       3        0   {.}-{L I}
+       3        0   {.}-{nia}
+       3        0   {00G}-{}
+       3        0   {115}-{I§}
+       3        0   {125}-{VIP}
+       3        0   {197}-{}
+       3        0   {3}-{9}
+       3        0   {486}-{It}
+       3        0   {52,}-{.}
+       3        0   {:}-{;}
+       3        0   {<\n>bo}-{nd }
+       3        0   {<\n>ch}-{ le}
+       3        0   {<\n>c}-{ po}
+       3        0   {<\n>gr}-{n c}
+       3        0   {<\n>mo}-{ fa}
+       3        0   {<\n>m}-{ I }
+       3        0   {<\n>re}-{s, }
+       3        0   {<\n>wa}-{r}
+       3        0   {<\n>w}-{he }
+       3        0   {<\n>~~~~~~~~~~~~~~~~~~~~...}-{ of his more }
+       3        0   {AGE}-{ace}
+       3        0   {ARK}-{ar«}
+       3        0   {Ark}-{bec}
+       3        0   {Ark}-{he<\n>}
+       3        0   {But}-{as}
+       3        0   {But}-{his}
+       3        0   {Cob}-{bec}
+       3        0   {Cob}-{}
+       3        0   {C}-{G}
+       3        0   {C}-{}
+       3        0   {Dom}-{R s}
+       3        0   {Duk}-{l}
+       3        0   {D}-{}
+       3        0   {EWS}-{ews}
+       3        0   {EWS}-{is}
+       3        0   {E}-{B}
+       3        0   {Fur}-{wen}
+       3        0   {GEN}-{en}
+       3        0   {He }-{f}
+       3        0   {I l}-{Tha}
+       3        0   {I<\n>f}-{typ}
+       3        0   {IN }-{mn}
+       3        0   {Igm}-{}
+       3        0   {Ill}-{111}
+       3        0   {Ill}-{17}
+       3        0   {Ill}-{HM}
+       3        0   {I}-{J}
+       3        0   {I}-{L}
+       3        0   {I}-{f}
+       3        0   {I}-{i}
+       3        0   {LOS}-{s}
+       3        0   {L}-{ber}
+       3        0   {Maj}-{/ J}
+       3        0   {Mar}-{be}
+       3        0   {Mr.}-{who}
+       3        0   {M}-{Chr}
+       3        0   {M}-{a g}
+       3        0   {N. }-{}
+       3        0   {NNE}-{wi:}
+       3        0   {Nix}-{w}
+       3        0   {N}-{Mol}
+       3        0   {Rob}-{}
+       3        0   {Spi}-{to }
+       3        0   {THE}-{P}
+       3        0   {THE}-{me}
+       3        0   {The}-{I}
+       3        0   {Th}-{mak}
+       3        0   {T}-{_ c}
+       3        0   {T}-{to }
+       3        0   {ULS}-{urs}
+       3        0   {VIP}-{was}
+       3        0   {Wri}-{wa}
+       3        0   {Y}-{y}
+       3        0   {]}-{}}
+       3        0   {`c}-{Col}
+       3        0   {a,}-{r's}
+       3        0   {a<\n>i}-{}
+       3        0   {acc}-{fed}
+       3        0   {ad,}-{}
+       3        0   {ade}-{n p}
+       3        0   {aid}-{}
+       3        0   {ain}-{e}
+       3        0   {ake}-{0 a}
+       3        0   {all}-{He}
+       3        0   {all}-{is}
+       3        0   {alo}-{T<\n>I}
+       3        0   {and}-{10}
+       3        0   {and}-{is}
+       3        0   {and}-{r t}
+       3        0   {ant}-{}
+       3        0   {any}-{..}
+       3        0   {app}-{ont}
+       3        0   {arn}-{ll}
+       3        0   {ask}-{}
+       3        0   {ati}-{}
+       3        0   {a}-{ }
+       3        0   {a}-{n}
+       3        0   {bas}-{Ar}
+       3        0   {bas}-{nev}
+       3        0   {bec}-{t}
+       3        0   {bef}-{B}
+       3        0   {bes}-{F<\n>}
+       3        0   {bet}-{two}
+       3        0   {be}-{Cha}
+       3        0   {but}-{cha}
+       3        0   {bu}-{tha}
+       3        0   {by-}-{r }
+       3        0   {b}-{typ}
+       3        0   {cab}-{lik}
+       3        0   {cab}-{of<\n>}
+       3        0   {ces}-{}
+       3        0   {ce}-{ wa}
+       3        0   {cha}-{but}
+       3        0   {cho}-{day}
+       3        0   {ck }-{p}
+       3        0   {coa}-{pri}
+       3        0   {co}-{ se}
+       3        0   {cus}-{rm}
+       3        0   {c}-{! e}
+       3        0   {c}-{g p}
+       3        0   {c}-{z-<\n>}
+       3        0   {d w}-{}
+       3        0   {d }-{-ba}
+       3        0   {d,"}-{g}
+       3        0   {dec}-{st}
+       3        0   {ded}-{ll}
+       3        0   {dee}-{}
+       3        0   {dn'}-{}
+       3        0   {d}-{, J}
+       3        0   {d}-{n}
+       3        0   {d}-{r}
+       3        0   {e l}-{os}
+       3        0   {e }-{ Ch}
+       3        0   {e-c}-{rm}
+       3        0   {eal}-{ou}
+       3        0   {ega}-{ i}
+       3        0   {eir}-{a}
+       3        0   {emo}-{dre}
+       3        0   {ent}-{wor}
+       3        0   {ent}-{}
+       3        0   {er }-{ p}
+       3        0   {ern}-{cm}
+       3        0   {es.}-{}
+       3        0   {ete}-{ain}
+       3        0   {e}-{iou}
+       3        0   {e}-{n}
+       3        0   {f h}-{v}
+       3        0   {f r}-{wev}
+       3        0   {fam}-{s<\n>d}
+       3        0   {foo}-{sa}
+       3        0   {for}-{C28}
+       3        0   {f}-{om.}
+       3        0   {g<\n>a}-{}
+       3        0   {gam}-{p}
+       3        0   {get}-{ld }
+       3        0   {ge}-{<\n>fo}
+       3        0   {gla}-{pho}
+       3        0   {gre}-{}
+       3        0   {gr}-{a b}
+       3        0   {gue}-{cas}
+       3        0   {g}-{ded}
+       3        0   {g}-{not}
+       3        0   {g}-{t s}
+       3        0   {h C}-{}<\n>b}
+       3        0   {hat}-{ion}
+       3        0   {hat}-{s}
+       3        0   {he }-{ura}
+       3        0   {he }-{}
+       3        0   {he<\n>}-{t}
+       3        0   {hed}-{t,}
+       3        0   {hem}-{}
+       3        0   {her}-{Mr.}
+       3        0   {hey}-{o}
+       3        0   {he}-{e o}
+       3        0   {he}-{ic.}
+       3        0   {he}-{two}
+       3        0   {him}-{and}
+       3        0   {his}-{59,}
+       3        0   {h}-{leg}
+       3        0   {h}-{m}
+       3        0   {ial}-{k}
+       3        0   {ibl}-{ m}
+       3        0   {ic }-{ Fe}
+       3        0   {id}-{ry,}
+       3        0   {ier}-{ony}
+       3        0   {ill}-{}
+       3        0   {im }-{e v}
+       3        0   {in-}-{!}
+       3        0   {in-}-{r}
+       3        0   {ine}-{er}
+       3        0   {ing}-{ee}
+       3        0   {ins}-{30 }
+       3        0   {int}-{wh}
+       3        0   {in}-{"Me}
+       3        0   {ir }-{}
+       3        0   {ira}-{lm}
+       3        0   {ir}-{nt,}
+       3        0   {is }-{I<\n>}
+       3        0   {is<\n>}-{}
+       3        0   {is}-{ th}
+       3        0   {is}-{all}
+       3        0   {ite}-{m'}
+       3        0   {ith}-{ sp}
+       3        0   {ive}-{ up}
+       3        0   {i}-{and}
+       3        0   {i}-{o}
+       3        0   {i}-{whe}
+       3        0   {ke }-{gh}
+       3        0   {ked}-{t}
+       3        0   {ker}-{e '}
+       3        0   {kno}-{he<\n>}
+       3        0   {k}-{hes}
+       3        0   {l,}-{- .}
+       3        0   {le-}-{i}
+       3        0   {lep}-{id}
+       3        0   {le}-{rva}
+       3        0   {lif}-{r}
+       3        0   {ll.}-{}
+       3        0   {lli}-{m}
+       3        0   {loo}-{fun}
+       3        0   {loo}-{pic}
+       3        0   {lor}-{}
+       3        0   {lso}-{t C}
+       3        0   {ly }-{ st}
+       3        0   {l}-{ on}
+       3        0   {l}-{d}
+       3        0   {l}-{the}
+       3        0   {m f}-{}
+       3        0   {m.}-{ars}
+       3        0   {mbe}-{}
+       3        0   {me }-{w M}
+       3        0   {med}-{p<\n>r}
+       3        0   {mes}-{}
+       3        0   {me}-{r a}
+       3        0   {me}-{way}
+       3        0   {min}-{ h}
+       3        0   {min}-{nsh}
+       3        0   {mov}-{h}
+       3        0   {ms<\n>}-{ FD}
+       3        0   {m}-{Lov}
+       3        0   {m}-{r C}
+       3        0   {m}-{ugh}
+       3        0   {n D}-{ th}
+       3        0   {n c}-{rs}
+       3        0   {n,}-{rts}
+       3        0   {n."}-{r}
+       3        0   {nch}-{x}
+       3        0   {ndc}-{r }
+       3        0   {nds}-{g.}
+       3        0   {nd}-{cal}
+       3        0   {nd}-{th,}
+       3        0   {ned}-{-}
+       3        0   {nev}-{bas}
+       3        0   {ng}-{ck;}
+       3        0   {ni}-{coa}
+       3        0   {nly}-{ss}
+       3        0   {not}-{wh}
+       3        0   {ns,}-{rld}
+       3        0   {nso}-{}
+       3        0   {nt,}-{l}
+       3        0   {nts}-{l}
+       3        0   {nts}-{ve}
+       3        0   {n}-{est}
+       3        0   {n}-{ous}
+       3        0   {n}-{u}
+       3        0   {o b}-{iv}
+       3        0   {o t}-{}
+       3        0   {o."}-{}
+       3        0   {o<\n>h}-{er }
+       3        0   {of<\n>}-{cab}
+       3        0   {off}-{the}
+       3        0   {ol,}-{«}
+       3        0   {ol.}-{mi-}
+       3        0   {ole}-{}
+       3        0   {om}-{pic}
+       3        0   {on,}-{ves}
+       3        0   {on.}-{}
+       3        0   {on<\n>}-{ wi}
+       3        0   {one}-{c}
+       3        0   {onl}-{ver}
+       3        0   {ook}-{y}
+       3        0   {or }-{}
+       3        0   {oun}-{ta}
+       3        0   {out}-{een}
+       3        0   {own}-{e}
+       3        0   {o}-{ste}
+       3        0   {o}-{u}
+       3        0   {o}-{© m}
+       3        0   {p-<\n>}-{}
+       3        0   {pay}-{.}
+       3        0   {pea}-{di}
+       3        0   {pea}-{i}
+       3        0   {ple}-{n}
+       3        0   {poo}-{tab}
+       3        0   {q}-{g}
+       3        0   {r b}-{v}
+       3        0   {r i}-{uto}
+       3        0   {r }-{<\n>st}
+       3        0   {r-<\n>}-{n<\n>i}
+       3        0   {r<\n>w}-{d f}
+       3        0   {rag}-{lin}
+       3        0   {rea}-{hi}
+       3        0   {rem}-{ov}
+       3        0   {rin}-{}
+       3        0   {rld}-{ver}
+       3        0   {rm}-{ys.}
+       3        0   {rn}-{nly}
+       3        0   {ros}-{}
+       3        0   {rug}-{nn}
+       3        0   {r}-{-<\n>s}
+       3        0   {r}-{ali}
+       3        0   {r}-{nt,}
+       3        0   {s c}-{nte}
+       3        0   {s g}-{h}
+       3        0   {s }-{rri}
+       3        0   {s }-{vor}
+       3        0   {s,}-{ive}
+       3        0   {s<\n>f}-{ th}
+       3        0   {s<\n>n}-{ pr}
+       3        0   {sam}-{r}
+       3        0   {say}-{cc<\n>}
+       3        0   {ses}-{}
+       3        0   {sho}-{. Q}
+       3        0   {sk}-{de.}
+       3        0   {soc}-{in}
+       3        0   {sse}-{}
+       3        0   {ss}-{ral}
+       3        0   {st }-{n<\n>}
+       3        0   {str}-{}
+       3        0   {sug}-{}
+       3        0   {sus}-{n}
+       3        0   {s}-{ of}
+       3        0   {s}-{ th}
+       3        0   {s}-{ to}
+       3        0   {s}-{ew.}
+       3        0   {s}-{han}
+       3        0   {s}-{m}
+       3        0   {s}-{rk,}
+       3        0   {s}-{thr}
+       3        0   {t C}-{ri}
+       3        0   {t s}-{g}
+       3        0   {t w}-{orm}
+       3        0   {th,}-{il}
+       3        0   {tha}-{Hau}
+       3        0   {tha}-{bu}
+       3        0   {tha}-{o}
+       3        0   {tha}-{sor}
+       3        0   {the}-{'}
+       3        0   {the}-{an}
+       3        0   {the}-{get}
+       3        0   {the}-{pol}
+       3        0   {the}-{saw}
+       3        0   {the}-{|}
+       3        0   {th}-{Spi}
+       3        0   {th}-{cam}
+       3        0   {tie}-{}
+       3        0   {tio}-{urt}
+       3        0   {tio}-{}
+       3        0   {tl}-{her}
+       3        0   {to }-{Ja}
+       3        0   {to }-{}
+       3        0   {too}-{ive}
+       3        0   {to}-{and}
+       3        0   {tri}-{he }
+       3        0   {try}-{C-}
+       3        0   {ts }-{e<\n>}
+       3        0   {ts}-{nia}
+       3        0   {tti}-{}
+       3        0   {t}-{Nix}
+       3        0   {t}-{T}
+       3        0   {t}-{c}
+       3        0   {t}-{r<\n>S}
+       3        0   {uct}-{}
+       3        0   {ugh}-{.}
+       3        0   {ugh}-{nd,}
+       3        0   {uld}-{ve}
+       3        0   {ult}-{}
+       3        0   {um}-{c<\n>d}
+       3        0   {un-}-{m }
+       3        0   {ure}-{ed}
+       3        0   {urr}-{wv}
+       3        0   {ur}-{ed<\n>}
+       3        0   {u}-{nce}
+       3        0   {u}-{ple}
+       3        0   {u}-{tha}
+       3        0   {ven}-{}
+       3        0   {ver}-{ iz}
+       3        0   {ver}-{up}
+       3        0   {ve}-{jor}
+       3        0   {ve}-{lso}
+       3        0   {vie}-{po}
+       3        0   {v}-{but}
+       3        0   {v}-{r R}
+       3        0   {wan}-{in }
+       3        0   {was}-{-}
+       3        0   {was}-{S}
+       3        0   {wa}-{fir}
+       3        0   {who}-{is}
+       3        0   {wh}-{or }
+       3        0   {wi}-{poe}
+       3        0   {wou}-{}
+       3        0   {ws }-{ p}
+       3        0   {w}-{hea}
+       3        0   {w}-{t}
+       3        0   {x }-{ pe}
+       3        0   {xce}-{s.<\n>}
+       3        0   {x}-{nch}
+       3        0   {x}-{s}
+       3        0   {y's}-{ed}
+       3        0   {y."}-{}
+       3        0   {yea}-{Yo}
+       3        0   {you}-{I}
+       3        0   {ys }-{ggi}
+       3        0   {ys.}-{}
+       3        0   {zoo}-{200}
+       3        0   {}-{ -'}
+       3        0   {}-{ ."}
+       3        0   {}-{ Cr}
+       3        0   {}-{ Gr}
+       3        0   {}-{ Re}
+       3        0   {}-{ an}
+       3        0   {}-{ di}
+       3        0   {}-{ on}
+       3        0   {}-{ pr}
+       3        0   {}-{ ro}
+       3        0   {}-{ to}
+       3        0   {}-{ tu}
+       3        0   {}-{ un}
+       3        0   {}-{ w.}
+       3        0   {}-{ |°}
+       3        0   {}-{$o }
+       3        0   {}-{& Z}
+       3        0   {}-{'m }
+       3        0   {}-{*" }
+       3        0   {}-{*%<\n>}
+       3        0   {}-{, n}
+       3        0   {}-{,, }
+       3        0   {}-{. t}
+       3        0   {}-{.<\n>A}
+       3        0   {}-{.<\n>w}
+       3        0   {}-{;}
+       3        0   {}-{<\n>fo}
+       3        0   {}-{<\n>is}
+       3        0   {}-{<\n>}
+       3        0   {}-{C}
+       3        0   {}-{L_<\n>}
+       3        0   {}-{NC }
+       3        0   {}-{T2 }
+       3        0   {}-{T}
+       3        0   {}-{ake}
+       3        0   {}-{aux}
+       3        0   {}-{blu}
+       3        0   {}-{cen}
+       3        0   {}-{e l}
+       3        0   {}-{e m}
+       3        0   {}-{e s}
+       3        0   {}-{eT }
+       3        0   {}-{ear}
+       3        0   {}-{emo}
+       3        0   {}-{epi}
+       3        0   {}-{ers}
+       3        0   {}-{f t}
+       3        0   {}-{fe }
+       3        0   {}-{ft,}
+       3        0   {}-{ied}
+       3        0   {}-{iti}
+       3        0   {}-{l m}
+       3        0   {}-{lde}
+       3        0   {}-{lla}
+       3        0   {}-{lli}
+       3        0   {}-{m<\n>b}
+       3        0   {}-{mos}
+       3        0   {}-{nC<\n>}
+       3        0   {}-{net}
+       3        0   {}-{new}
+       3        0   {}-{nma}
+       3        0   {}-{on }
+       3        0   {}-{ory}
+       3        0   {}-{pe }
+       3        0   {}-{que}
+       3        0   {}-{rab}
+       3        0   {}-{ree}
+       3        0   {}-{s<\n>I}
+       3        0   {}-{sio}
+       3        0   {}-{siv}
+       3        0   {}-{ste}
+       3        0   {}-{t s}
+       3        0   {}-{tie}
+       3        0   {}-{tin}
+       3        0   {}-{uct}
+       3        0   {}-{uto}
+       3        0   {}-{van}
+       3        0   {}-{w<\n>i}
+       3        0   {}-{y-d}
+       3        0   {~ ~ ~<\n>}-{}
+       3        0   {~.~.~.}-{}
+       2        2   { I}-{vl}
+       2        2   {,}-{<\n>~}
+       2        2   {-4}-{~1}
+       2        2   {-4}-{~}
+       2        2   {2,}-{7}
+       2        2   {E}-{~R}
+       2        2   {F}-{[f}
+       2        2   {L}-{[M}
+       2        2   {S}-{ 5}
+       2        2   {ap}-{ig}
+       2        2   {at}-{i~}
+       2        2   {c}-{gl}
+       2        2   {d }-{i}
+       2        2   {es}-{a}
+       2        2   {fi}-{~}
+       2        2   {ia}-{m}
+       2        2   {ib}-{m}
+       2        2   {in}-{mt}
+       2        2   {it}-{n}
+       2        2   {jo}-{id}
+       2        2   {nt}-{r?}
+       2        2   {ou}-{im}
+       2        2   {pe}-{ai}
+       2        2   {rm}-{~n}
+       2        2   {rr}-{n}
+       2        2   {r}-{'g}
+       2        2   {r}-{f}
+       2        2   {t}-{x}
+       2        2   {ui}-{m}
+       2        2   {y}-{57}
+       2        2   {}-{\ }
+       2        2   {}-{pa}
+       2        1   { }-{h}
+       2        1   { }-{r}
+       2        1   {i}-{r}
+       2        1   {n}-{h}
+       2        1   {o}-{d}
+       2        1   {y}-{v}
+       2        1   {}-{f}
+       2        0   { A}-{a}
+       2        0   { B}-{}
+       2        0   { C}-{}
+       2        0   { D}-{<\n>}
+       2        0   { N}-{Ni}
+       2        0   { T}-{t}
+       2        0   { W}-{an}
+       2        0   { a}-{ts}
+       2        0   { b}-{h}
+       2        0   { e}-{k}
+       2        0   { f}-{mp}
+       2        0   { g}-{<\n>}
+       2        0   { h}-{iv}
+       2        0   { i}-{ie}
+       2        0   { i}-{ra}
+       2        0   { l}-{f}
+       2        0   { p}-{il}
+       2        0   { r}-{tt}
+       2        0   { t}-{i}
+       2        0   { t}-{}
+       2        0   { y}-{on}
+       2        0   { }-{.}
+       2        0   { }-{a}
+       2        0   { }-{ce}
+       2        0   { }-{e}
+       2        0   { }-{sd}
+       2        0   {"C}-{}
+       2        0   {"T}-{}
+       2        0   {"W}-{}
+       2        0   {$1}-{@b}
+       2        0   {' }-{"}
+       2        0   {'9}-{"0}
+       2        0   {'s}-{}
+       2        0   {'t}-{d}
+       2        0   {'}-{ }
+       2        0   {(3}-{9}
+       2        0   {(}-{. }
+       2        0   {) }-{ s}
+       2        0   {)}-{}}
+       2        0   {, }-{}
+       2        0   {,"}-{le}
+       2        0   {,"}-{n}
+       2        0   {,"}-{re}
+       2        0   {,"}-{}
+       2        0   {,}-{aw}
+       2        0   {,}-{s.}
+       2        0   {-<\n>}-{en}
+       2        0   {-<\n>}-{i}
+       2        0   {-<\n>}-{l}
+       2        0   {-<\n>}-{}
+       2        0   {-t}-{a}
+       2        0   {-}-{ '}
+       2        0   {-}-{ ;}
+       2        0   {-}-{ C}
+       2        0   {-}-{le}
+       2        0   {-}-{s.}
+       2        0   {-}-{s}
+       2        0   {-}-{«}
+       2        0   {."}-{}
+       2        0   {.'}-{,"}
+       2        0   {.)}-{ 1}
+       2        0   {.<\n>}-{, }
+       2        0   {.<\n>}-{<\n>'}
+       2        0   {.N}-{X}
+       2        0   {.}-{ ,}
+       2        0   {.}-{ I}
+       2        0   {.}-{ L}
+       2        0   {.}-{ }
+       2        0   {.}-{s}
+       2        0   {0}-{Ut}
+       2        0   {1}-{I}
+       2        0   {1}-{}
+       2        0   {2}-{*"}
+       2        0   {3:}-{$}
+       2        0   {4-}-{}
+       2        0   {48}-{I}
+       2        0   {4}-{1}
+       2        0   {5}-{8}
+       2        0   {6:}-{}
+       2        0   {6}-{0}
+       2        0   {6}-{8}
+       2        0   {81}-{i}
+       2        0   {86}-{ee}
+       2        0   {8}-{0}
+       2        0   {8}-{B}
+       2        0   {93}-{0%}
+       2        0   {: }-{a}
+       2        0   {:3}-{g}
+       2        0   {:}-{}
+       2        0   {<\n>b}-{y }
+       2        0   {<\n>e}-{ a}
+       2        0   {<\n>s}-{ p}
+       2        0   {<\n>w}-{s }
+       2        0   {<\n>}-{ n}
+       2        0   {<\n>}-{ t}
+       2        0   {<\n>}-{_ }
+       2        0   {<\n>}-{ma}
+       2        0   {<\n>}-{ra}
+       2        0   {<\n>}-{t }
+       2        0   {An}-{}
+       2        0   {A}-{&}
+       2        0   {A}-{}
+       2        0   {Bo}-{| }
+       2        0   {By}-{3}}
+       2        0   {B}-{}
+       2        0   {C.}-{}
+       2        0   {Ch}-{m}
+       2        0   {Co}-{}
+       2        0   {C}-{st}
+       2        0   {D}-{"B}
+       2        0   {D}-{b}
+       2        0   {ED}-{en}
+       2        0   {E}-{R}
+       2        0   {E}-{li}
+       2        0   {Fa}-{s}
+       2        0   {Fl}-{}
+       2        0   {F}-{'Y}
+       2        0   {GA}-{}
+       2        0   {Gu}-{}
+       2        0   {HE}-{e}
+       2        0   {HY}-{hy}
+       2        0   {Ha}-{yo}
+       2        0   {He}-{in}
+       2        0   {H}-{ri}
+       2        0   {H}-{th}
+       2        0   {I }-{}
+       2        0   {I'}-{T}
+       2        0   {I.}-{L}
+       2        0   {IJ}-{U}
+       2        0   {IK}-{ik}
+       2        0   {IT}-{M}
+       2        0   {In}-{of}
+       2        0   {In}-{}
+       2        0   {It}-{Té}
+       2        0   {I}-{E}
+       2        0   {I}-{in}
+       2        0   {Ju}-{ha}
+       2        0   {J}-{"d}
+       2        0   {J}-{Sh}
+       2        0   {K}-{}
+       2        0   {La}-{}
+       2        0   {Li}-{11}
+       2        0   {Mc}-{}
+       2        0   {M}-{tw}
+       2        0   {NE}-{}
+       2        0   {N}-{ev}
+       2        0   {O,}-{0.}
+       2        0   {OF}-{or}
+       2        0   {OK}-{}
+       2        0   {On}-{m}
+       2        0   {O}-{hi}
+       2        0   {O}-{o}
+       2        0   {PR}-{rr}
+       2        0   {P}-{}
+       2        0   {RO}-{}
+       2        0   {Re}-{}
+       2        0   {R}-{}
+       2        0   {S.}-{,}
+       2        0   {ST}-{st}
+       2        0   {ST}-{}
+       2        0   {So}-{}
+       2        0   {S}-{$}
+       2        0   {S}-{B}
+       2        0   {S}-{}
+       2        0   {Th}-{Pl}
+       2        0   {To}-{of}
+       2        0   {T}-{"F}
+       2        0   {UR}-{ur}
+       2        0   {Vi}-{A}
+       2        0   {WS}-{ws}
+       2        0   {`A}-{' }
+       2        0   {`F}-{'P}
+       2        0   {`I}-{ M}
+       2        0   {a }-{f}
+       2        0   {a }-{t}
+       2        0   {a }-{}
+       2        0   {a-}-{«}
+       2        0   {ac}-{ h}
+       2        0   {ad}-{s}
+       2        0   {ag}-{m}
+       2        0   {al}-{ed}
+       2        0   {al}-{ey}
+       2        0   {al}-{s }
+       2        0   {al}-{wi}
+       2        0   {an}-{dh}
+       2        0   {an}-{ke}
+       2        0   {ar}-{.}
+       2        0   {ar}-{<\n>}
+       2        0   {ar}-{h}
+       2        0   {ar}-{se}
+       2        0   {as}-{he}
+       2        0   {as}-{of}
+       2        0   {as}-{ot}
+       2        0   {as}-{|}
+       2        0   {as}-{}
+       2        0   {at}-{e}
+       2        0   {at}-{to}
+       2        0   {at}-{|}
+       2        0   {au}-{en}
+       2        0   {au}-{}
+       2        0   {av}-{}
+       2        0   {ay}-{}
+       2        0   {a}-{ i}
+       2        0   {a}-{ou}
+       2        0   {a}-{«}
+       2        0   {be}-{Th}
+       2        0   {be}-{in}
+       2        0   {be}-{}
+       2        0   {bl}-{w}
+       2        0   {b}-{<\n>s}
+       2        0   {b}-{rc}
+       2        0   {b}-{th}
+       2        0   {c-}-{e:}
+       2        0   {c-}-{e»}
+       2        0   {cN}-{eW}
+       2        0   {ca}-{i}
+       2        0   {ce}-{}
+       2        0   {ch}-{gi}
+       2        0   {ch}-{he}
+       2        0   {ci}-{ef}
+       2        0   {ci}-{m}
+       2        0   {ci}-{}
+       2        0   {ck}-{l}
+       2        0   {ck}-{mp}
+       2        0   {ck}-{r}
+       2        0   {ck}-{s}
+       2        0   {ck}-{}
+       2        0   {cl}-{}
+       2        0   {cr}-{av}
+       2        0   {cr}-{ev}
+       2        0   {c}-{ }
+       2        0   {c}-{) }
+       2        0   {c}-{d}
+       2        0   {c}-{re}
+       2        0   {c}-{th}
+       2        0   {c}-{¢}
+       2        0   {d }-{ t}
+       2        0   {d }-{ak}
+       2        0   {d-}-{e}
+       2        0   {da}-{}
+       2        0   {dd}-{cc}
+       2        0   {de}-{al}
+       2        0   {de}-{ll}
+       2        0   {di}-{al}
+       2        0   {di}-{}
+       2        0   {do}-{t,}
+       2        0   {ds}-{f.}
+       2        0   {d}-{'}
+       2        0   {d}-{,"}
+       2        0   {d}-{ft}
+       2        0   {d}-{g.}
+       2        0   {d}-{g}
+       2        0   {d}-{ic}
+       2        0   {d}-{l}
+       2        0   {d}-{on}
+       2        0   {d}-{s}
+       2        0   {e }-{c}
+       2        0   {e }-{i}
+       2        0   {e }-{ld}
+       2        0   {e }-{}
+       2        0   {e,}-{c.}
+       2        0   {e.}-{ht}
+       2        0   {e.}-{}
+       2        0   {ed}-{h,}
+       2        0   {ed}-{h}
+       2        0   {ee}-{oo}
+       2        0   {ef}-{ap}
+       2        0   {eg}-{<\n>t}
+       2        0   {ek}-{at}
+       2        0   {ek}-{m.}
+       2        0   {el}-{t}
+       2        0   {em}-{}
+       2        0   {en}-{au}
+       2        0   {en}-{fa}
+       2        0   {en}-{h }
+       2        0   {en}-{t}
+       2        0   {er}-{im}
+       2        0   {er}-{}
+       2        0   {et}-{an}
+       2        0   {ew}-{i}
+       2        0   {ey}-{ad}
+       2        0   {e}-{ N}
+       2        0   {e}-{p}
+       2        0   {f-}-{t}
+       2        0   {f<\n>}-{}
+       2        0   {fa}-{}
+       2        0   {ff}-{i}
+       2        0   {ff}-{l}
+       2        0   {ff}-{tt}
+       2        0   {fi}-{A}
+       2        0   {fl}-{A}
+       2        0   {f}-{(}
+       2        0   {f}-{Fi}
+       2        0   {f}-{b}
+       2        0   {f}-{n}
+       2        0   {f}-{pa}
+       2        0   {f}-{qu}
+       2        0   {f}-{s}
+       2        0   {f}-{us}
+       2        0   {f}-{ut}
+       2        0   {f}-{wh}
+       2        0   {g }-{ m}
+       2        0   {g<\n>}-{ a}
+       2        0   {gh}-{rs}
+       2        0   {go}-{of}
+       2        0   {gr}-{ne}
+       2        0   {gr}-{}
+       2        0   {gs}-{hn}
+       2        0   {g}-{ t}
+       2        0   {g}-{Ch}
+       2        0   {g}-{a}
+       2        0   {g}-{e}
+       2        0   {g}-{ye}
+       2        0   {ha}-{}
+       2        0   {he}-{s}
+       2        0   {hn}-{me}
+       2        0   {hn}-{rt}
+       2        0   {hs}-{le}
+       2        0   {h}-{fl}
+       2        0   {h}-{im}
+       2        0   {h}-{or}
+       2        0   {h}-{ry}
+       2        0   {h}-{tl}
+       2        0   {h}-{t}
+       2        0   {i-}-{l}
+       2        0   {i-}-{}
+       2        0   {ic}-{ed}
+       2        0   {ic}-{h}
+       2        0   {ic}-{o}
+       2        0   {id}-{}
+       2        0   {if}-{to}
+       2        0   {il}-{ve}
+       2        0   {im}-{o }
+       2        0   {in}-{He}
+       2        0   {in}-{I}
+       2        0   {in}-{nd}
+       2        0   {ir}-{}
+       2        0   {is}-{er}
+       2        0   {is}-{e}
+       2        0   {it}-{f}
+       2        0   {it}-{to}
+       2        0   {it}-{}
+       2        0   {iz}-{tr}
+       2        0   {i}-{ca}
+       2        0   {i}-{co}
+       2        0   {i}-{e }
+       2        0   {j.}-{y,}
+       2        0   {jo}-{d}
+       2        0   {j}-{}
+       2        0   {ki}-{ia}
+       2        0   {ki}-{ic}
+       2        0   {ki}-{lg}
+       2        0   {ki}-{}
+       2        0   {k}-{K}
+       2        0   {k}-{ed}
+       2        0   {k}-{ge}
+       2        0   {k}-{it}
+       2        0   {k}-{n}
+       2        0   {k}-{}
+       2        0   {l }-{}
+       2        0   {l-}-{ed}
+       2        0   {l-}-{}
+       2        0   {ld}-{ak}
+       2        0   {ld}-{f}}
+       2        0   {le}-{b}
+       2        0   {le}-{to}
+       2        0   {le}-{}
+       2        0   {li}-{I}
+       2        0   {li}-{it}
+       2        0   {li}-{t}
+       2        0   {li}-{}
+       2        0   {ll}-{11}
+       2        0   {ll}-{II}
+       2        0   {ll}-{de}
+       2        0   {ll}-{fr}
+       2        0   {ll}-{t}
+       2        0   {ln}-{bf}
+       2        0   {lo}-{c}
+       2        0   {ls}-{e.}
+       2        0   {lw}-{kr}
+       2        0   {ly}-{ed}
+       2        0   {ly}-{m}
+       2        0   {l}-{ r}
+       2        0   {l}-{Bu}
+       2        0   {l}-{]}
+       2        0   {l}-{be}
+       2        0   {l}-{gi}
+       2        0   {l}-{gr}
+       2        0   {l}-{nd}
+       2        0   {l}-{rn}
+       2        0   {l}-{s}
+       2        0   {l}-{w}
+       2        0   {m }-{nd}
+       2        0   {m.}-{ll}
+       2        0   {ma}-{er}
+       2        0   {me}-{n}
+       2        0   {mo}-{i}
+       2        0   {my}-{is}
+       2        0   {my}-{of}
+       2        0   {m}-{ld}
+       2        0   {m}-{n}
+       2        0   {m}-{pe}
+       2        0   {m}-{ra}
+       2        0   {m}-{ro}
+       2        0   {m}-{tn}
+       2        0   {m}-{w}
+       2        0   {m}-{}
+       2        0   {n }-{}
+       2        0   {n'}-{ }
+       2        0   {n,}-{ok}
+       2        0   {n.}-{}
+       2        0   {n<\n>}-{m}
+       2        0   {na}-{}
+       2        0   {nd}-{ w}
+       2        0   {nd}-{bl}
+       2        0   {nd}-{gs}
+       2        0   {nd}-{l.}
+       2        0   {nd}-{s}
+       2        0   {nd}-{t}
+       2        0   {ne}-{ld}
+       2        0   {ne}-{}
+       2        0   {nf}-{ve}
+       2        0   {ng}-{s}
+       2        0   {ni}-{m}
+       2        0   {nk}-{me}
+       2        0   {nk}-{us}
+       2        0   {nn}-{m}
+       2        0   {no}-{t }
+       2        0   {nr}-{m}
+       2        0   {ns}-{et}
+       2        0   {ns}-{}
+       2        0   {nt}-{ll}
+       2        0   {nt}-{m}
+       2        0   {ny}-{}
+       2        0   {n}-{-c}
+       2        0   {n}-{c}
+       2        0   {n}-{me}
+       2        0   {n}-{th}
+       2        0   {n}-{ud}
+       2        0   {o }-{ag}
+       2        0   {o }-{}
+       2        0   {o<\n>}-{il}
+       2        0   {oc}-{ee}
+       2        0   {oc}-{}
+       2        0   {of}-{10}
+       2        0   {of}-{L.}
+       2        0   {of}-{at}
+       2        0   {of}-{|}
+       2        0   {ok}-{}
+       2        0   {ol}-{01}
+       2        0   {ol}-{ci}
+       2        0   {om}-{h }
+       2        0   {oo}-{an}
+       2        0   {or}-{e,}
+       2        0   {ot}-{m}
+       2        0   {ou}-{e}
+       2        0   {ou}-{me}
+       2        0   {ov}-{th}
+       2        0   {o}-{ex}
+       2        0   {o}-{n}
+       2        0   {o}-{p}
+       2        0   {p-}-{ti}
+       2        0   {p.}-{o}
+       2        0   {pa}-{ }
+       2        0   {pl}-{ag}
+       2        0   {pl}-{}
+       2        0   {po}-{ }
+       2        0   {po}-{en}
+       2        0   {po}-{ex}
+       2        0   {pr}-{n}
+       2        0   {pr}-{th}
+       2        0   {p}-{se}
+       2        0   {qu}-{d}
+       2        0   {r }-{ w}
+       2        0   {r.}-{e}
+       2        0   {rc}-{bl}
+       2        0   {re}-{8s}
+       2        0   {re}-{by}
+       2        0   {re}-{nd}
+       2        0   {re}-{un}
+       2        0   {ri}-{e}
+       2        0   {ri}-{in}
+       2        0   {rm}-{d }
+       2        0   {rn}-{iv}
+       2        0   {rn}-{l}
+       2        0   {ro}-{ll}
+       2        0   {rr}-{m}
+       2        0   {rs}-{ h}
+       2        0   {rv}-{m}
+       2        0   {rv}-{n}
+       2        0   {ry}-{ i}
+       2        0   {r}-{cy}
+       2        0   {r}-{e}
+       2        0   {r}-{i}
+       2        0   {r}-{li}
+       2        0   {r}-{l}
+       2        0   {r}-{n}
+       2        0   {r}-{th}
+       2        0   {r}-{ts}
+       2        0   {s }-{ t}
+       2        0   {s }-{ec}
+       2        0   {s }-{ic}
+       2        0   {s }-{k<\n>}
+       2        0   {s }-{ng}
+       2        0   {s,}-{t}
+       2        0   {s,}-{xt}
+       2        0   {s,}-{}
+       2        0   {s.}-{,}
+       2        0   {s:}-{r}
+       2        0   {sc}-{}
+       2        0   {se}-{nd}
+       2        0   {se}-{}
+       2        0   {sh}-{!<\n>}
+       2        0   {sh}-{ak}
+       2        0   {sh}-{m}
+       2        0   {sh}-{t}
+       2        0   {si}-{at}
+       2        0   {si}-{}
+       2        0   {sp}-{f}
+       2        0   {sp}-{wh}
+       2        0   {sp}-{}
+       2        0   {ss}-{w.}
+       2        0   {ss}-{}
+       2        0   {st}-{do}
+       2        0   {st}-{u}
+       2        0   {st}-{w}
+       2        0   {st}-{}
+       2        0   {s}-{,}
+       2        0   {s}-{<\n>t}
+       2        0   {s}-{ar}
+       2        0   {s}-{d}
+       2        0   {s}-{e.}
+       2        0   {s}-{m.}
+       2        0   {s}-{nd}
+       2        0   {s}-{nn}
+       2        0   {s}-{o}
+       2        0   {s}-{r}
+       2        0   {s}-{te}
+       2        0   {t }-{ri}
+       2        0   {t,}-{}
+       2        0   {t-}-{l}
+       2        0   {ta}-{bi}
+       2        0   {te}-{<\n>f}
+       2        0   {th}-{(i}
+       2        0   {th}-{Ab}
+       2        0   {th}-{Cl}
+       2        0   {th}-{n}
+       2        0   {th}-{pa}
+       2        0   {th}-{pr}
+       2        0   {th}-{p}
+       2        0   {ti}-{H}
+       2        0   {tm}-{eb}
+       2        0   {to}-{.}
+       2        0   {to}-{gs}
+       2        0   {to}-{is}
+       2        0   {to}-{s}
+       2        0   {to}-{w}
+       2        0   {t}-{<\n>l}
+       2        0   {t}-{Jo}
+       2        0   {t}-{d}
+       2        0   {t}-{e}
+       2        0   {t}-{l.}
+       2        0   {t}-{nd}
+       2        0   {t}-{s,}
+       2        0   {t}-{us}
+       2        0   {t}-{ux}
+       2        0   {t}-{vi}
+       2        0   {uc}-{s }
+       2        0   {ug}-{wi}
+       2        0   {ul}-{in}
+       2        0   {ur}-{}
+       2        0   {us}-{o}
+       2        0   {us}-{r}
+       2        0   {us}-{se}
+       2        0   {ut}-{ s}
+       2        0   {ut}-{r}
+       2        0   {ux}-{me}
+       2        0   {ux}-{pa}
+       2        0   {u}-{ c}
+       2        0   {u}-{i}
+       2        0   {u}-{li}
+       2        0   {u}-{o}
+       2        0   {u}-{ti}
+       2        0   {u}-{}
+       2        0   {v-}-{w}
+       2        0   {v-}-{y»}
+       2        0   {ve}-{nd}
+       2        0   {ve}-{}
+       2        0   {vi}-{n }
+       2        0   {vi}-{}
+       2        0   {v}-{rc}
+       2        0   {w }-{n}
+       2        0   {we}-{a}
+       2        0   {wh}-{N}
+       2        0   {wh}-{g}
+       2        0   {wi}-{ou}
+       2        0   {wi}-{}
+       2        0   {wn}-{}
+       2        0   {wo}-{Wi}
+       2        0   {w}-{b}
+       2        0   {w}-{ch}
+       2        0   {w}-{s}
+       2        0   {x}-{tt}
+       2        0   {x}-{®}
+       2        0   {y,}-{ll}
+       2        0   {y,}-{}
+       2        0   {yo}-{t<\n>}
+       2        0   {yp}-{h}
+       2        0   {ys}-{t}
+       2        0   {y}-{d}
+       2        0   {y}-{nt}
+       2        0   {y}-{pe}
+       2        0   {z,}-{he}
+       2        0   {zu}-{m}
+       2        0   {z}-{e}
+       2        0   {}-{ 0}
+       2        0   {}-{ A}
+       2        0   {}-{ F}
+       2        0   {}-{ R}
+       2        0   {}-{ W}
+       2        0   {}-{ \}
+       2        0   {}-{ a}
+       2        0   {}-{ b}
+       2        0   {}-{ c}
+       2        0   {}-{ d}
+       2        0   {}-{ e}
+       2        0   {}-{ h}
+       2        0   {}-{ l}
+       2        0   {}-{ p}
+       2        0   {}-{ s}
+       2        0   {}-{ t}
+       2        0   {}-{ {}
+       2        0   {}-{ ¢}
+       2        0   {}-{"L}
+       2        0   {}-{'s}
+       2        0   {}-{(<\n>}
+       2        0   {}-{,"}
+       2        0   {}-{,<\n>}
+       2        0   {}-{..}
+       2        0   {}-{1<\n>}
+       2        0   {}-{< }
+       2        0   {}-{<}
+       2        0   {}-{> }
+       2        0   {}-{Ab}
+       2        0   {}-{C<\n>}
+       2        0   {}-{Ch}
+       2        0   {}-{DE}
+       2        0   {}-{I }
+       2        0   {}-{In}
+       2        0   {}-{L }
+       2        0   {}-{LM}
+       2        0   {}-{R }
+       2        0   {}-{Ro}
+       2        0   {}-{S }
+       2        0   {}-{T }
+       2        0   {}-{Th}
+       2        0   {}-{Z.}
+       2        0   {}-{Zu}
+       2        0   {}-{[ }
+       2        0   {}-{ab}
+       2        0   {}-{ac}
+       2        0   {}-{ad}
+       2        0   {}-{al}
+       2        0   {}-{an}
+       2        0   {}-{ar}
+       2        0   {}-{at}
+       2        0   {}-{au}
+       2        0   {}-{av}
+       2        0   {}-{ay}
+       2        0   {}-{ca}
+       2        0   {}-{ce}
+       2        0   {}-{ds}
+       2        0   {}-{ed}
+       2        0   {}-{en}
+       2        0   {}-{ew}
+       2        0   {}-{ex}
+       2        0   {}-{fr}
+       2        0   {}-{h }
+       2        0   {}-{ha}
+       2        0   {}-{ho}
+       2        0   {}-{ie}
+       2        0   {}-{in}
+       2        0   {}-{it}
+       2        0   {}-{j }
+       2        0   {}-{ly}
+       2        0   {}-{mi}
+       2        0   {}-{mo}
+       2        0   {}-{n,}
+       2        0   {}-{nd}
+       2        0   {}-{ng}
+       2        0   {}-{om}
+       2        0   {}-{on}
+       2        0   {}-{op}
+       2        0   {}-{pr}
+       2        0   {}-{re}
+       2        0   {}-{rr}
+       2        0   {}-{sh}
+       2        0   {}-{to}
+       2        0   {}-{tr}
+       2        0   {}-{ve}
+       2        0   {}-{w }
+       2        0   {}-{x }
+       2        0   {}-{xp}
+       2        0   {}-{y;}
+       2        0   {}-{{ }
+       2        0   {}-{} }
+       2        0   {}-{§ }
+       2        0   {}-{© }
+       2        0   {}-{« }
+       2        0   {~ ~ ~}-{500}
+       2        0   {~}-{- }
+       2        0   {~}-{20)}
+       1        1   { }-{v}
+       1        1   {$}-{£}
+       1        1   {,}-{'}
+       1        1   {-~}-{~}
+       1        1   {.}-{A}
+       1        1   {A}-{g}
+       1        1   {a}-{d}
+       1        1   {c}-{E}
+       1        1   {c}-{n}
+       1        1   {e}-{;}
+       1        1   {e}-{L}
+       1        1   {g}-{%}
+       1        1   {g}-{§}
+       1        1   {g}-{é}
+       1        1   {h}-{?}
+       1        1   {i}-{1}
+       1        1   {o}-{O}
+       1        1   {s}-{=}
+       1        1   {t}-{(}
+       1        1   {t}-{L}
+       1        1   {t}-{{}
+       1        1   {y}-{x}
+       1        1   {}-{?}
+       1        1   {~~~~~~~~~~~~~~~~~~~~~~~~...}-{town :<\n>~<\n>~~<\n>civ...}
+       1        0   { }-{/}
+       1        0   { }-{c}
+       1        0   { }-{s}
+       1        0   { }-{x}
+       1        0   { ~~~}-{44}
+       1        0   {"}-{*}
+       1        0   {"}-{:}
+       1        0   {"}-{°}
+       1        0   {$}-{8}
+       1        0   {$}-{S}
+       1        0   {$}-{}
+       1        0   {&}-{s}
+       1        0   {'}-{?}
+       1        0   {'}-{®}
+       1        0   {'}-{°}
+       1        0   {(}-{t}
+       1        0   {,}-{l}
+       1        0   {,}-{s}
+       1        0   {,}-{y}
+       1        0   {-}-{=}
+       1        0   {-}-{>}
+       1        0   {-}-{b}
+       1        0   {-}-{c}
+       1        0   {-}-{i}
+       1        0   {-}-{o}
+       1        0   {-~}-{ }
+       1        0   {.}-{K}
+       1        0   {.}-{g}
+       1        0   {.}-{h}
+       1        0   {.}-{l}
+       1        0   {.}-{y}
+       1        0   {.~}-{"}
+       1        0   {1}-{)}
+       1        0   {1}-{4}
+       1        0   {3}-{@}
+       1        0   {3}-{J}
+       1        0   {3}-{}
+       1        0   {4}-{t}
+       1        0   {5}-{S}
+       1        0   {6}-{}
+       1        0   {7}-{?}
+       1        0   {8}-{9}
+       1        0   {9}-{$}
+       1        0   {:}-{.}
+       1        0   {;}-{}
+       1        0   {<\n>}-{}
+       1        0   {A}-{4}
+       1        0   {A}-{I}
+       1        0   {A}-{a}
+       1        0   {B}-{S}
+       1        0   {B}-{t}
+       1        0   {C}-{L}
+       1        0   {C}-{c}
+       1        0   {D}-{m}
+       1        0   {D}-{p}
+       1        0   {E}-{H}
+       1        0   {E}-{K}
+       1        0   {E}-{e}
+       1        0   {E}-{k}
+       1        0   {F}-{E}
+       1        0   {F}-{c}
+       1        0   {F}-{}
+       1        0   {G}-{M}
+       1        0   {G}-{c}
+       1        0   {G}-{t}
+       1        0   {G}-{}
+       1        0   {H}-{D}
+       1        0   {H}-{E}
+       1        0   {H}-{M}
+       1        0   {H}-{P}
+       1        0   {H}-{U}
+       1        0   {H}-{s}
+       1        0   {H}-{}
+       1        0   {I}-{!}
+       1        0   {I}-{A}
+       1        0   {J}-{I}
+       1        0   {J}-{L}
+       1        0   {J}-{T}
+       1        0   {J}-{h}
+       1        0   {J}-{r}
+       1        0   {J}-{}
+       1        0   {K}-{R}
+       1        0   {K}-{h}
+       1        0   {L}-{C}
+       1        0   {L}-{v}
+       1        0   {L}-{}
+       1        0   {M}-{m}
+       1        0   {M}-{t}
+       1        0   {O}-{C}
+       1        0   {O}-{Q}
+       1        0   {P}-{F}
+       1        0   {P}-{d}
+       1        0   {R}-{N}
+       1        0   {R}-{l}
+       1        0   {S}-{8}
+       1        0   {S}-{9}
+       1        0   {S}-{G}
+       1        0   {S}-{W}
+       1        0   {S}-{l}
+       1        0   {U}-{1}
+       1        0   {U}-{V}
+       1        0   {U}-{}
+       1        0   {V}-{Y}
+       1        0   {W}-{h}
+       1        0   {Y}-{V}
+       1        0   {Y}-{c}
+       1        0   {Y}-{¥}
+       1        0   {`}-{*}
+       1        0   {a}-{&}
+       1        0   {a}-{.}
+       1        0   {a}-{@}
+       1        0   {a}-{A}
+       1        0   {a}-{g}
+       1        0   {a}-{h}
+       1        0   {a}-{p}
+       1        0   {a}-{v}
+       1        0   {a}-{z}
+       1        0   {a~}-{e }
+       1        0   {b}-{c}
+       1        0   {b}-{f}
+       1        0   {b}-{u}
+       1        0   {c}-{D}
+       1        0   {c}-{P}
+       1        0   {c}-{g}
+       1        0   {c}-{k}
+       1        0   {c}-{l}
+       1        0   {c}-{u}
+       1        0   {c}-{w}
+       1        0   {d}-{,}
+       1        0   {d}-{C}
+       1        0   {d}-{e}
+       1        0   {d}-{f}
+       1        0   {d}-{i}
+       1        0   {d}-{o}
+       1        0   {d}-{p}
+       1        0   {d}-{y}
+       1        0   {e}-{ }
+       1        0   {e}-{'}
+       1        0   {e}-{@}
+       1        0   {e}-{f}
+       1        0   {e}-{t}
+       1        0   {f}-{B}
+       1        0   {f}-{H}
+       1        0   {f}-{J}
+       1        0   {f}-{M}
+       1        0   {f}-{c}
+       1        0   {f}-{d}
+       1        0   {f}-{£}
+       1        0   {g}-{.}
+       1        0   {g}-{;}
+       1        0   {g}-{c}
+       1        0   {g}-{f}
+       1        0   {g}-{n}
+       1        0   {g}-{t}
+       1        0   {g}-{w}
+       1        0   {g}-{y}
+       1        0   {h}-{ }
+       1        0   {h}-{<\n>}
+       1        0   {h}-{M}
+       1        0   {h}-{W}
+       1        0   {h}-{s}
+       1        0   {h}-{u}
+       1        0   {h}-{w}
+       1        0   {h}-{y}
+       1        0   {h~~~~~}-{}
+       1        0   {i}-{ }
+       1        0   {i}-{<\n>}
+       1        0   {i}-{H}
+       1        0   {i}-{a}
+       1        0   {i}-{j}
+       1        0   {i}-{u}
+       1        0   {i}-{}}
+       1        0   {j}-{f}
+       1        0   {j}-{i}
+       1        0   {k}-{i}
+       1        0   {k}-{l}
+       1        0   {k}-{t}
+       1        0   {k}-{y}
+       1        0   {l}-{'}
+       1        0   {l}-{)}
+       1        0   {l}-{,}
+       1        0   {l}-{.}
+       1        0   {l}-{1}
+       1        0   {l}-{B}
+       1        0   {l}-{G}
+       1        0   {l}-{H}
+       1        0   {l}-{T}
+       1        0   {l}-{c}
+       1        0   {l}-{r}
+       1        0   {m}-{,}
+       1        0   {m}-{M}
+       1        0   {m}-{f}
+       1        0   {m}-{i}
+       1        0   {m}-{k}
+       1        0   {m}-{r}
+       1        0   {m}-{s}
+       1        0   {m}-{t}
+       1        0   {n}-{ }
+       1        0   {n}-{a}
+       1        0   {n}-{b}
+       1        0   {n}-{i}
+       1        0   {n}-{o}
+       1        0   {n}-{p}
+       1        0   {n}-{s}
+       1        0   {n}-{v}
+       1        0   {o}-{$}
+       1        0   {o}-{i}
+       1        0   {o}-{j}
+       1        0   {o}-{r}
+       1        0   {o}-{«}
+       1        0   {p}-{D}
+       1        0   {p}-{f}
+       1        0   {p}-{h}
+       1        0   {p}-{n}
+       1        0   {p}-{z}
+       1        0   {r}-{ }
+       1        0   {r}-{<\n>}
+       1        0   {r}-{T}
+       1        0   {r}-{a}
+       1        0   {r}-{x}
+       1        0   {r}-{y}
+       1        0   {r~~~~~}-{}
+       1        0   {s}-{ }
+       1        0   {s}-{.}
+       1        0   {s}-{:}
+       1        0   {s}-{N}
+       1        0   {s}-{P}
+       1        0   {s}-{b}
+       1        0   {s}-{f}
+       1        0   {s}-{w}
+       1        0   {s}-{x}
+       1        0   {s}-{y}
+       1        0   {s}-{«}
+       1        0   {s}-{»}
+       1        0   {t}-{P}
+       1        0   {t}-{W}
+       1        0   {t}-{a}
+       1        0   {t}-{b}
+       1        0   {t}-{h}
+       1        0   {t}-{k}
+       1        0   {t}-{n}
+       1        0   {t}-{p}
+       1        0   {t}-{v}
+       1        0   {t}-{y}
+       1        0   {u}-{ }
+       1        0   {u}-{e}
+       1        0   {u}-{m}
+       1        0   {u}-{n}
+       1        0   {u}-{t}
+       1        0   {v}-{m}
+       1        0   {v}-{n}
+       1        0   {v}-{p}
+       1        0   {v}-{r}
+       1        0   {w}-{H}
+       1        0   {w}-{d}
+       1        0   {w}-{f}
+       1        0   {w}-{l}
+       1        0   {w}-{m}
+       1        0   {w}-{v}
+       1        0   {w}-{x}
+       1        0   {x}-{X}
+       1        0   {x}-{c}
+       1        0   {x}-{n}
+       1        0   {x}-{t}
+       1        0   {x}-{z}
+       1        0   {y}-{n}
+       1        0   {z}-{a}
+       1        0   {z}-{c}
+       1        0   {z}-{r}
+       1        0   {z}-{s}
+       1        0   {z}-{t}
+       1        0   {z}-{}
+       1        0   {}-{/}
+       1        0   {}-{0}
+       1        0   {}-{E}
+       1        0   {}-{L}
+       1        0   {}-{M}
+       1        0   {}-{N}
+       1        0   {}-{P}
+       1        0   {}-{R}
+       1        0   {}-{Z}
+       1        0   {}-{_}
+       1        0   {}-{m}
+       1        0   {}-{p}
+       1        0   {}-{v}
+       1        0   {}-{{}
+       1        0   {}-{»}
+       1        0   {~}-{ ;}
+       1        0   {~}-{CJ}
+       1        0   {~}-{r }
+       1        0   {~}-{si}
+
+   Count   Missed   %Right
+   14993      486    96.76   {<\n>}
+   68474     1684    97.54   { }
+       8        0   100.00   {!}
+    1898      106    94.42   {"}
+     134       11    91.79   {$}
+       8        0   100.00   {%}
+      19        6    68.42   {&}
+    1278       92    92.80   {'}
+     148       15    89.86   {(}
+     146       12    91.78   {)}
+       2        2     0.00   {+}
+    4873      305    93.74   {,}
+    3974      372    90.64   {-}
+    4614      800    82.66   {.}
+      20        7    65.00   {/}
+     854       35    95.90   {0}
+     691       68    90.16   {1}
+     364       26    92.86   {2}
+     295       47    84.07   {3}
+     244       20    91.80   {4}
+     286       23    91.96   {5}
+     219       27    87.67   {6}
+     225       15    93.33   {7}
+     238       29    87.82   {8}
+     455       70    84.62   {9}
+     203       38    81.28   {:}
+      78       23    70.51   {;}
+      62        1    98.39   {?}
+    1637      167    89.80   {A}
+    1007       70    93.05   {B}
+    1308      114    91.28   {C}
+     702       74    89.46   {D}
+     672      182    72.92   {E}
+     505       68    86.53   {F}
+     483       41    91.51   {G}
+     903       81    91.03   {H}
+    1212      194    83.99   {I}
+     385       30    92.21   {J}
+     359       24    93.31   {K}
+     576       70    87.85   {L}
+     951       76    92.01   {M}
+     942       94    90.02   {N}
+     613      101    83.52   {O}
+     736       69    90.62   {P}
+      16        2    87.50   {Q}
+     946      127    86.58   {R}
+    1677      210    87.48   {S}
+    1632      152    90.69   {T}
+     401       41    89.78   {U}
+     208       19    90.87   {V}
+     770       48    93.77   {W}
+      11        2    81.82   {X}
+     263       31    88.21   {Y}
+      48        2    95.83   {Z}
+      15        0   100.00   {[}
+      15        7    53.33   {]}
+      41       41     0.00   {`}
+   31730     1069    96.63   {a}
+    5348      218    95.92   {b}
+   11048      445    95.97   {c}
+   14138      466    96.70   {d}
+   45984     1313    97.14   {e}
+    8082      308    96.19   {f}
+    7430      259    96.51   {g}
+   17769      552    96.89   {h}
+   27810     1048    96.23   {i}
+     442       23    94.80   {j}
+    2698      140    94.81   {k}
+   15765      714    95.47   {l}
+    8496      284    96.66   {m}
+   26492      874    96.70   {n}
+   28143      932    96.69   {o}
+    7251      244    96.63   {p}
+     262        9    96.56   {q}
+   24175      863    96.43   {r}
+   25510      877    96.56   {s}
+   32233      959    97.02   {t}
+    9502      366    96.15   {u}
+    3856      152    96.06   {v}
+    6365      252    96.04   {w}
+     817       53    93.51   {x}
+    6410      263    95.90   {y}
+     487       26    94.66   {z}

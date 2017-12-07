@@ -1,0 +1,1574 @@
+UNLV-ISRI OCR Accuracy Report Version 5.1
+-----------------------------------------
+  319747   Characters
+   14302   Errors
+   95.53%  Accuracy
+
+     550   Reject Characters
+     338   Suspect Markers
+      23   False Marks
+    0.28%  Characters Marked
+   96.79%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+     415      516     3100     4031   Marked
+    3332     2354     4585    10271   Unmarked
+    3747     2870     7685    14302   Total
+
+   Count   Missed   %Right
+   52366      791    98.49   ASCII Spacing Characters
+   10656      416    96.10   ASCII Special Symbols
+    8797      491    94.42   ASCII Digits
+   22781     1890    91.70   ASCII Uppercase Letters
+  225147     3029    98.65   ASCII Lowercase Letters
+  319747     6617    97.93   Total
+
+  Errors   Marked   Correct-Generated
+     997        0   {}-{AMERICANS<\n>UNITED<\n>F...}
+     747        0   {Comstock Cunningham, Esq...}-{}
+     312      312   {}-{~<\n>memeer |P "00 netwo...}
+     244      244   {}-{~<\n>}
+     232        0   {}-{utong Hemmert {indo Sore...}
+     182      182   {2}-{~<\n>cclainguon<\n>sma...}
+     142        0   {}-{The Prudential W e Prude...}
+     129      129   {}-{I<\n>b<\n>) ~ 00<\n>i...}
+     116        0   {}-{- }
+     100        0   {No Annual Fee for the Fi...}-{}
+      92        0   {}-{ }
+      90        0   {}-{the enclosed form and re...}
+      88       88   {}-{~<\n>~<\n>}
+      83        0   {NT}-{ld rate Maltet -* © bial...}
+      79        0   {man<\n>Victor G. Rosenbl...}-{}
+      75       75   {}-{. / 1/ 2<\n>. , 4<\n>lau...}
+      74       74   {}-{Aree MMe ahra<\n>fain vw...}
+      70       70   {so that Detroit's poor p...}-{~}
+      68        0   { MONROE STREET ~ CHICAGO...}-{}
+      63       63   {}-{~<\n>~<\n>~<\n>II \<\n>I...}
+      59        0   {go, IL 60604<\n>312. 786...}-{}
+      59        0   {}-{fax : 33-1-4765-5007<\n>...}
+      57       57   {}-{~<\n>James W. Cassity, C...}
+      56       56   {}-{ooo Jo apetyy dar tre au...}
+      54       54   {}-{/ L /<'/7/ I<\n>~ N/ ) a...}
+      54        0   {HEALTH AFTER 50.<\n>That...}-{}
+      53       53   {Finding eigenvalues and ...}-{BA<\n>~~~}
+      53        0   {}-{...........................}
+      53        0   {}-{nts ls a 'ustian TLIGITI...}
+      52       52   {}-{~<\n>heer oem amen am me...}
+      52        0   {}-{* * * * * * * * * * * * ...}
+      50       50   {}-{m \%, aA bow s<\n>[o. t"...}
+      45        0   {}-{ Fee for the First Yeart...}
+      44       44   {}-{\ Dig 00)<\n>(f \<\n>& d...}
+      43       43   {}-{7<\n>'//,/'/)/1'/&j /"fm...}
+      43        0   {}-{RARY ASSISTANCE FOR DOME...}
+      41       41   {continues without missin...}-{~<\n>~~~}
+      41        0   {David C. Jones<\n>Vice P...}-{}
+      40       40   {}-{© a > i<\n>G 7 Lad VZ /...}
+      39       39   {}-{~<\n>58<\n>ROBERT B CARL...}
+      38       38   {}-{~<\n>~<\n>o a + om<\n>19...}
+      37       37   {<\n>General Partner,<\n>...}-{ THE POLICE AND FBI ARE ...}
+      37       37   {}-{~<\n>-J<\n>.%@30000@000@...}
+      36       36   {}-{~<\n>~<\n>~<\n>}
+      36       36   {}-{~<\n>~<\n>~<\n>~<\n>~...}
+      35        0   {Technologies, Inc.<\n>Ku...}-{}
+      34        0   {ate series ever<\n>appro...}-{}
+      32       32   {CHAIRMAN, SUBCOMMITTEE}-{' (202) 225-5965<\n>~...}
+      32       32   {}-{0 O - a<\n>'p/Ld/LLCL~ |...}
+      32       32   {}-{~<\n>~<\n>~~<\n>~~~<\n>[...}
+      32       32   {}-{~~~<\n>~<\n>~<\n>~<\n>~...}
+      32        0   {TELECOMMU}-{C<\n>(801) 363-9600 - Fa...}
+      32        0   {rest<\n>Law & Education...}-{}
+      32        0   {}-{Your exclusive number fo...}
+      31       31   {}-{Support Our Capuchin Kit...}
+      31        0   { it as soon as possible ...}-{}
+      30        0   {(612) 830-2121<\n>August...}-{}
+      30        0   {A Not-For-Profit Organiz...}-{}
+      30        0   {}-{ A Not-For Projit Orcan:...}
+      29       29   {}-{y*<\n>, Ar in (3775, (1/...}
+      29        0   {}-{ Insurance Company of Am...}
+      29        0   {}-{/<\n>- -/<\n>soo Ree ale...}
+      28        0   {,}-{.}
+      28        0   {}-{24842 River Heights Driv...}
+      27       27   {}-{///N/_7,///y7/7<\n>_ cp ...}
+      27        0   {NO. 301003<\n>ID NO. 266...}-{}
+      27        0   {}-{NG<\n>A United Way Agenc...}
+      26       26   {}-{4 ~ AA ><\n>t \f(\4 vox ...}
+      26        0   {FOR PUBLIC<\n>DISPLAY....}-{Busline Media<\n>. Catif...}
+      26        0   {The Savings You Deserve....}-{}
+      26        0   {}-{A ., Reno,<\n>DEBBIE WAL...}
+      26        0   {}-{Las Vegas, NV. 89102-435...}
+      26        0   {~ }-{}
+      25       25   {}-{@%~nzau ?, }bauZéLE§Lb~f...}
+      25       25   {}-{Li AZ >Jé t???» ...........}
+      25        0   {RVICES<\n>COMMITTEE ON...}-{vaDa , 9 > WasHincton, D...}
+      25        0   {campuses<\n>August 10, 1...}-{}
+      25        0   {}-{3000<\n>Dallas, Texas 75...}
+      24       24   {}-{H Dc bo 'TUPENRCL<\n>~~~...}
+      24       24   {}-{~ slit/Th ra /// " j<\n>...}
+      24       24   {}-{~<\n>THE BRADFORD EXCHAN...}
+      24        0   {* }-{}
+      24        0   {Dear Responsible Diver,...}-{}
+      24        0   {}-{ * Respond now and get *}
+      24        0   {}-{ P. Kay Carl eonard Paul}
+      24        0   {}-{Dear Responsible Diver, }
+      24        0   {}-{tel : 33-1-4765-3942 -_ }
+      23       23   {}-{WW ~ 64/1777"<\n>Governo...}
+      23       23   {}-{y | / ~ '\»- \<\n>| ' |...}
+      23        0   {California<\n>Correction...}-{ABDUCTED BY A STRANGER}
+      23        0   {ETROMEDIA~<\n>METROMEDIA}-{etromedia Communications}
+      23        0   {ION}-{he Savings You Deserve.}
+      23        0   {}-{FK1162831<\n>Frank B Ric...}
+      23        0   {}-{crim<\n>1D. £0. Gentry...}
+      22       22   {}-{ 1. 7 lQ/7. - if) (3 I}
+      22       22   {}-{for MiSSiIlg Children }
+      22        0   { is due in our office.}-{}
+      22        0   {.lefevre@der.edf.fr<\n>M...}-{ Junichi KANAI<\n>92141}
+      22        0   {<\n>FIND HER.<\n>WE KNOW...}-{fficers Association<\n>J...}
+      22        0   {E AND FBI ARE TRYING D}-{orrectional Peace SUCC}
+      22        0   {Sincerely,<\n>}-{}
+      22        0   {}-{ Keith H. Rauschenbach}
+      22        0   {}-{offer, you'll save up }
+      21       21   {TURBOC}-{~<\n>~<\n>~~<\n>~<\n>~~...}
+      21        0   {BUILDING<\n>WAS}-{gt t (702) 792-2424<\n>C}
+      21        0   {I}-{|}
+      21        0   {}-{Southfield, MI 48034 }
+      20       20   {Peter Gaffney, Ph.D.}-{o-<\n>m Eek? 6224355 63}
+      20       20   {Sincerely,}-{~}
+      20       20   {}-{2 r W) T* J) ~ le 2<\n>}
+      20       20   {}-{~<\n>2 H<\n>: oe<\n>puke...}
+      20        0   {A United Way Agency }-{}
+      20        0   {M. COLLINS<\n>PRESIDENT}-{Burdick & McDonough}
+      20        0   {NEVADA<\n>COMMITTEE ON}-{House Orrice Buioinc}
+      20        0   {Putting Technolo}-{Tare LCCC;<\n>o_ Cuttin}
+      20        0   {}-{Technologies, Inc. N}
+      20        0   {}-{WASHINGTON * OREGON<\n>}
+      20        0   {}-{next page please...<\n>}
+      19       19   { 20515-2801<\n>(202)}-{OMMITTEE ON Dugress}
+      19       19   {Gregory J. Peterson}-{~}
+      19       19   {J}-{\\'ZZ, \;~AQW4Q4//<\n>}
+      19        0   {Peace<\n>Officers Asso}-{IN CALIFORNIA.<\n>Mi}
+      19        0   {September 30, 1993<\n>}-{}
+      19        0   {ck & McDonough<\n>Dear}-{on<\n>Tanker | 0000 WE}
+      19        0   {pany Board of Revie}-{}
+      19        0   {tate Department of<\n>}-{ECTOR, PLEASE POST }
+      19        0   {}-{ RECEIPT NO. 301003}
+      19        0   {}-{I/ Shan 3. Probgee<\n>}
+      19        0   {}-{September 23, 1993 }
+      19        0   {}-{September 30, 1993 }
+      18       18   {(702) 792-2424<\n>240}-{\ 4}<\n>~<\n>ano Tourism}
+      18       18   {University<\n>}-{<4 4 (}<\n>~<\n>(Ookami }
+      18       18   {e<\n>24842 River Heig}-{nhb_a~xmxt1JmN__I}
+      18       18   {}-{ma:<\n>~~~~~<\n>~<\n>~...}
+      18        0   {OR LIFE<\n>Public Int}-{}
+      18        0   {l}-{i}
+      18        0   {}-{_ }
+      18        0   {}-{o , ,<\n>134, > NON!<\n>}
+      17       17   {you're feeling in}-{%<\n>~~~~<\n>~~~~<\n>~~}
+      17       17   {}-{(?§<n 54y )<\n>J<\n>"o...}
+      17       17   {}-{00<\n>\\ 1 A 4I>\ 7<\n>}
+      17       17   {}-{~<\n>-<\n>~<\n>\_<\n>go ...}
+      17        0   {.}-{}
+      17        0   {225-5965<\n>DISTRICT}-{u t n' g a £5 240}
+      17        0   {<\n>}-{ }
+      17        0   {Candiotti<\n>Pitcher}-{ASSAULT OFFICERS}
+      17        0   {Coopers<\n>&Lybrand<\n>}-{}
+      17        0   {DVM/VPI<\n>INSURANCE}-{7 fll -}
+      17        0   {SYSTAT}-{ay z<\n>$3] 4 -OMN _}
+      17        0   {WINDOWS}-{TBH HPL o winpows}
+      17        0   {YOUR TIME IN THIS}-{Partner.<\n>Merrill}
+      17        0   {l: 33-1-4765-3942}-{phen RICE,}
+      17        0   {needy people you }-{}
+      17        0   {your support of t}-{}
+      17        0   {}-{ # a 14.9%* APR #}
+      17        0   {}-{%o %o xo %o % ox<\n>}
+      17        0   {}-{Washington, BC 20}
+      17        0   {}-{¥ X % % % % % %%<\n>}
+      16       16   {}-{"3/9 JL' ~ CXN<\n>m}
+      16       16   {}-{3 BSH ASS<\n>~~~<\n>~...}
+      16       16   {}-{QA/Q g "Aw "an"<\n>}
+      16       16   {}-{~<\n>~<\n>~<\n>~<\n>}
+      16        0   {<\n>President<\n>Paige}-{}
+      16        0   {August 23, 1993<\n>}-{}
+      16        0   {Capuchin Kitchen}-{1993}
+      16        0   {FLMI<\n>Second Vice}-{NY 10017-3206}
+      16        0   {PRESENTER MAILBA}-{O}
+      16        0   {Stop<\n>Workstation}-{§710%5-00;}
+      16        0   {WOULD APPRECIATE}-{Schneer<\n>General}
+      16        0   {oundation<\n>George}-{ORCEMENT, PLEASE}
+      16        0   {}-{ August 23, 1993}
+      16        0   {}-{ Melvin I. Olken}
+      16        0   {}-{<\n>0<\n># w P -<\n>a tn...}
+      16        0   {}-{August 10, 1993<\n>}
+      16        0   {}-{Career Services }
+      16        0   {}-{Peripheral<\n>Shop<\n>}
+      15       15   { to commemorate}-{<\n>~}
+      15       15   {August 23, 1993}-{~~~<\n>yee)}
+      15       15   {D}-{J 1. - '~ 0 NOV}
+      15       15   {TEMPORARY ASSIS}-{~<\n>}
+      15       15   {}-{/L 1L 4L(4<~-A<\n>}
+      15       15   {}-{704.3; £44.55:<\n>}
+      15       15   {}-{Z7 8<\n>12.8 ~ OY<\n>}
+      15       15   {}-{f /<\n>Fé W463 74<\n>}
+      15        0   { out for you wh}-{}
+      15        0   {(201) 777-6999<\n>}-{CRAFTSMANSHIP }
+      15        0   {33-1-4765-5007<\n>}-{Av du Général d}
+      15        0   {89101}-{So. - 3rd Floor}
+      15        0   {9015<\n>(702)}-{<\n>on inrecucence}
+      15        0   {<\n>121 Electrical}-{ East<\n>Computer}
+      15        0   {Burrows<\n>Presid}-{PASS THESE TO<\n>G}
+      15        0   {CRAFTSMANSHIP }-{(201) 777-6999<\n>}
+      15        0   {DEBBIE WALLACE<\n>}-{T}
+      15        0   {Dodgers<\n>Michael}-{IN THE}
+      15        0   {Paul<\n>Assistant }-{}
+      15        0   {Recycled Paper<\n>}-{}
+      15        0   {and<\n>Peripheral<\n>}-{1 0 1 4 0 MOE }
+      15        0   {ife.<\n>I hope at }-{}
+      15        0   {ransportation<\n>}-{HESE BEHIND GLA}
+      15        0   {x 363-9933<\n>UTAH}-{te}
+      15        0   {}-{ (612) 830-2121}
+      15        0   {}-{ John M. Kimpel}
+      15        0   {}-{- o in p t N A<\n>}
+      15        0   {}-{GP -BC -M} IAB }
+      15        0   {}-{ID NO. 2661350<\n>}
+      15        0   {}-{oo 2 GC/2e CCL<\n>}
+      15        0   {}-{s»<\n>T0 - NO[<\n>LQ<\n>}
+      14       14   {(814) 865-7667}-{PENNSTATE ~}
+      14       14   {B}-{~<\n>~<\n>~~~<\n>Yuue~...}
+      14       14   {Financial<\n>Serv}-{~~~<\n>~<\n>~<\n>Princ}
+      14       14   {Your exclusive}-{F<\n>~Ww<\n>A<\n>7<\n>ht}
+      14       14   {}-{ (de<\n>f-] ~}?<\n>J}
+      14       14   {}-{42,7 c. Amami<\n>}
+      14       14   {}-{70.4! "Liz/4K<\n>}
+      14       14   {}-{~<\n>~~<\n>+J Fax #<\n>}
+      14        0   {BUSY AND HAVE}-{Sanzeri<\n>Victim}
+      14        0   {EET<\n>HENDERSON,}-{epresentatives}
+      14        0   {Long Distance<\n>}-{}
+      14        0   {SECTOR, PLEASE}-{Vice President}
+      14        0   {TM}-{"}
+      14        0   {e'll even watc}-{}
+      14        0   {tax purposes.<\n>}-{}
+      14        0   {}-{ Kunishiro Sai}
+      14        0   {}-{/ ce >or Sea]<\n>}
+      14        0   {}-{Lop 1. W P¥ m<\n>}
+      14        0   {}-{March 9, 1994 }
+      14        0   {}-{mu=-<\n>Works car}
+      14        0   {}-{or<\n>1s <a <=.<\n>*}
+      13       13   { Frank B Rice}-{<\n>~<\n>~~~~<\n>~~}
+      13       13   {Best Regards,}-{~~~~<\n>~~}
+      13       13   {INTERMOUNTAIN}-{~<\n>~}
+      13       13   {K}-{ Y to0L ~O001}
+      13       13   {Mark Helgeson}-{~}
+      13       13   {}-{1307 ~ A0.<\n>- }
+      13       13   {}-{Frank B Rice }
+      13       13   {}-{~<\n>OU<\n>COVER ®<\n>}
+      13       13   {}-{~<\n>{+10 -O001<\n>}
+      13        0   { CRISIS, INC.}-{}
+      13        0   {************ }-{}
+      13        0   {- 3rd Floor<\n>}-{Distance<\n>125 }
+      13        0   {48034<\n>RECEIPT}-{for}
+      13        0   {FRANK}-{suldlast»"<\n>{Z}
+      13        0   {OREGON<\n>Access}-{89101}
+      13        0   {away.<\n>When yo}-{}
+      13        0   {ch 9, 1994<\n>Mr}-{}
+      13        0   {ite 1804<\n>Chic}-{}
+      13        0   {rintendent<\n>Se}-{}
+      13        0   {}-{ Dear People:}
+      13        0   {}-{"#<\n>ss<\n>«[<\n>{<\n>1...}
+      13        0   {}-{<\n>Sincerely,<\n>-}
+      13        0   {}-{Spring, 1993<\n>}
+      13        0   {}-{ane) I /J ar<\n>}
+      12       12   {HAWKI}-{~zz 9M 6<\n>RM }
+      12       12   {}-{(k-<\n>\)__/ -<\n>}
+      12       12   {}-{- p<\n>/ LUV/J<\n>}
+      12       12   {}-{M577; Guth.<\n>}
+      12       12   {}-{jg"? Z/i/ZZ<\n>}
+      12       12   {}-{~<\n>Ny} Q COO<\n>}
+      12       12   {}-{~<\n>Post<\n>Salt }
+      12       12   {}-{~<\n>~<\n>RECEIPT<\n>}
+      12       12   {}-{~LECEFL____<\n>}
+      12       12   {}-{«~<\n>§50b 60|<\n>}
+      12        0   {510830<\n>Salt}-{IDAHO Access}
+      12        0   {800}-{Your One<\n>soo}
+      12        0   {A. Kaufman<\n>B}-{PUBLIC<\n>Medi}
+      12        0   {ADVANCEMENT<\n>}-{University }
+      12        0   {Andrene Lane}-{830-2121}
+      12        0   {BEHIND GLASS}-{&<\n>Relations,}
+      12        0   {Fritz Kunze<\n>}-{}
+      12        0   {IDAHO<\n>NEVADA}-{10th}
+      12        0   {NC.<\n>FINE LEA}-{C, NJ 07055<\n>}
+      12        0   {QuickStrokes}-{""}
+      12        0   {TM}-{""}
+      12        0   {U}-{College of E}
+      12        0   {are material}-{}
+      12        0   {h 84151-0830}-{nce}
+      12        0   {}-{ _ _ _ _ lz"}
+      12        0   {}-{ER MAILBAG T}
+      12        0   {}-{l) Abia. 8.<\n>}
+      12        0   {}-{«\ Marriott<\n>}
+      11       11   {Dallas, Tex}-{} &LyBr}
+      11       11   {Larry Noble}-{~~~}
+      11       11   {PERATELY T}-{SFUL SOON.<\n>}
+      11       11   {Suite 3000}-{~<\n>~<\n>Coopers}
+      11       11   {W}-{YSr-O0|<\n>~<\n>N}
+      11       11   {k B. & Patr}-{LjUL}
+      11       11   {}-{"535-6OI<\n>~<\n>}
+      11       11   {}-{PA- prpt~-<\n>}
+      11       11   {}-{~<\n>~~~ ~~<\n>~<\n>}
+      11        0   { #445<\n>LAS V}-{XATION HEND}
+      11        0   { understand}-{}
+      11        0   {-3-}-{syd > O0 L)}
+      11        0   {13, 1994<\n>De}-{Parents, M}
+      11        0   {14.9%* APR<\n>}-{}
+      11        0   {777-6028}-{GENERATIONS}
+      11        0   {<\n>Director<\n>C}-{ ) J}
+      11        0   {Floor<\n>Post }-{WASHINGT}
+      11        0   {GENERATIONS}-{777-6028}
+      11        0   {IDAHO<\n>WASHI}-{}
+      11        0   {IMPORTANT<\n>M}-{Research & }
+      11        0   {INTELLIGE}-{Las Vecas, }
+      11        0   {Mohan<\n>Vice }-{"Ors DIS}
+      11        0   {ONSERVATIVE}-{onservative}
+      11        0   {REBEL PLUS<\n>}-{}
+      11        0   {RELY,<\n>DAVID}-{NT<\n>Carroll,}
+      11        0   {Sincerely:<\n>}-{}
+      11        0   {Soup Kitche}-{}
+      11        0   {and health }-{}
+      11        0   {e shown the}-{.}
+      11        0   {east part o}-{}
+      11        0   {set a spend}-{}
+      11        0   {t Disney Co}-{}
+      11        0   {}-{%o % o # #<\n>}
+      11        0   {}-{(binte mes<\n>}
+      11        0   {}-{71A = 2) UW}
+      11        0   {}-{REBEL PLUS }
+      11        0   {}-{W O- Wuanx<\n>}
+      11        0   {}-{© Dearborn }
+      10       10   {Cordially,}-{~}
+      10       10   {Sincerely,}-{Wm~q MWZW}
+      10       10   {TECHNOLOGY}-{~}
+      10       10   {lector's p}-{m}
+      10       10   {}-{)) ~0M,<\n>§ }
+      10       10   {}-{/( {p/V'v<\n>}
+      10       10   {}-{o-'scp'w' }
+      10       10   {}-{~<\n>F X J3_<\n>}
+      10       10   {}-{~<\n>~~<\n>}
+      10       10   {}-{«B3/rx<\n>~<\n>C}
+      10        0   { FK1162831}-{}
+      10        0   { more Gift}-{}
+      10        0   { }-{}
+      10        0   { ~ OREGON<\n>A}-{ffi}
+      10        0   {."--Harvey}-{}
+      10        0   {830-2121<\n>F}-{And}
+      10        0   {981-3699. }-{}
+      10        0   {<\n>Governor<\n>}-{ }
+      10        0   {<\n>PASSAIC, }-{S INC.<\n>FI}
+      10        0   {<\n>September}-{C}
+      10        0   {BUSINESS}-{20515-2801}
+      10        0   {ELECT}-{ahara #445}
+      10        0   {Henderson,}-{NV}
+      10        0   {MACHINERY<\n>}-{}
+      10        0   {Microsoft~<\n>}-{}
+      10        0   {People:<\n>IF}-{KNOW}
+      10        0   {President,}-{hll tom IF}
+      10        0   {President<\n>}-{}
+      10        0   {SUCCESSFU}-{Rockne A. }
+      10        0   {Sincerely,}-{o}
+      10        0   {Stephen RI}-{}
+      10        0   {Vegas, NV.}-{4441<\n>Box}
+      10        0   {k, NY 1001}-{esident<\n>}
+      10        0   {l<\n>}-{intendent }
+      10        0   {n Street<\n>S}-{}
+      10        0   {nbach<\n>CEBS}-{w York}
+      10        0   {number for}-{X<\n>[c}
+      10        0   {roll, Burd}-{ansportat}
+      10        0   {ulle<\n>92141}-{s}
+      10        0   {}-{ V U . , W}
+      10        0   {}-{.}
+      10        0   {}-{1574 -NO:<\n>}
+      10        0   {}-{A}
+      10        0   {}-{Baz<\n>and =<\n>}
+      10        0   {}-{YFU PRESEN}
+      10        0   {}-{ers Derk<\n>B}
+      10        0   {}-{ma tz -<\n>Ho}
+      10        0   {}-{n-<\n>Peter N}
+      10        0   {}-{ume ix y-<\n>}
+       9        9   {AIIM}-{~<\n>§ P04 ~}
+       9        9   {AMERICANS}-{~}
+       9        9   {CarRental~~}-{~}
+       9        9   {Corporate}-{~-}
+       9        9   {Lucia, Jr}-{FIND HER}
+       9        9   {}-{a own"<\n>~<\n>}
+       9        9   {}-{~<\n>~ (60)<\n>}
+       9        9   {}-{~<\n>~<\n>ow<\n>~<\n>}
+       9        0   {$4995}-{£ SIL YSI}
+       9        0   {,<\n>Junichi}-{DEX}
+       9        0   {23, 1993<\n>}-{}
+       9        0   {24, 1993<\n>}-{Molnar }
+       9        0   {871 4441<\n>}-{}
+       9        0   {<\n>1ST DIST}-{ ee 2431 }
+       9        0   {<\n>Computer}-{ ili}
+       9        0   {A STRANGE}-{YOUR EFFO}
+       9        0   {ASSOCIATI}-{iss }
+       9        0   {Children<\n>}-{}
+       9        0   {Collins<\n>}-{IN LAW EN}
+       9        0   {Dearborn<\n>}-{}
+       9        0   {Distance<\n>}-{510830 }
+       9        0   {D~I~S~T~A~N~C~E<\n>}-{Utah 84151-0830 }
+       9        0   {I. Olken<\n>}-{}
+       9        0   {My advice}-{}
+       9        0   {NT, TAXAT}-{RvicEs D}
+       9        0   {PENNSTATE}-{15] 1-60|}
+       9        0   {PERMAN}-{hal 1785 }
+       9        0   {So. State}-{UTAH}
+       9        0   {Works<\n>Tom}-{SEXUAL}
+       9        0   {e<\n>David S}-{ion Offi}
+       9        0   {hop<\n>10140}-{ A R I}
+       9        0   {it card o}-{-e}
+       9        0   {resident }-{LAY .<\n>T}
+       9        0   {resident,}-{OLLY WAS}
+       9        0   {society.<\n>}-{}
+       9        0   {}-{ 1 it Or,}
+       9        0   {}-{ 296-7980}
+       9        0   {}-{ campuses}
+       9        0   {}-{&<\n>-Plus?<\n>}
+       9        0   {}-{101-00 |<\n>}
+       9        0   {}-{2<\n>2<\n>bie. }
+       9        0   {}-{5 ? 1991 }
+       9        0   {}-{Ciue Clu<\n>}
+       9        0   {}-{O C JL)<\n>O}
+       9        0   {~C~O~N~N~E~C~T~I~O~}-{ & s. E C I 1 - 0 }
+       8        8   {-2-}-{N a); Jy}
+       8        8   {Gerry De}-{é~}
+       8        8   {Your One}-{~}
+       8        8   {erely,}-{<\n>~~~<\n>~ ~}
+       8        8   {nd mind,}-{xéy~hg}
+       8        8   {ts Drive}-{5_$}
+       8        8   {}-{-~ L -/<\n>}
+       8        8   {}-{0/14/77<\n>}
+       8        8   {}-{~<\n>=-3<\n># }
+       8        8   {}-{~<\n>~~~<\n>®<\n>}
+       8        8   {}-{~y a'aa<\n>}
+       8        0   {/answers}-{}
+       8        0   {10285<\n>Ro}-{c}
+       8        0   {14, Suit}-{Telephon}
+       8        0   {363-9600}-{So.}
+       8        0   {<\n>CLUB~~<\n>Na}-{ Aye}
+       8        0   {<\n>Leonard}-{}
+       8        0   {<\n>Respond}-{}
+       8        0   {Av du G~~n~~}-{M}
+       8        0   {Corporat}-{Mutual L}
+       8        0   {DE 19850}-{Hodges}
+       8        0   {J. Deasy}-{PRIVATE}
+       8        0   {Jamie P.}-{Director}
+       8        0   {Molnar}-{24, 1993}
+       8        0   {NCE FOR }-{}
+       8        0   {NIA.<\n>THE}-{S WILL}
+       8        0   {NY REQUE}-{dvocate }
+       8        0   {Parents,}-{13, 1994}
+       8        0   {SM}-{"}
+       8        0   {Thomas N}-{CLAM}
+       8        0   {advance.}-{<-}
+       8        0   {e}-{}
+       8        0   {l L}-{nce<\n>Serv}
+       8        0   {society.}-{&}
+       8        0   {}-{ '}
+       8        0   {}-{ _}
+       8        0   {}-{1) 1a C<\n>}
+       8        0   {}-{135-00)<\n>}
+       8        0   {}-{9 j NGj<\n>}
+       8        0   {}-{<\n>}
+       8        0   {}-{CM<\n>CB _<\n>}
+       8        0   {}-{MHp ber<\n>}
+       8        0   {}-{Mo foot<\n>}
+       8        0   {}-{U -U: QE}
+       8        0   {}-{bey Aik<\n>}
+       8        0   {}-{istrict,}
+       8        0   {}-{ly R<\n>Woo}
+       8        0   {~ COLORAD}-{Floor<\n>}
+       7        7   { reason}-{'"~»}
+       7        7   {Chapter}-{~}
+       7        7   {Dartley}-{~<\n>~<\n>~~}
+       7        7   {ssocs.}-{TELY TO}
+       7        7   {y porce}-{mm}
+       7        7   {}-{5 WW"<\n>A}
+       7        7   {}-{AT&T<\n>~<\n>}
+       7        7   {}-{WNJL V<\n>}
+       7        7   {}-{XOO/ 0 }
+       7        7   {}-{p ~ *-<\n>}
+       7        7   {}-{~ ~ ~~<\n>}
+       7        7   {}-{~<\n>_/<\n>~<\n>}
+       7        7   {}-{~<\n>~<\n>*~ }
+       7        7   {}-{~<\n>~<\n>\_<\n>}
+       7        0   {. SAHAR}-{MENT, T}
+       7        0   {07055<\n>T}-{LEATH}
+       7        0   {31 RAY}-{<\n>SMALL }
+       7        0   {354<\n>Tel}-{, Suit}
+       7        0   {90-6630}-{}
+       7        0   {9<\n>Fax #}-{77}
+       7        0   {<\n>Calif.}-{ou's}
+       7        0   {<\n>Melvin}-{}
+       7        0   {<\n>P. K}-{ Assist}
+       7        0   {<\n>}-{ E tes }
+       7        0   {ABDUCTE}-{HOPE AN}
+       7        0   {Angeles}-{YOU ARE}
+       7        0   {Couns}-{State D}
+       7        0   {EFFORTS}-{Counsel}
+       7        0   {Enjoy!}-{Jh cle,}
+       7        0   {HINGTON}-{t.}
+       7        0   {Hodges<\n>}-{19850 }
+       7        0   {JR.}-{¢. 4 /"}
+       7        0   {Kevin}-{YOU ARE}
+       7        0   {M. Kimp}-{Couns}
+       7        0   {MERICAN}-{merican}
+       7        0   {Merrill}-{)4>}
+       7        0   {Missing}-{-__}
+       7        0   {SPRINGS}-{§rrines}
+       7        0   {Spring,}-{$7105}
+       7        0   {UNITED<\n>}-{}
+       7        0   {Univ}-{) Sxy t}
+       7        0   {WBS/rx<\n>}-{}
+       7        0   {complet}-{}
+       7        0   {mo}-{)<\n>. S. }
+       7        0   {n Novey}-{dgers}
+       7        0   {nce}-{a £27 b}
+       7        0   {nzeri<\n>V}-{sy<\n>Publ}
+       7        0   {q}-{ i n g }
+       7        0   {rsi}-{ pa?<\n>; }
+       7        0   {s 75201}-{nd}
+       7        0   {sed for}-{}
+       7        0   {to surv}-{}
+       7        0   {y}-{ou } 6d}
+       7        0   {}-{ /Z<\n>Qli}
+       7        0   {}-{5584L1<\n>}
+       7        0   {}-{5opr d<\n>}
+       7        0   {}-{<\n>1<\n>D .<\n>}
+       7        0   {}-{A A/a-<\n>}
+       7        0   {}-{August<\n>}
+       7        0   {}-{Enjoy!<\n>}
+       7        0   {}-{F .= *<\n>}
+       7        0   {}-{FRANCE }
+       7        0   {}-{Fbaidd }
+       7        0   {}-{Rest C }
+       7        0   {}-{W<\n>E.C.O}
+       7        0   {}-{anchior}
+       7        0   {}-{ane<\n>y J}
+       7        0   {}-{ar!<\n>All}
+       7        0   {}-{member<\n>}
+       7        0   {}-{o $40 t}
+       7        0   {}-{qo-ébBO}
+       7        0   {}-{ses-s7e}
+       6        6   { A. Ri}-{LJbdu}
+       6        6   {AT&T}-{~<\n>Cl -}
+       6        6   {Lisa M}-{~~<\n>}
+       6        6   {S~P~R~I~N~T}-{~<\n>~ ~}
+       6        6   {Throug}-{~<\n>T}
+       6        6   {ain co}-{~}
+       6        6   {ollins}-{OHIYHS}
+       6        6   {}-{ X00 0}
+       6        6   {}-{.-/ -<\n>}
+       6        6   {}-{QWuMW<\n>}
+       6        6   {}-{~<\n>OQ_ }
+       6        6   {}-{~<\n>h ®<\n>}
+       6        6   {}-{~<\n>~<\n>m }
+       6        0   { and r}-{pl}
+       6        0   {,}-{}
+       6        0   {/93<\n>}-{H{[«l }
+       6        0   {1. }-{}
+       6        0   {1785 }-{PROCUR}
+       6        0   {2. }-{}
+       6        0   {205 WE}-{}
+       6        0   {3. }-{}
+       6        0   {4. }-{}
+       6        0   {5. }-{}
+       6        0   {6. }-{}
+       6        0   {<\n>730}-{ CEBS,}
+       6        0   {<\n>CREF<\n>}-{ }
+       6        0   {<\n>David}-{}
+       6        0   {<\n>Media}-{ THE}
+       6        0   {ACSIMI}-{acsimi}
+       6        0   {BUT WE}-{David}
+       6        0   {Ba}-{. .<\n>Je}
+       6        0   {Blvd.}-{Access}
+       6        0   {CE<\n>2}-{V 8910}
+       6        0   {Compa}-{and Pe}
+       6        0   {Curtis}-{'}
+       6        0   {E/ab<\n>M}-{}
+       6        0   {GTON *}-{evada}
+       6        0   {ICT,}-{aysurn}
+       6        0   {INGTON}-{ington}
+       6        0   {I}-{BUSY A}
+       6        0   {Las}-{NEVADA}
+       6        0   {MMUNIC}-{RPOR}
+       6        0   {NS}-{LORADO}
+       6        0   {OCUREM}-{MED sS}
+       6        0   {OFFICE}-{Water }
+       6        0   {OFFICE}-{m It b}
+       6        0   {OMESTI}-{}
+       6        0   {ON<\n>AND}-{STRICT}
+       6        0   {ORGE}-{NUE<\n>PA}
+       6        0   {Office}-{Bur}
+       6        0   {RS, IF}-{CIATE}
+       6        0   {SOON.<\n>}-{Jr PRE}
+       6        0   {St}-{The Co}
+       6        0   {TI}-{DA + C}
+       6        0   {Third}-{FLMI<\n>A}
+       6        0   {UBB}-{ T-00)}
+       6        0   {Y YOUR}-{<\n>Legal}
+       6        0   {am}-{ngton,}
+       6        0   {by law}-{B}
+       6        0   {c<\n>Rela}-{ott<\n>Pi}
+       6        0   {cutive}-{'}
+       6        0   {econds}-{}
+       6        0   {et<\n>}-{ Card }
+       6        0   {for yo}-{}
+       6        0   {fts ar}-{ncom}
+       6        0   {is<\n>you}-{Pat}
+       6        0   {l<\n>Rock}-{partme}
+       6        0   {ld, MI}-{ceipt}
+       6        0   {lity S}-{ Pr}
+       6        0   {ngton,}-{am L.}
+       6        0   {ovided}-{ank}
+       6        0   {puchin}-{l}
+       6        0   {tephen}-{S FOR}
+       6        0   {the en}-{}
+       6        0   {unsel<\n>}-{mpany }
+       6        0   {you've}-{¥}
+       6        0   {}-{ -}
+       6        0   {}-{ 20}
+       6        0   {}-{0}
+       6        0   {}-{<\n>Suite}
+       6        0   {}-{IBB - }
+       6        0   {}-{ME/ab<\n>}
+       6        0   {}-{Oky )<\n>}
+       6        0   {}-{Osean }
+       6        0   {}-{R C o<\n>}
+       6        0   {}-{Strop }
+       6        0   {}-{abes<\n>S}
+       6        0   {}-{q} th<\n>}
+       6        0   {}-{these }
+       6        0   {~O~N~G}-{ake City,}
+       5        5   { HELP}-{ELY A}
+       5        5   {823 M}-{~~~<\n>J}
+       5        5   {BALLY~~}-{~}
+       5        5   {GROUP}-{00]<\n>~}
+       5        5   {Larry}-{~~<\n>~}
+       5        5   {P.S.}-{~ ci}}
+       5        5   {TS FO}-{ INCE}
+       5        5   {USAA}-{W<\n>~<\n>£}
+       5        5   {don't}-{X~}
+       5        5   {re is}-{%%w~~}
+       5        5   {will }-{S \}
+       5        5   {}-{M~'~ }
+       5        5   {}-{up) ~}
+       5        5   {}-{~<\n>BN }
+       5        5   {}-{~<\n>\_<\n>}
+       5        5   {}-{~~ ~<\n>}
+       5        5   {}-{~~<\n>3<\n>}
+       5        2   {i}-{l}
+       5        0   { Pres}-{l}
+       5        0   { as p}-{s.<\n>F}
+       5        0   {(201)}-{THREE}
+       5        0   {."--<\n>}-{ }
+       5        0   {/dmo<\n>}-{ }
+       5        0   {0<\n>Las}-{2 871}
+       5        0   {0}-{ omas}
+       5        0   {89102}-{arn?}
+       5        0   {: phi}-{}
+       5        0   {:}-{treet}
+       5        0   {<\n>125}-{ UTAH}
+       5        0   {ADA *}-{egas,}
+       5        0   {AIIM<\n>}-{_ }
+       5        0   {ANCE<\n>}-{, S}
+       5        0   {ASS}-{<\n>Beth}
+       5        0   {AVENU}-{GEORG}
+       5        0   {B Ric}-{Lan}
+       5        0   {DEX<\n>F}-{}
+       5        0   {East<\n>}-{}
+       5        0   {H. Ra}-{Aven}
+       5        0   {HOUSE}-{m f t}
+       5        0   {IEDF<\n>}-{}
+       5        0   {Insu}-{Corpo}
+       5        0   {J}-{823 M}
+       5        0   {King<\n>}-{}
+       5        0   {LV<\n>UN}-{}
+       5        0   {Legal}-{Calif}
+       5        0   {NV}-{(702)}
+       5        0   {OFFIC}-{APPR}
+       5        0   {OST}-{ublic}
+       5        0   {PLEAS}-{FOR H}
+       5        0   {S}-{s}
+       5        0   {THESE}-{Mohan}
+       5        0   {THREE}-{(201)}
+       5        0   {TTER}-{ssocs}
+       5        0   {Vegas}-{IDAHO}
+       5        0   {WATER}-{Bouse}
+       5        0   {W}-{w}
+       5        0   {a}-{e}
+       5        0   {comme}-{}
+       5        0   {ctibl}-{rpos}
+       5        0   {dical}-{g}
+       5        0   {ffice}-{N}
+       5        0   {forma}-{}
+       5        0   {found}-{§}
+       5        0   {get<\n>a}-{k}
+       5        0   {look }-{}
+       5        0   {l}-{}
+       5        0   {nce<\n>}-{tion }
+       5        0   {needs}-{1}
+       5        0   {ng li}-{}
+       5        0   {pages}-{»,}
+       5        0   {patie}-{}
+       5        0   {phone}-{}
+       5        0   {pment}-{}
+       5        0   {pply.}-{ &_}
+       5        0   {rough}-{.}
+       5        0   {take }-{}
+       5        0   {tion<\n>}-{el }
+       5        0   {ty, U}-{s}
+       5        0   {ue<\n>N}-{d Vic}
+       5        0   {vance}-{}
+       5        0   {}-{ i* q}
+       5        0   {}-{ maar}
+       5        0   {}-{ pic?}
+       5        0   {}-{&" » }
+       5        0   {}-{'}
+       5        0   {}-{/ Ou<\n>}
+       5        0   {}-{/)<\n>A }
+       5        0   {}-{2/bh<\n>}
+       5        0   {}-{7<\n>(/<\n>}
+       5        0   {}-{8932<\n>}
+       5        0   {}-{8}
+       5        0   {}-{Aa C<\n>}
+       5        0   {}-{Clee<\n>}
+       5        0   {}-{Rill }
+       5        0   {}-{_- 0 }
+       5        0   {}-{mb i }
+       5        0   {}-{porat}
+       5        0   {}-{ucia.}
+       5        0   {~}-{+_}
+       4        4   {8932}-{~}
+       4        4   {Card}-{30}}
+       4        4   {Carr}-{(NOV}
+       4        4   {IEEE}-{~}
+       4        4   {M}-{~<\n>De}
+       4        4   {Su}-{~<\n>Ga}
+       4        4   {The}-{LY].}
+       4        4   {USAA}-{~}
+       4        4   {e on}-{am}
+       4        4   {er B}-{dxaé}
+       4        4   {ours}-{éGES}
+       4        4   {}-{ ib'}
+       4        4   {}-{ m~m}
+       4        4   {}-{/<\n>~<\n>}
+       4        4   {}-{gig }
+       4        4   {}-{~<\n>" }
+       4        4   {}-{~<\n>, }
+       4        4   {}-{~<\n>/<\n>}
+       4        4   {}-{~<\n>3 }
+       4        4   {}-{~<\n>a<\n>}
+       4        0   { and}-{y}
+       4        0   { you}-{}
+       4        0   {* NE}-{}
+       4        0   {* WA}-{}
+       4        0   {**}-{kk}
+       4        0   {-}-{}
+       4        0   {10th}-{+}
+       4        0   {111}-{)! |}
+       4        0   {1993}-{-00}
+       4        0   {4788}-{2801}
+       4        0   {6<\n>Ke}-{ Th}
+       4        0   {8}-{5g £}
+       4        0   {<\n>215}-{}
+       4        0   {<\n>5n4}-{ (61}
+       4        0   {<\n>Box}-{}
+       4        0   {<\n>Mut}-{ Ins}
+       4        0   {<\n>NEC}-{}
+       4        0   {<\n>for}-{}
+       4        0   {<\n>}-{ §% }
+       4        0   {ARME}-{1st }
+       4        0   {ASSA}-{WO}
+       4        0   {Ave}-{Seco}
+       4        0   {Beth}-{1}
+       4        0   {Ca}-{Supe}
+       4        0   {Dire}-{}
+       4        0   {FUND}-{L e}
+       4        0   {GAS}-{RSON}
+       4        0   {HOPE}-{W}
+       4        0   {I}-{l}
+       4        0   {Judi}-{}
+       4        0   {KANA}-{}
+       4        0   {KER,}-{}
+       4        0   {NGTO}-{RMA}
+       4        0   {ON}-{on .}
+       4        0   {OR}-{- 1J}
+       4        0   {OURS}-{M.}
+       4        0   {O}-{LZ] }
+       4        0   {POLI}-{BE<\n>}
+       4        0   {Publ}-{Cand}
+       4        0   {R.S.}-{}
+       4        0   {S CO}-{<\n>MET}
+       4        0   {SM}-{®"}
+       4        0   {Serv}-{P. K}
+       4        0   {St. }-{}
+       4        0   {Supp}-{}
+       4        0   {S}-{l<\n>1<\n>}
+       4        0   {This}-{&}
+       4        0   {Tra}-{E<\n>1<\n>}
+       4        0   {UTAH}-{Las}
+       4        0   {VFX<\n>}-{}
+       4        0   {XUAL}-{}
+       4        0   {YT}-{VI}
+       4        0   {alas}-{. }
+       4        0   {ance}-{}
+       4        0   {a}-{o}
+       4        0   {best}-{I}
+       4        0   {ce}-{}
+       4        0   {c}-{e}
+       4        0   {de G}-{Thom}
+       4        0   {dia<\n>}-{s }
+       4        0   {easy}-{S}
+       4        0   {erea}-{ }
+       4        0   {fax:}-{1,}
+       4        0   {for }-{A. R}
+       4        0   {g<\n>Co}-{ica}
+       4        0   {in t}-{}
+       4        0   {ions}-{cher}
+       4        0   {lege}-{}
+       4        0   {m}-{n}
+       4        0   {ngin}-{l}
+       4        0   {nt,}-{orge}
+       4        0   {past}-{h.}
+       4        0   {ppor}-{gus}
+       4        0   {serv}-{}
+       4        0   {te}-{ B a}
+       4        0   {the }-{}
+       4        0   {thfi}-{r r}
+       4        0   {you }-{}
+       4        0   {}-{ - j}
+       4        0   {}-{ -<\n>M}
+       4        0   {}-{ 2 n}
+       4        0   {}-{ 20.}
+       4        0   {}-{ R}
+       4        0   {}-{ \}
+       4        0   {}-{ c M}
+       4        0   {}-{ fir}
+       4        0   {}-{ le,}
+       4        0   {}-{ oen}
+       4        0   {}-{ pma}
+       4        0   {}-{& &<\n>}
+       4        0   {}-{-}
+       4        0   {}-{. - }
+       4        0   {}-{. . }
+       4        0   {}-{. }
+       4        0   {}-{A A }
+       4        0   {}-{D,<\n>D}
+       4        0   {}-{IM A}
+       4        0   {}-{LAT }
+       4        0   {}-{MCI }
+       4        0   {}-{PBs }
+       4        0   {}-{[2a<\n>}
+       4        0   {}-{_-, }
+       4        0   {}-{e }
+       4        0   {}-{f<\n>e<\n>}
+       4        0   {}-{nnua}
+       4        0   {}-{p -<\n>}
+       4        0   {}-{rao }
+       4        0   {}-{tue<\n>}
+       4        0   {}-{was<\n>}
+       3        3   {04}-{5<\n>~}
+       3        3   {AND}-{I"?}
+       3        3   {Fra}-{GH}
+       3        3   {H~E~A~}-{E A<\n>~<\n>}
+       3        3   {MCI}-{~}
+       3        3   {ON}-{A<\n>~}
+       3        3   {Orr}-{Gag}
+       3        3   {Pre}-{~}
+       3        3   {Ve}-{/y§}
+       3        3   {en }-{éh~}
+       3        3   {the}-{¢£§}
+       3        3   {tr}-{fi'}
+       3        3   {}-{~- }
+       3        3   {}-{~~<\n>}
+       3        1   {}-{g}
+       3        0   { BE}-{INS}
+       3        0   { IN}-{TS}
+       3        0   { at}-{}
+       3        0   { re}-{i}
+       3        0   { th}-{}
+       3        0   {'re}-{}
+       3        0   {(61}-{5n4}
+       3        0   {(80}-{2}
+       3        0   {*}-{x}
+       3        0   {- F}-{St}
+       3        0   {02-}-{}
+       3        0   {0}-{O}
+       3        0   {3}-{8}
+       3        0   {5}-{S}
+       3        0   {7. }-{}
+       3        0   {8. }-{}
+       3        0   {8}-{- 3}
+       3        0   {91<\n>}-{IL }
+       3        0   {:}-{;}
+       3        0   {<\n>* }-{ '<\n>}
+       3        0   {<\n>1,}-{}
+       3        0   {<\n>WE}-{ f?}
+       3        0   {@}-{ & }
+       3        0   {ADO}-{abo}
+       3        0   {AR}-{TIM}
+       3        0   {AX:}-{OR}
+       3        0   {Adv}-{Inf}
+       3        0   {Ann}-{D}
+       3        0   {BA<\n>}-{}
+       3        0   {B}-{PRA}
+       3        0   {CEM}-{EQU}
+       3        0   {D}-{C -}
+       3        0   {D}-{SUB}
+       3        0   {ESA}-{}
+       3        0   {HER}-{EL:}
+       3        0   {III}-{Htl}
+       3        0   {IVA}-{TAN}
+       3        0   {I}-{i}
+       3        0   {J}-{le<\n>}
+       3        0   {LIF}-{ND }
+       3        0   {Los}-{IF}
+       3        0   {OLO}-{olo}
+       3        0   {OR}-{AX:}
+       3        0   {OR}-{QZ }
+       3        0   {OR}-{ook}
+       3        0   {Our}-{23,}
+       3        0   {RAT}-{MED}
+       3        0   {RE}-{nne}
+       3        0   {ROA}-{a }
+       3        0   {SAN}-{san}
+       3        0   {ST}-{of }
+       3        0   {Sal}-{5g }
+       3        0   {TM }-{}
+       3        0   {TM<\n>}-{}
+       3        0   {TM}-{ ""}
+       3        0   {TM}-{'""}
+       3        0   {TO<\n>}-{BU}
+       3        0   {The}-{$60}
+       3        0   {The}-{1s}
+       3        0   {V}-{v}
+       3        0   {YFU}-{t}
+       3        0   {YS}-{yst}
+       3        0   {`}-{'}
+       3        0   {ake}-{ong}
+       3        0   {and}-{Hk}
+       3        0   {a}-{}
+       3        0   {c I}-{de}
+       3        0   {ces}-{ng}
+       3        0   {ces}-{pal}
+       3        0   {c}-{o}
+       3        0   {ded}-{p}
+       3        0   {den}-{}
+       3        0   {due}-{Ti}
+       3        0   {e C}-{}
+       3        0   {ela}-{ust}
+       3        0   {elp}-{}
+       3        0   {eri}-{ct}
+       3        0   {e}-{o}
+       3        0   {few}-{*%}
+       3        0   {for}-{¢}
+       3        0   {g}-{}
+       3        0   {hat}-{ *}
+       3        0   {ion}-{,}
+       3        0   {ipp}-{}
+       3        0   {ly,}-{e _}
+       3        0   {nce}-{ }
+       3        0   {nke}-{ Wo}
+       3        0   {not}-{1}
+       3        0   {now}-{kik}
+       3        0   {o y}-{q"¥}
+       3        0   {of }-{}
+       3        0   {ost}-{}
+       3        0   {our}-{]}
+       3        0   {r}-{}
+       3        0   {sch}-{e<\n>N}
+       3        0   {the}-{'}
+       3        0   {tim}-{}
+       3        0   {ubl}-{res}
+       3        0   {urn}-{}
+       3        0   {ust}-{ela}
+       3        0   {y<\n>J}-{si}
+       3        0   {you}-{C}
+       3        0   {}-{ //}
+       3        0   {}-{ 2;}
+       3        0   {}-{ _-}
+       3        0   {}-{ g.}
+       3        0   {}-{ ha}
+       3        0   {}-{#%<\n>}
+       3        0   {}-{,, }
+       3        0   {}-{,}
+       3        0   {}-{//<\n>}
+       3        0   {}-{=] }
+       3        0   {}-{@) }
+       3        0   {}-{C E}
+       3        0   {}-{C<\n>C}
+       3        0   {}-{EB }
+       3        0   {}-{ESS}
+       3        0   {}-{Fu<\n>}
+       3        0   {}-{Mu<\n>}
+       3        0   {}-{No }
+       3        0   {}-{WW<\n>}
+       3        0   {}-{[m }
+       3        0   {}-{_- }
+       3        0   {}-{__ }
+       3        0   {}-{l<\n>a}
+       3        0   {}-{la<\n>}
+       3        0   {}-{of }
+       3        0   {}-{rto}
+       3        0   {}-{sr }
+       3        0   {}-{t y}
+       3        0   {}-{u}
+       3        0   {}-{y}
+       3        0   {}-{£.<\n>}
+       3        0   {}-{£5 }
+       3        0   {~I~}-{ 1 }
+       3        0   {~T~D.}-{}
+       3        0   {~}-{ ®}
+       3        0   {~}-{*+}
+       3        0   {~}-{*»}
+       2        2   {& }-{Q'}
+       2        2   {70}-{~O}
+       2        2   {C}-{S§}
+       2        2   {Jo}-{~<\n>}
+       2        2   {S}-{51}
+       2        2   {S}-{ys}
+       2        2   {TI}-{~<\n>}
+       2        2   {ec}-{fg}
+       2        2   {ik}-{fé}
+       2        2   {sc}-{; }
+       2        2   {u }-{dx}
+       2        2   {y }-{vA}
+       2        2   {y }-{¥\}
+       2        2   {yo}-{(c}
+       2        2   {}-{~}
+       2        2   {~}-{~<\n>*}
+       2        2   {~}-{~<\n>\}
+       2        2   {~~~}-{ ++~+}
+       2        1   {I}-{L}
+       2        1   {T}-{I}
+       2        1   {e}-{é}
+       2        0   { ,}-{,)}
+       2        0   { 0}-{O}
+       2        0   { C}-{K}
+       2        0   { M}-{l}
+       2        0   { S}-{}
+       2        0   { c}-{}
+       2        0   { u}-{}
+       2        0   { }-{<\n>}
+       2        0   { }-{SA}
+       2        0   { }-{_}
+       2        0   {!}-{'}
+       2        0   {"}-{''}
+       2        0   {)}-{1}
+       2        0   {-m}-{ G}
+       2        0   {-}-{ }
+       2        0   {.}-{ng}
+       2        0   {0.}-{1 }
+       2        0   {01}-{Ol}
+       2        0   {0}-{ 3}
+       2        0   {10}-{}
+       2        0   {14}-{5}
+       2        0   {1}-{l}
+       2        0   {5}-{14}
+       2        0   {6}-{8}
+       2        0   {77}-{9}
+       2        0   {89}-{}
+       2        0   {9.}-{}
+       2        0   {99}-{°°}
+       2        0   {:}-{; }
+       2        0   {<\n>F}-{ V}
+       2        0   {<\n>I}-{}
+       2        0   {A.}-{.-}
+       2        0   {A.}-{of}
+       2        0   {AS}-{E}
+       2        0   {AS}-{as}
+       2        0   {A}-{ui}
+       2        0   {Bo}-{2a}
+       2        0   {Bo}-{}
+       2        0   {Bu}-{Lo}
+       2        0   {B}-{C }
+       2        0   {B}-{S}
+       2        0   {C.}-{g;}
+       2        0   {CK}-{IN}
+       2        0   {CL}-{N}
+       2        0   {CO}-{(0}
+       2        0   {Ca}-{T}
+       2        0   {Ca}-{o}
+       2        0   {C}-{+ }
+       2        0   {C}-{}
+       2        0   {Ex}-{}
+       2        0   {E}-{IS}
+       2        0   {E}-{MA}
+       2        0   {FO}-{Y }
+       2        0   {G}-{AV}
+       2        0   {HE}-{}
+       2        0   {IC}-{EV}
+       2        0   {II}-{11}
+       2        0   {IM}-{ O}
+       2        0   {IN}-{CK}
+       2        0   {Il}-{11}
+       2        0   {Il}-{Ti}
+       2        0   {I}-{1}
+       2        0   {I}-{}
+       2        0   {JU}-{& }
+       2        0   {L.}-{DE}
+       2        0   {L:}-{R}
+       2        0   {MA}-{}
+       2        0   {NA~}-{na®}
+       2        0   {NC}-{D}
+       2        0   {NI}-{ni}
+       2        0   {NT}-{.}
+       2        0   {NV}-{-}
+       2        0   {Ne}-{Bl}
+       2        0   {N}-{M}
+       2        0   {N}-{VI}
+       2        0   {OX}-{ox}
+       2        0   {O}-{0}
+       2        0   {O}-{ES}
+       2        0   {O}-{o }
+       2        0   {PR}-{M}
+       2        0   {Pr}-{E}
+       2        0   {P}-{EG}
+       2        0   {P}-{}
+       2        0   {RA}-{N }
+       2        0   {R}-{SI}
+       2        0   {SE}-{R}
+       2        0   {SM}-{$}
+       2        0   {ST}-{st}
+       2        0   {TM}-{"!}
+       2        0   {TM}-{}
+       2        0   {T}-{ N}
+       2        0   {UR}-{FF}
+       2        0   {U}-{L }
+       2        0   {WI}-{CO}
+       2        0   {W}-{VE}
+       2        0   {Yo}-{P}
+       2        0   {Y}-{y}
+       2        0   {\}-{A}
+       2        0   {al}-{s!}
+       2        0   {al}-{}
+       2        0   {c.}-{s}
+       2        0   {ci}-{}
+       2        0   {ck}-{¢¥}
+       2        0   {c}-{d}
+       2        0   {c}-{rm}
+       2        0   {c}-{}
+       2        0   {d,}-{}
+       2        0   {de}-{}
+       2        0   {d}-{ a}
+       2        0   {d}-{c}
+       2        0   {en}-{.}
+       2        0   {en}-{ca}
+       2        0   {er}-{gf}
+       2        0   {e}-{s}
+       2        0   {g}-{Jj}
+       2        0   {g}-{q}
+       2        0   {hn}-{}
+       2        0   {h}-{ r}
+       2        0   {in}-{-}
+       2        0   {in}-{L}
+       2        0   {i}-{1}
+       2        0   {k}-{e}
+       2        0   {li}-{ A}
+       2        0   {ng}-{x}
+       2        0   {ng}-{}
+       2        0   {ns}-{rv}
+       2        0   {n}-{m}
+       2        0   {n}-{u}
+       2        0   {n}-{}
+       2        0   {of}-{-}
+       2        0   {om}-{}
+       2        0   {on}-{ce}
+       2        0   {on}-{fe}
+       2        0   {or}-{ }
+       2        0   {o}-{c }
+       2        0   {o}-{}
+       2        0   {pt}-{a}
+       2        0   {qu}-{}
+       2        0   {r.}-{}
+       2        0   {re}-{mi}
+       2        0   {ri}-{ a}
+       2        0   {rv}-{s}
+       2        0   {s }-{§_}
+       2        0   {ss}-{}
+       2        0   {s}-{}
+       2        0   {th}-{rd}
+       2        0   {ty}-{ng}
+       2        0   {up}-{}
+       2        0   {ve}-{n}
+       2        0   {vi}-{ }
+       2        0   {x}-{ c}
+       2        0   {y}-{nt}
+       2        0   {y}-{v}
+       2        0   {y}-{}
+       2        0   {}-{ (}
+       2        0   {}-{ *}
+       2        0   {}-{ ,}
+       2        0   {}-{ .}
+       2        0   {}-{ /}
+       2        0   {}-{ 3}
+       2        0   {}-{ :}
+       2        0   {}-{ <}
+       2        0   {}-{ A}
+       2        0   {}-{ W}
+       2        0   {}-{ X}
+       2        0   {}-{ i}
+       2        0   {}-{ j}
+       2        0   {}-{ m}
+       2        0   {}-{ |}
+       2        0   {}-{$ }
+       2        0   {}-{' }
+       2        0   {}-{(}
+       2        0   {}-{..}
+       2        0   {}-{/ }
+       2        0   {}-{5<\n>}
+       2        0   {}-{: }
+       2        0   {}-{A<\n>}
+       2        0   {}-{C }
+       2        0   {}-{CE}
+       2        0   {}-{D}
+       2        0   {}-{G<\n>}
+       2        0   {}-{I }
+       2        0   {}-{IM}
+       2        0   {}-{K<\n>}
+       2        0   {}-{MA}
+       2        0   {}-{O }
+       2        0   {}-{R }
+       2        0   {}-{RC}
+       2        0   {}-{[ }
+       2        0   {}-{an}
+       2        0   {}-{a}
+       2        0   {}-{e<\n>}
+       2        0   {}-{h<\n>}
+       2        0   {}-{i }
+       2        0   {}-{k }
+       2        0   {}-{kk}
+       2        0   {}-{k}
+       2        0   {}-{l }
+       2        0   {}-{le}
+       2        0   {}-{l}
+       2        0   {}-{nt}
+       2        0   {}-{n}
+       2        0   {}-{o }
+       2        0   {}-{o}
+       2        0   {}-{| }
+       2        0   {}-{© }
+       2        0   {}-{« }
+       2        0   {}-{® }
+       2        0   {}-{®<\n>}
+       2        0   {}-{é<\n>}
+       2        0   {~ }-{©}
+       2        0   {~O~D~}-{Q 0 }
+       2        0   {~}-{ + }
+       2        0   {~}-{ O}
+       2        0   {~}-{ ° }
+       2        0   {~}-{%*}
+       2        0   {~}-{(@)}
+       2        0   {~~<\n>}-{<\n>as }
+       2        0   {~~~}-{ +--+}
+       2        0   {~~~}-{++-+-}
+       2        0   {~~~}-{+-++-}
+       1        1   { }-{i}
+       1        1   {,}-{;}
+       1        1   {A}-{~}
+       1        1   {M}-{W}
+       1        1   {m}-{é}
+       1        1   {n}-{?}
+       1        1   {o}-{é}
+       1        1   {s}-{~}
+       1        1   {t}-{L}
+       1        1   {t}-{~}
+       1        1   {y}-{¥}
+       1        1   {}-{i}
+       1        1   {~~}-{s<\n>~}
+       1        0   { }-{"}
+       1        0   { }-{/}
+       1        0   { }-{5}
+       1        0   { }-{L}
+       1        0   { }-{y}
+       1        0   {!}-{"}
+       1        0   {$}-{f}
+       1        0   {$}-{©}
+       1        0   {&}-{E}
+       1        0   {'}-{!}
+       1        0   {'}-{}
+       1        0   {(}-{{}
+       1        0   {)}-{4}
+       1        0   {)}-{5}
+       1        0   {)}-{]}
+       1        0   {)}-{}}
+       1        0   {*}-{"}
+       1        0   {*}-{#}
+       1        0   {*}-{-}
+       1        0   {*}-{}
+       1        0   {,}-{S}
+       1        0   {,}-{Y}
+       1        0   {,~}-{. }
+       1        0   {-}-{,}
+       1        0   {/}-{l}
+       1        0   {0}-{Q}
+       1        0   {1}-{!}
+       1        0   {1}-{7}
+       1        0   {1}-{I}
+       1        0   {1}-{}
+       1        0   {2}-{0}
+       1        0   {2}-{7}
+       1        0   {2}-{}
+       1        0   {3}-{s}
+       1        0   {4}-{)}
+       1        0   {4}-{7}
+       1        0   {6}-{1}
+       1        0   {6}-{5}
+       1        0   {6}-{}
+       1        0   {6}-{§}
+       1        0   {7}-{,}
+       1        0   {7}-{4}
+       1        0   {7}-{}
+       1        0   {8}-{$}
+       1        0   {9}-{3}
+       1        0   {9}-{8}
+       1        0   {A}-{a}
+       1        0   {C}-{D}
+       1        0   {C}-{W}
+       1        0   {D}-{C}
+       1        0   {D}-{L}
+       1        0   {D}-{O}
+       1        0   {D}-{}
+       1        0   {E}-{S}
+       1        0   {E}-{z}
+       1        0   {E}-{}
+       1        0   {F}-{E}
+       1        0   {F}-{i}
+       1        0   {F}-{}
+       1        0   {G}-{a}
+       1        0   {H}-{P}
+       1        0   {H}-{T}
+       1        0   {H}-{h}
+       1        0   {H}-{}
+       1        0   {I}-{!}
+       1        0   {I}-{J}
+       1        0   {I}-{U}
+       1        0   {J}-{E}
+       1        0   {J}-{F}
+       1        0   {J}-{}
+       1        0   {K}-{X}
+       1        0   {L}-{B}
+       1        0   {L}-{H}
+       1        0   {M}-{:}
+       1        0   {M}-{m}
+       1        0   {M}-{}
+       1        0   {N}-{S}
+       1        0   {N}-{}
+       1        0   {O}-{C}
+       1        0   {O}-{o}
+       1        0   {O~}-{0 }
+       1        0   {P}-{"}
+       1        0   {P}-{A}
+       1        0   {P}-{S}
+       1        0   {R}-{p}
+       1        0   {S}-{A}
+       1        0   {S}-{L}
+       1        0   {S}-{N}
+       1        0   {S}-{W}
+       1        0   {S}-{y}
+       1        0   {T}-{"}
+       1        0   {T}-{D}
+       1        0   {T}-{}
+       1        0   {V}-{F}
+       1        0   {a}-{.}
+       1        0   {a}-{i}
+       1        0   {c}-{a}
+       1        0   {c}-{g}
+       1        0   {c}-{s}
+       1        0   {d}-{a}
+       1        0   {d}-{g}
+       1        0   {d}-{q}
+       1        0   {d}-{s}
+       1        0   {d}-{}
+       1        0   {e}-{&}
+       1        0   {e}-{a}
+       1        0   {e}-{g}
+       1        0   {e}-{t}
+       1        0   {f}-{T}
+       1        0   {f}-{c}
+       1        0   {f}-{m}
+       1        0   {f}-{}
+       1        0   {g}-{c}
+       1        0   {h}-{a}
+       1        0   {h}-{n}
+       1        0   {h}-{}
+       1        0   {i}-{h}
+       1        0   {i}-{u}
+       1        0   {l}-{!}
+       1        0   {l}-{,}
+       1        0   {l}-{I}
+       1        0   {l}-{m}
+       1        0   {l}-{t}
+       1        0   {m}-{l}
+       1        0   {m}-{}
+       1        0   {n}-{r}
+       1        0   {o}-{.}
+       1        0   {o}-{O}
+       1        0   {p}-{v}
+       1        0   {p}-{}
+       1        0   {r}-{t}
+       1        0   {r}-{y}
+       1        0   {s}-{ }
+       1        0   {t}-{ }
+       1        0   {t}-{i}
+       1        0   {t}-{o}
+       1        0   {t}-{}
+       1        0   {u}-{U}
+       1        0   {u}-{n}
+       1        0   {u}-{r}
+       1        0   {v}-{n}
+       1        0   {w}-{}
+       1        0   {y}-{r}
+       1        0   {}-{"}
+       1        0   {}-{#}
+       1        0   {}-{&}
+       1        0   {}-{)}
+       1        0   {}-{2}
+       1        0   {}-{:}
+       1        0   {}-{;}
+       1        0   {}-{C}
+       1        0   {}-{E}
+       1        0   {}-{I}
+       1        0   {}-{L}
+       1        0   {}-{O}
+       1        0   {}-{P}
+       1        0   {}-{R}
+       1        0   {}-{S}
+       1        0   {}-{T}
+       1        0   {}-{U}
+       1        0   {}-{Y}
+       1        0   {}-{_}
+       1        0   {}-{e}
+       1        0   {}-{f}
+       1        0   {}-{p}
+       1        0   {}-{q}
+       1        0   {}-{r}
+       1        0   {}-{s}
+       1        0   {}-{x}
+       1        0   {}-{®}
+       1        0   {~ }-{+}
+       1        0   {~ }-{®}
+       1        0   {~C~}-{ 6}
+       1        0   {~C~}-{G }
+       1        0   {~I~}-{ i }
+       1        0   {~O}-{ 0}
+       1        0   {~O~}-{ 0 }
+       1        0   {~S}-{ $}
+       1        0   {~S}-{ s}
+       1        0   {~U~}-{ u }
+       1        0   {~}-{ -}
+       1        0   {~}-{ a}
+       1        0   {~}-{*e}
+       1        0   {~}-{*t}
+       1        0   {~}-{+-}
+       1        0   {~}-{-+}
+       1        0   {~}-{0 }
+       1        0   {~}-{=+}
+       1        0   {~}-{=>}
+       1        0   {~}-{ER}
+       1        0   {~}-{MB}
+       1        0   {~}-{MR}
+       1        0   {~}-{_>}
+       1        0   {~}-{e_}
+       1        0   {~}-{fM}
+       1        0   {~}-{s }
+       1        0   {~}-{«a}
+       1        0   {~}-{«e}
+       1        0   {~}-{® }
+       1        0   {~~~}-{++-+}
+
+   Count   Missed   %Right
+    6408      249    96.11   {<\n>}
+   45958      542    98.82   { }
+     171        5    97.08   {!}
+     210        4    98.10   {"}
+      22        2    90.91   {#}
+     168        4    97.62   {$}
+      46        1    97.83   {%}
+      77        9    88.31   {&}
+     722       12    98.34   {'}
+     287       10    96.52   {(}
+     287       13    95.47   {)}
+     104       41    60.58   {*}
+      66        0   100.00   {+}
+    2847      111    96.10   {,}
+    1395       45    96.77   {-}
+    3595      132    96.33   {.}
+     143        7    95.10   {/}
+    1580       70    95.57   {0}
+    1338       82    93.87   {1}
+     874       54    93.82   {2}
+     839       56    93.33   {3}
+     708       40    94.35   {4}
+     679       34    94.99   {5}
+     546       36    93.41   {6}
+     516       31    93.99   {7}
+     621       34    94.52   {8}
+    1096       54    95.07   {9}
+     362       13    96.41   {:}
+      74        0   100.00   {;}
+       9        0   100.00   {=}
+      48        0   100.00   {?}
+       6        2    66.67   {@}
+    2135      141    93.40   {A}
+     604       47    92.22   {B}
+    1629      105    93.55   {C}
+    1124       89    92.08   {D}
+    1556      154    90.10   {E}
+     676       56    91.72   {F}
+     466       37    92.06   {G}
+     482       42    91.29   {H}
+    1821      161    91.16   {I}
+     223       21    90.58   {J}
+     154       21    86.36   {K}
+     825       70    91.52   {L}
+    1106      103    90.69   {M}
+    1158      114    90.16   {N}
+     999      107    89.29   {O}
+    1003       71    92.92   {P}
+      26        3    88.46   {Q}
+    1146      109    90.49   {R}
+    1885      154    91.83   {S}
+    1654      136    91.78   {T}
+     473       49    89.64   {U}
+     422       31    92.65   {V}
+     669       32    95.22   {W}
+      94        6    93.62   {X}
+     443       31    93.00   {Y}
+       8        0   100.00   {Z}
+      13        2    84.62   {\}
+       1        0   100.00   {_}
+       3        3     0.00   {`}
+   18152      222    98.78   {a}
+    2845       25    99.12   {b}
+    8115      130    98.40   {c}
+    7813       95    98.78   {d}
+   28083      410    98.54   {e}
+    4811       55    98.86   {f}
+    4040       60    98.51   {g}
+    7817      100    98.72   {h}
+   16065      226    98.59   {i}
+     258        1    99.61   {j}
+    1521       24    98.42   {k}
+   10028      164    98.36   {l}
+    5355       52    99.03   {m}
+   16390      227    98.62   {n}
+   19046      245    98.71   {o}
+    5250       70    98.67   {p}
+     291        9    96.91   {q}
+   16045      259    98.39   {r}
+   13839      176    98.73   {s}
+   18484      197    98.93   {t}
+    8281      107    98.71   {u}
+    2948       52    98.24   {v}
+    3303       24    99.27   {w}
+     588       12    97.96   {x}
+    5596       82    98.53   {y}
+     183        5    97.27   {z}

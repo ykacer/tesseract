@@ -1,0 +1,2113 @@
+UNLV-ISRI OCR Accuracy Report Version 5.1
+-----------------------------------------
+  348091   Characters
+   27991   Errors
+   91.96%  Accuracy
+
+     771   Reject Characters
+     362   Suspect Markers
+     178   False Marks
+    0.33%  Characters Marked
+   95.17%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+     629      216    10324    11169   Marked
+    3545     3047    10230    16822   Unmarked
+    4174     3263    20554    27991   Total
+
+   Count   Missed   %Right
+   58248      901    98.45   ASCII Spacing Characters
+   10189      403    96.04   ASCII Special Symbols
+    1671       20    98.80   ASCII Digits
+   10330      520    94.97   ASCII Uppercase Letters
+  260862     5245    97.99   ASCII Lowercase Letters
+     254      113    55.51   Latin1 Special Symbols
+      23       13    43.48   Latin1 Uppercase Letters
+    6514      222    96.59   Latin1 Lowercase Letters
+  348091     7437    97.86   Total
+
+  Errors   Marked   Correct-Generated
+     945      945   {}-{~<\n>claro, como el que ...}
+     920      920   {}-{~<\n>~<\n>oponerse al pr...}
+     754      754   {}-{~<\n>~<\n>Licitación<\n>...}
+     540      540   {}-{discriminación entre c...}
+     501        0   {}-{donó a B-H, pero es un h...}
+     484      484   {}-{natación del Colegio<\n>...}
+     292        0   {}-{Corfú afirmando que todo...}
+     292        0   {}-{Si es la voluntad del pu...}
+     278        0   {}-{cualquier caso este corr...}
+     245        0   {}-{or.<\n>La investigación ...}
+     235        0   {ientos superiores a los ...}-{}
+     231      231   {}-{~<\n>~<\n>~<\n>~<\n>e...}
+     210      210   {}-{~<\n>}
+     194      194   {}-{Dos ceses del fuego anun...}
+     193        0   {}-{Kosovo<\n>- ABC: Como nu...}
+     185      185   {}-{~<\n>~<\n>Junta<\n>Gener...}
+     182      182   {}-{~<\n>95,5%. Los da<\n>un...}
+     178        0   {Convención<\n>atenta con...}-{}
+     170        0   {El convencional<\n>justi...}-{}
+     157        0   {}-{ tanto, suponen un nuevo...}
+     155      155   {}-{~<\n>Competencia. "No ex...}
+     147        0   {}-{dores, de los desocupado...}
+     140        0   {}-{nda a la comunidad inter...}
+     138        0   {ra construir el Estado p...}-{}
+     131      131   {}-{~<\n>resustencno de sus ...}
+     131      131   {}-{~<\n>~<\n>~<\n>~<\n>El C...}
+     129      129   {}-{~<\n>~<\n>~<\n>~<\n>~...}
+     128      128   {}-{radas<\n>q + o<\n>TÚ=3' ...}
+     127      127   {}-{Más tarde, cuando lograr...}
+     123      123   {}-{ 4635<\n>~~<\n>~~~~<\n>~...}
+     122        0   {«Nunca he pensado que B-...}-{}
+     120        0   {, recomienda a la comuni...}-{}
+     118      118   {}-{¡-¿%& o "W Let<\n>~<\n>~...}
+     108        0   {Antonio<\n>Cassia, titul...}-{}
+     108        0   {HABLA VLADIMIR SHUMEIKO,...}-{}
+     107        0   {lados, de los jóvenes y ...}-{}
+     106      106   {}-{~<\n>¡,<\n>~<\n>~<\n>~...}
+     103      103   {}-{quiere la di VISIÓN<\n>d...}
+     103        0   {~ Rechaza que su investi...}-{}
+      99        0   {}-{Izetbegocvic ha sido can...}
+      97       97   {}-{~<\n>~<\n>MARTES | MIER....}
+      94       94   {KIGALI.-~ Tropas ghanesa...}-{~}
+      88       88   {}-{| a los "decretazos" lab...}
+      88        0   {}-{Corach<\n>no logró<\n>co...}
+      88        0   {«}-{<}
+      85       85   {LA MUCHACHADA apoyando a...}-{~}
+      80       80   {}-{~<\n>~~ ~~<\n>~~ ~~<\n>~...}
+      79        0   {}-{la Asamblea Constituyent...}
+      78        0   {}-{ra imposible que los ser...}
+      78        0   {}-{ron a consecuencias tan ...}
+      77       77   {}-{~<\n>KIM MANRESA<\n>Unos...}
+      77        0   {}-{con su noble capital de ...}
+      76       76   {}-{PAGINA 12A<\n>México, D....}
+      76       76   {}-{~<\n>~<\n>}
+      76        0   {Sartre y a la<\n>náusea,...}-{}
+      74        0   {}-{ ce ela a<\n>(- HABLA VL...}
+      73       73   {}-{Página 6 * _ POLITICA...}
+      72       72   {}-{~<\n>~<\n>~<\n>}
+      72        0   {}-{ -}
+      71        0   {,}-{.}
+      70       70   {}-{ada ano<\n>~<\n>~<\n>~...}
+      70        0   {}-{do de Rusia, du-<\n>rant...}
+      69        0   {al llegar al campamento ...}-{FINANC}
+      69        0   {}-{que no lle-<\n>van en su...}
+      68       68   {}-{rá a tiempo las medidas ...}
+      68       68   {}-{~<\n>Luis Carlos Rejón, ...}
+      67       67   {}-{Sábados por le tarde<\n>...}
+      66       66   {}-{VIERNES 1 DE JULIO DE 19...}
+      66       66   {}-{~<\n>:.: Conurbano<\n>~...}
+      66        0   {los manejos de Gostanian...}-{}
+      66        0   {}-{ du CERCLE NATIONAL<\n>D...}
+      66        0   {}-{chos donde Berlusconi ha...}
+      63       63   {qui}-{~<\n>~<\n>~ ~<\n>~<\n>FO...}
+      63       63   {}-{ y los<\n>precios se enc...}
+      63       63   {}-{12/eL mundo<\n>LUNES 27 ...}
+      63        0   {considera imposible que ...}-{}
+      63        0   {}-{arrillo)<\n>LA MUCHACHAD...}
+      62        0   {}-{ }
+      60       60   {}-{ria (J'L]<\n>(abia, More...}
+      60        0   {}-{ento<\n>como entidad pol...}
+      59       59   {}-{inoeneradamente a E'l ("...}
+      59        0   {cío y los<\n>precios se ...}-{}
+      58       58   {}-{u nom de ces deux<\n>00...}
+      58        0   {}-{- }
+      57       57   {}-{4 JULIO 1994<\n>~<\n>| N...}
+      57       57   {}-{C~ Dk _ *Buéros Aires; d...}
+      57       57   {}-{la nata<\n>~<\n>Comentar...}
+      56       56   {}-{RNES. 1 JULIO 1994; P º ...}
+      56       56   {}-{~<\n>~<\n>~<\n>| T E S _...}
+      56       30   {}-{OLES 29 DE JUNIO DE 1994...}
+      55        0   {í}-{i}
+      54       54   {}-{. 800210 - Cha.<\n>~<\n>...}
+      54        0   {Por Jorge Urien Berri...}-{}
+      54        0   {}-{judío, y en especial de ...}
+      53       53   {HABLA ABED ALLA EL SHAMY...}-{¡¿Q<\n>n}
+      52        0   {}-{CLARIN -x Buenos Aires, ...}
+      52        0   {}-{hora menos en España), a...}
+      50        0   {}-{bería dar la garantía pa...}
+      49       49   {ssos d'esquadra corearon...}-{<\n>~}
+      49       49   {}-{llo<\n>~<\n>CAMPANA en e...}
+      49        0   {}-{sólitos) en Santa Cruz...}
+      48        0   {}-{El 20 de mayo<\n>de 1939...}
+      47       47   {rante su entrevista en B...}-{~}
+      47        0   {}-{ión del oficialismo de n...}
+      46       46   {}-{O L Í TI C A<\n>MIERCOLE...}
+      46       46   {}-{Pablo Macharowsku<\n>Abe...}
+      46       46   {}-{l<\n>~<\n>~<\n>progreso,...}
+      46        0   {Shamy: "La<\n>paz no se...}-{}
+      46        0   {del centro del DF. (Foto...}-{}
+      46        0   {}-{naca da la ara wimtarian...}
+      45       45   {}-{No co ciiminictrarnan in...}
+      44        0   {(Radiofoto de Reuter cap...}-{}
+      44        0   {}-{ por<\n>una guerra sin...}
+      44        0   {}-{din un ministerio en el ...}
+      44        0   {}-{ha dado al fin cuenta de...}
+      44        0   {}-{miento<\n>de su nulidad...}
+      43       43   {}-{de 1994" *" CLARIN -<\n>...}
+      43       43   {}-{mo en la edad media<\n>-...}
+      43        0   {}-{ista precedente<\n>cayó ...}
+      42       42   {}-{ -<\n>~ ~<\n>~<\n>~w~...}
+      42       42   {}-{ MUNDO<\n>INTERNACIONAL...}
+      42       42   {}-{29 JUNIO 1994<\n>P O L Í...}
+      42       42   {}-{~<\n>~<\n>~<\n>Un grupo ...}
+      42        0   {}-{ .}
+      42        0   {}-{ SOCIAL<\n>J. I. LUCA DE...}
+      42        0   {}-{go y un sujeto fue d<\n>...}
+      42        0   {}-{nueva dosis de pesimis-...}
+      42        0   {}-{onti<\n>móvil, en la zon...}
+      42        0   {}-{rregularidades en<\n>la ...}
+      41       41   {}-{EL NACIONAL<\n>Domingo 3...}
+      41       41   {}-{~<\n>~<\n>UNOS DICEN<\n>...}
+      41        0   {}-{as.<\n>- ABC: En el larg...}
+      40       40   {Boris Yeltsin y miembros...}-{~<\n>~}
+      40       40   {CAMPAÑA en el DF. (Foto ...}-{~}
+      40       40   {}-{PAGINA 104<\n>México, D....}
+      40       40   {}-{nt, ¿paradigma del crime...}
+      40       40   {}-{o, D.F., domingo 3 de ju...}
+      40        0   {}-{EL NACIONAL<\n>Domingo 2...}
+      40        0   {ón,<\n>que solicitó «no ...}-{}
+      39       39   {}-{, fer -<\n>mao 3 i -. '-...}
+      39       39   {}-{~<\n>38 EL FINANCIERO...}
+      39        0   {intenta así «no herir lo...}-{}
+      39        0   {}-{intenta así <no herir lo...}
+      39        0   {}-{te la reelección de los ...}
+      38       38   {}-{LA VOZ DEL INTERIOR INFO...}
+      38       38   {}-{~<\n>del centro del DF. ...}
+      38        0   {}-{"}
+      38        0   {}-{os tutsis a abandonar la...}
+      38        0   {}-{uno se<\n>plantea para q...}
+      37       37   {Alfonsín, "definitivamen...}-{~<\n>~<\n>~}
+      37       37   {}-{es 1©&~q9~ B&W Pastos,...}
+      37       37   {}-{~~~ ~~~<\n>~<\n>~ ~~~...}
+      37        0   {}-{á MADRID du FRONT NA-...}
+      36       36   {}-{~<\n>~<\n>S, viernes 1 d...}
+      36        0   {hora menos en España), a...}-{}
+      36        0   {te la reelección de los ...}-{}
+      36        0   {}-{<\n>Pretazo" sobre refor...}
+      36        0   {}-{La náusea<\n>y la nada...}
+      36        0   {}-{Z.: Lograremos esta meta...}
+      35       35   {CUAUHTEMOC CARDENAS. (Fo...}-{~}
+      35       35   {O}-{~<\n>vienda de Paso de l...}
+      35       35   {}-{=<\n>~<\n>MARQUE EL<\n>7...}
+      35       35   {}-{aue <cuien tiene roman a...}
+      35        0   {}-{Por Jorge Urien Berri...}
+      34       34   {acla}-{n e n<\n>~ ~<\n>~<\n>~~ ...}
+      34        0   {}-{das sobre<\n>su legitimi...}
+      34        0   {}-{sín, "definitivamente en...}
+      33       33   {}-{hablado de hasta 15 dete...}
+      33       33   {}-{omingo 19 de junio de 19...}
+      33       33   {}-{~<\n>MAMIAICA 10 AE iiIN...}
+      33       33   {}-{ÍS, lunes 4 de julio de ...}
+      33        0   {a manifestantes antipale...}-{1}
+      33        0   {}-{complacido con la anlica...}
+      33        0   {}-{da Varela G + Coss Bore ...}
+      33        0   {}-{lareci<\n>El 12 de julio...}
+      33        0   {}-{mios saz 222 dl mul l le...}
+      33        0   {}-{ndez de Cevailos en las ...}
+      32       32   {}-{(S, lunes 27 de junio de...}
+      32        0   {, dijo<\n>monseñor<\n>Ga...}-{}
+      32        0   {}-{.}
+      32        0   {}-{importantes inconvenient...}
+      32        0   {}-{s ghanesas de la ONU aux...}
+      32        0   {}-{v en la untación nern la...}
+      31       31   {}-{~<\n>~<\n>~<\n>VIERNES 1...}
+      31        0   {}-{DOMINGO 3 DE JULIO DE 19...}
+      31        0   {}-{Jubilación: la estatal a...}
+      31        0   {}-{NGO 3 DE JULIO DE 1994 -...}
+      31        0   {}-{ra de la<\n>Constituyent...}
+      30       30   {Chicago, experimentaron ...}-{~}
+      30       30   {}-{CIONAL<\n>~<\n>~<\n>ABC ...}
+      30       30   {}-{UNES 27 DE JUNIO DE 1994...}
+      30       30   {}-{lunes 4 de julio de 1994...}
+      30        0   {L}-{de control de la Radio T...}
+      30        0   {}-{. }
+      30        0   {}-{Cinco nombres de secuest...}
+      30        0   {}-{sólo a la guerrilla sino...}
+      30        0   {}-{vencional<\n>justicialis...}
+      29       29   {}-{1992 recibieron<\n>~<\n>...}
+      29       29   {}-{~<\n>CUAUHTEMOC CARDENAS...}
+      29        0   {}-{<\n>Domingo 19 de junio ...}
+      29        0   {}-{<\n>Gabriel Storni<\n>se...}
+      29        0   {}-{dí de Israel, Eliahu Bak...}
+      29        0   {}-{osición, apenas se aferr...}
+      29        0   {}-{scurso para la unidad in...}
+      28       28   {}-{ES 4 DE JULIO DE 1994...}
+      28       28   {}-{m<\n>D AE<\n>_¡yzo<\n>e...}
+      28       28   {}-{s<\n>~<\n>~<\n>~<\n>¿RPD...}
+      28       28   {}-{~<\n>"oto de Reuter. vi...}
+      28        0   {spera y el resul-<\n>tad...}-{}
+      28        0   {}-{DOMINGO 19 DE JUNIO DE 1...}
+      28        0   {}-{mavoría de los recomenda...}
+      27       27   {}-{taña cahre este acuinta...}
+      27        0   {p}-{de<\n>mento andaluz, con...}
+      27        0   {}-{a tava fanma ca an.<\n>r...}
+      26       26   {idente del Tribunal<\n>S...}-{.<\n>~<\n>CARTAS<\n>AL D...}
+      26       26   {}-{IONAL<\n>EL FINANCIERO 3...}
+      26       26   {}-{S 4 DE JULIO DE 1994<\n>...}
+      26        0   {K}-{ayuda de la comunidad in...}
+      26        0   {}-{ :}
+      26        0   {}-{<\n>segundo, un.<\n>UCR ...}
+      26        0   {}-{a Guerra Civil Española....}
+      26        0   {}-{umeiko, presidente del S...}
+      26        0   {}-{vetn imnuecta nar la ira...}
+      25        0   {nte<\n>cayó rápidamente ...}-{}
+      25        0   {}-{ ti<\n>de las pasadas el...}
+      25        0   {}-{Rememorando a<\n>Sartre ...}
+      25        0   {}-{ad, se<\n>acrecentarán...}
+      25        0   {}-{lo Estratégico en México...}
+      25        0   {}-{n<\n>Jabalaya, en Gaza....}
+      24       24   {}-{T 6 ene arnvastae an<\n>...}
+      24       24   {}-{igación sea "basura"<\n>...}
+      24       24   {}-{~<\n>~<\n>~<\n>~<\n>}
+      24       24   {}-{~~~<\n>Juan Manuel Casel...}
+      24        0   {Claudia Olguín / Finsat...}-{}
+      24        0   {lo Estratégico en México}-{}
+      24        0   {}-{ gana a la inocer<\n>Com...}
+      24        0   {}-{A VOZ DEL INTERIOR EC!...}
+      24        0   {}-{atenta contra la<\n>conc...}
+      24        0   {}-{e . Eaba . á" a<\n>i - _...}
+      24        0   {}-{ores<\n>Todo pasó rápida...}
+      24        0   {}-{y urgencia, una vez<\n>t...}
+      23        0   {q}-{égimen e:<\n>proyecto de...}
+      23        0   {}-{19 de junio de 1994<\n>N...}
+      23        0   {}-{a r s d e N TEC mr eee...}
+      23        0   {»}-{ el protocolo número de}
+      22       22   {}-{54/eL mundo<\n>~<\n>MOTO...}
+      22        0   {lo largo de junio, el }-{}
+      22        0   {los vecinos se oponen }-{}
+      22        0   {}-{ '}
+      22        0   {}-{ isto de lut feit<\n>y t...}
+      22        0   {}-{ una g1<\n>abierta. Por ...}
+      22        0   {}-{: }
+      22        0   {}-{dice. Zubak, que ha re}
+      22        0   {}-{o que B-H dejase de ex}
+      22        0   {}-{stionario de<\n>ABC, rec...}
+      22        0   {}-{t<\n>Chacho Alvarez: un ...}
+      21       21   {como en la edad media}-{~}
+      21       21   {}-{20/E1 MuNdO<\n>~<\n>INTE...}
+      21       21   {}-{<\n>LUNES 4-7-94<\n>~...}
+      21       21   {}-{~<\n>LA CAE<\n>~<\n>audi...}
+      21       21   {}-{~<\n>~<\n>~~~<\n>~<\n>~~...}
+      21        0   { de los observantes».}-{}
+      21        0   {dores, de los desocup}-{}
+      21        0   {}-{34 / ABC<\n>INTERNACIONA}
+      21        0   {}-{E DIT A DO P 0 R<\n>PREN}
+      21        0   {}-{ir que<\n>régimen se dé }
+      21        0   {}-{o<\n>decretos de<\n>nece...}
+      20       20   {}-{)? .<\n>~62E<\n>Maus, Po...}
+      20       20   {}-{34 / ESPECTÁCULOS<\n>~...}
+      20       20   {}-{<\n>LUNES 27-6-94<\n>~...}
+      20       20   {}-{A B C/ 27<\n>~<\n>~<\n>~...}
+      20       20   {}-{NES 4-7-1994<\n>~<\n>~...}
+      20        0   { auditoría cuestiona}-{}
+      20        0   { año por casualidad»}-{}
+      20        0   { de llamadas y escri}-{}
+      20        0   {.}-{,}
+      20        0   {}-{ e tama nai u au adi}
+      20        0   {}-{ errores en la antig}
+      20        0   {}-{- Qué quieren -<\n>los }
+      20        0   {}-{EL PAIS m Lajornada<\n>}
+      20        0   {}-{PAIS [P cajornada<\n>E }
+      20        0   {}-{bó aue eran falsos.<\n>}
+      20        0   {}-{gemor<\n>RTVA y en los }
+      20        0   {}-{ia Olguín / Finsat<\n>d}
+      20        0   {}-{n a lavantas anén ma}
+      20        0   {}-{na<\n>humana y la<\n>soc...}
+      19       19   {Juan Manuel Casella}-{~}
+      19       19   {}-{EL PAÍ<\n>~<\n>~<\n>~...}
+      19       19   {}-{~<\n>Ernesto Zedillo....}
+      19        0   {gu}-{tos apoyando a opos}
+      19        0   {}-{ Roldán<\n>la Comisión}
+      19        0   {}-{a costa de plantar }
+      19        0   {}-{con el gobierno se }
+      19        0   {}-{ial de LA NACION)<\n>c}
+      19        0   {}-{nacional, la cual<\n>d}
+      19        0   {}-{stir como comuni-<\n>d}
+      19        0   {}-{visita aun cuando s}
+      18       18   {}-{~<\n>Combatientes de }
+      18        0   {CO}-{D<\n>DL: M-13-58. PÁG}
+      18        0   {Pablo Macharowski<\n>}-{}
+      18        0   {}-{ división<\n>en IU-LV}
+      18        0   {}-{ enero de<\n>chea. Só}
+      18        0   {}-{3 2 EL FINANCIERO<\n>}
+      18        0   {}-{an<\n>Detectan numero}
+      18        0   {}-{car<\n>rraca o un cam}
+      18        0   {}-{jefe de la diploma}
+      18        0   {}-{nquilidad de la ví}
+      17       17   {}-{ P I N 1 6 N<\n>~<\n>LO}
+      17       17   {}-{~<\n>Kresimir Zubak<\n>}
+      17        4   {i}-{1}
+      17        0   {DIRECTOR<\n>Lo}-{absolutamente fal}
+      17        0   {MANUEL RICO<\n>CORRE}-{}
+      17        0   {dos, de los jubi-}-{}
+      17        0   {}-{a Yugoslavia que<\n>}
+      17        0   {}-{lo debemos conseg}
+      16       16   {Ernesto Zedillo.}-{~<\n>~<\n>~<\n>~}
+      16       16   {}-{NACIONAL<\n>~<\n>~<\n>~...}
+      16       16   {}-{an en seguir<\n>~<\n>c}
+      16       16   {}-{radicalismo<\n>~<\n>~...}
+      16       16   {}-{~<\n>MONDELO / EFE<\n>}
+      16       16   {}-{~<\n>Yasser Arafat<\n>}
+      16       16   {«Nu}-{~<\n>~<\n>El comandant}
+      16        0   {-~}-{}
+      16        0   {los más jóvenes<\n>}-{}
+      16        0   {sefardí de Israe}-{}
+      16        0   {}-{ del o de los au}
+      16        0   {}-{ |}
+      16        0   {}-{4 / INTERNACIONA}
+      16        0   {}-{FUNDADO En 1905 }
+      16        0   {}-{UCA DE TENA <<\n>AL}
+      16        0   {}-{_ }
+      16        0   {}-{a Bazúa que Carp}
+      16        0   {}-{a guerra re<\n>tand}
+      16        0   {}-{a última negoci:}
+      16        0   {}-{anejos de Gostan}
+      16        0   {}-{e Europa nunca a}
+      16        0   {}-{ica, Douglas Hur}
+      16        0   {}-{manda<\n>autoridade}
+      16        0   {}-{n<\n>mente del escl}
+      15       15   {}-{1994<\n>~<\n>~<\n>~<\n>A...}
+      15       15   {}-{ABC / 35<\n>~<\n>~<\n>~...}
+      15       15   {}-{Polít<\n>~<\n>~<\n>~<\n>...}
+      15       15   {}-{~<\n>~<\n>KIGALÍ.-Tro}
+      15       15   {}-{~<\n>~<\n>~<\n>~<\n>~~~~...}
+      15        0   {?}-{. En el fondo (}
+      15        0   {d. Cristina Lóp}-{}
+      15        0   {l líder de la O}-{}
+      15        0   {nción a un proy}-{d pretendemos d}
+      15        0   {sa de Moneda<\n>Ca}-{}
+      15        0   {}-{ la Cor<\n>del pac}
+      15        0   {}-{R.- Gaviria pla}
+      15        0   {}-{o se<\n>puede logr}
+      15        0   {}-{pondido a un cu}
+      15        0   {}-{venciones colec}
+      15        0   {}-{élica .<\n>hueta, }
+      15        0   {}-{ó <no profanar }
+      14       14   {CULTO CATOLICO}-{~<\n>~<\n>~}
+      14       14   {d}-{tz.<\n>¡Rox Cº~<\n>A}
+      14       14   {}-{<\n>UCR<\n>~<\n>==<\n>U....}
+      14       14   {}-{SPANA / 25<\n>~<\n>E}
+      14       14   {}-{le 1994<\n>~<\n>~<\n>~...}
+      14        0   {Yasser Arafat<\n>}-{}
+      14        0   {a}-{iferent<\n>nismos}
+      14        0   {ibieron<\n>ciento}-{}
+      14        0   {ografiadas.<\n>Es}-{al<\n>Superior en}
+      14        0   {y se intensifi}-{}
+      14        0   {}-{ l}
+      14        0   {}-{ qu<\n>haga en es}
+      14        0   {}-{.: Considero q}
+      14        0   {}-{a dejar un c:<\n>}
+      14        0   {}-{e ee e a a a e}
+      14        0   {}-{idad internaci}
+      14        0   {}-{tégica<\n>comisió}
+      14        0   {}-{yecto de este }
+      14        0   {}-{ás jóvenes -<\n>m}
+      14        0   {}-{és<\n>An<\n>Rama .<\n>h}
+      13       13   {Rememorando a}-{~}
+      13       13   {}-{IBRE<\n>~<\n>BARCEL}
+      13       13   {}-{~<\n>LA VANGUARD}
+      13        0   { pueblo. Mien}-{as<\n>armas?<\n>R.}
+      13        0   {B}-{de un ases<\n>ca}
+      13        0   {alcista prece}-{}
+      13        0   {autonómicas c}-{}
+      13        0   {on}-{ambiar su sis}
+      13        0   {}-{ evitar el es}
+      13        0   {}-{, por la deci}
+      13        0   {}-{,}
+      13        0   {}-{-<\n>sa. (AP)<\n>pa}
+      13        0   {}-{:<\n>mo, mantene}
+      13        0   {}-{A VANGUARDIA<\n>}
+      13        0   {}-{PRD Nte sb l<\n>}
+      13        0   {}-{_ hacer con e}
+      13        0   {}-{del d<\n>debían }
+      13        0   {}-{iana de la<\n>pe}
+      13        0   {}-{imos ol<\n>culiz}
+      13        0   {}-{jac<\n>dicado pa}
+      13        0   {}-{l-<\n>tado fue u}
+      13        0   {}-{no<\n>Cortés)<\n>du}
+      13        0   {}-{os de necesid}
+      13        0   {}-{zo<\n>fue engaña}
+      13        0   {}-{© 4005<\n>Adel.<\n>}
+      13        0   {¿}-{igual que el }
+      12       12   {COMPRENSIBLE}-{<\n>~<\n>---}
+      12       12   {Chacho}-{-<\n>~<\n>7<\n>|<\n>~...}
+      12       12   {}-{A 17<\n>~<\n>~<\n>~<\n>I}
+      12       12   {}-{ARDIA 13<\n>~<\n>U}
+      12       12   {}-{ista<\n>~<\n>~<\n>~<\n>s}
+      12       12   {}-{~<\n>Página 8 N}
+      12       12   {}-{ÍS 4<\n>~<\n>~<\n>~<\n>A}
+      12        0   {-}-{ e e a e a e}
+      12        0   {... 500.000}-{e facilitará}
+      12        0   {<\n>oposiciones}-{}
+      12        0   {Abed Alla El}-{Pt}
+      12        0   {Senado de Ru}-{}
+      12        0   {d}-{blo; cualqui}
+      12        0   {e<\n>este es un}-{na marcha<\n>La}
+      12        0   {había pedido}-{de<\n>junio.<\n>Al}
+      12        0   {hu Bakshi-Do}-{}
+      12        0   {la-<\n>ción en}-{ierno?<\n>forma}
+      12        0   {l}-{}
+      12        0   {ló que<\n>Gioda}-{bración del}
+      12        0   {na marcha<\n>La}-{e<\n>este es un}
+      12        0   {que finalmen}-{militar. "Es}
+      12        0   {rá informa}-{-<\n>do-juez de}
+      12        0   {v}-{más que<\n>lenc}
+      12        0   {}-{ Yugos-<\n>lava}
+      12        0   {}-{,<\n>que solici}
+      12        0   {}-{22 . 2<\n>años }
+      12        0   {}-{<\n>más una int}
+      12        0   {}-{Europa?<\n>- K.}
+      12        0   {}-{INTERNACIONA}
+      12        0   {}-{JE<\n>LA VANGUA}
+      12        0   {}-{OR DON TORCU}
+      12        0   {}-{e 1994<\n>FL. H}
+      12        0   {}-{manización d}
+      12        0   {}-{ntes.<\n>Se hab}
+      12        0   {}-{teó una g1<\n>n}
+      12        0   {}-{ño por casua}
+      11       11   {, tuvo ayer}-{<\n>3<\n>~}
+      11       11   {Qué quieren}-{~}
+      11       11   {net juró<\n>co}-{mó.<\n>~<\n>~<\n>ade}
+      11       11   {}-{21<\n>~<\n>~<\n>A RI}
+      11       11   {}-{CONOMIA<\n>~<\n>E}
+      11       11   {}-{RALDO<\n>~<\n>~<\n>E}
+      11        0   { gran<\n>rabin}-{}
+      11        0   { opositores}-{}
+      11        0   {,}-{}
+      11        0   {.}-{}
+      11        0   {Argüelles, }-{}
+      11        0   {Comentarios}-{32 /}
+      11        0   {a nueva dos}-{}
+      11        0   {a<\n>Bicameral}-{uego de que}
+      11        0   {e}-{é}
+      11        0   {insurrecció}-{a aban-<\n>do}
+      11        0   {nipona cond}-{}
+      11        0   {ntonada en }-{ se dis-<\n>pu}
+      11        0   {realizó un}-{conce-<\n>derí}
+      11        0   {r}-{}
+      11        0   {sta lucha?<\n>}-{ gobier- . }
+      11        0   {v}-{ primer deb}
+      11        0   {z Schlichti}-{}
+      11        0   {}-{ - - | ¡ 3,}
+      11        0   {}-{ la (u» Cor}
+      11        0   {}-{267<\n>Abierto}
+      11        0   {}-{28 / SOCIED}
+      11        0   {}-{:}
+      11        0   {}-{<\n>Parlamento}
+      11        0   {}-{<\n>SOCIEDAD A}
+      11        0   {}-{L NACIONAL<\n>}
+      11        0   {}-{NAL<\n>Domingo}
+      11        0   {}-{cci<\n>P.- En }
+      11        0   {}-{con la rela}
+      11        0   {}-{do».<\n>Arafat}
+      11        0   {}-{efenc<\n>los r}
+      11        0   {}-{en la Presi}
+      11        0   {}-{ero a dalfa}
+      11        0   {}-{hiz 13) ><\n>c}
+      11        0   {}-{icales<\n>ejes}
+      11        0   {}-{ores del<\n>dr}
+      11        0   {}-{poder".<\n>na }
+      11        0   {}-{r}
+      11        0   {í}-{que desde l}
+      10       10   {Jerusalen.}-{~}
+      10       10   {}-{S 6<\n>~<\n>~<\n>PI}
+      10       10   {}-{~<\n>(Télam)<\n>}
+      10        1   {l}-{i}
+      10        0   {<\n>la Cámara}-{di-<\n>dos}
+      10        0   {c}-{no puede s}
+      10        0   {do-juez de}-{cuando lo }
+      10        0   {en 1992 re}-{}
+      10        0   {ha<\n>y apoy}-{ión comenz}
+      10        0   {nueve mil }-{}
+      10        0   {náusea<\n>y}-{4 DE JULIO}
+      10        0   {ranspor-<\n>t}-{}
+      10        0   {ruyendo}-{e país hay}
+      10        0   {s}-{}
+      10        0   {u}-{to de Oli<\n>}
+      10        0   {y se empeñ}-{Y}
+      10        0   {y}-{n a un acu}
+      10        0   {}-{ - | 1.300}
+      10        0   {}-{Autonomía }
+      10        0   {}-{CIONALES<\n>A}
+      10        0   {}-{abajo.<\n>Aun}
+      10        0   {}-{ane la<\n>en }
+      10        0   {}-{e su inves}
+      10        0   {}-{ema de gob}
+      10        0   {}-{iciones au}
+      10        0   {}-{iré inclus}
+      10        0   {}-{ms m as w }
+      10        0   {}-{nido can C}
+      10        0   {}-{pendientes}
+      10        0   {}-{recimi<\n>ció}
+      10        0   {}-{rigió la e}
+      10        0   {}-{rra. Para }
+      10        0   {}-{se día sag}
+      10        0   {}-{stos y,<\n>po}
+      10        0   {}-{s}
+      10        0   {}-{tuvo ayer<\n>}
+      10        0   {}-{ña en mata}
+       9        9   {Española.}-{.<\n>~<\n>~}
+       9        9   {[LUIS }-{~<\n>~<\n>~<\n>~<\n>T}
+       9        9   {}-{DIA 53<\n>~<\n>}
+       9        9   {}-{E<\n>~<\n>CLINT}
+       9        9   {}-{IONAL<\n>~<\n>C}
+       9        9   {}-{PAIS 5<\n>~<\n>}
+       9        9   {}-{co-<\n>~<\n>opo}
+       9        9   {}-{mundo<\n>~<\n>E}
+       9        9   {}-{~<\n>~<\n>~<\n>~~<\n>}
+       9        1   {ó}-{o}
+       9        0   {,}-{ contaban}
+       9        0   {-<\n>de pone}-{stén<\n>fi}
+       9        0   {<\n>no deben}-{ al-<\n>guna}
+       9        0   {DICEN<\n>que}-{a}
+       9        0   {boracion}-{<\n>más elem}
+       9        0   {d prete}-{nción a u}
+       9        0   {del<\n>bloqu}-{entonada }
+       9        0   {d}-{con las r}
+       9        0   {d}-{r y sabot}
+       9        0   {ecilia Pr}-{}
+       9        0   {en seguir}-{-}
+       9        0   {encendida}-{al bloque}
+       9        0   {fético<\n>Co}-{}
+       9        0   {io.<\n>Al fu}-{as", deja}
+       9        0   {l<\n>preside}-{cción<\n>}
+       9        0   {les<\n>y otr}-{rmación<\n>p}
+       9        0   {liberales}-{ABC}
+       9        0   {muni-<\n>dad}-{ Torres}
+       9        0   {n especia}-{}
+       9        0   {quieren c}-{l}
+       9        0   {s de pesi}-{}
+       9        0   {sa. (AP)<\n>}-{}
+       9        0   {sidades}-{tra lucha}
+       9        0   {su<\n>propio}-{gente<\n>que}
+       9        0   {}-{.<\n>Dehaene}
+       9        0   {}-{.<\n>el cand}
+       9        0   {}-{A PRESS<\n>E}
+       9        0   {}-{A RNA - I}
+       9        0   {}-{A h 1.34<\n>}
+       9        0   {}-{Ezquerro<\n>}
+       9        0   {}-{LIRREPORT}
+       9        0   {}-{emercie, }
+       9        0   {}-{ero<\n>veter}
+       9        0   {}-{l}
+       9        0   {}-{o d}
+       9        0   {}-{onstribuy}
+       9        0   {}-{ta<\n>: Conv}
+       9        0   {~}-{MIERCOLES,}
+       9        0   {».<\n>Arafat}-{}
+       9        0   {á debiend}-{ juró<\n>com}
+       8        8   {"Si esta}-{~}
+       8        8   {Cecilia<\n>}-{Bv.t }
+       8        8   {Q}-{~<\n>~<\n>~~<\n>G}
+       8        8   {más de l}-{nsio<\n>~<\n>L}
+       8        8   {n}-{il» ! A<\n>}
+       8        8   {}-{.-<\n>-f<\n>~<\n>}
+       8        8   {}-{:<\n>~<\n>a d<\n>}
+       8        8   {}-{PANA<\n>~<\n>S}
+       8        8   {}-{mundo<\n>~<\n>}
+       8        8   {}-{~<\n>; MIER}
+       8        8   {}-{~<\n>~<\n>ac L}
+       8        8   {}-{~<\n>~~~~~<\n>}
+       8        8   {}-{~~ ~~<\n>. }
+       8        0   { comenza}-{gada, pe}
+       8        0   { en boca}-{mados,<\n>y}
+       8        0   { telefó}-{.<\n>Abando}
+       8        0   { }-{}
+       8        0   {-}-{}
+       8        0   {<\n>postal }-{o. Bilba}
+       8        0   {CARTAS}-{Es falso}
+       8        0   {Desagüe }-{}
+       8        0   {citados,}-{o Guerra}
+       8        0   {condicio}-{merece u}
+       8        0   {e-<\n>ral,}-{isión de}
+       8        0   {en ellos}-{Tribunal}
+       8        0   {in-<\n>ten}-{cavallis}
+       8        0   {is-<\n>mo",}-{ía", que}
+       8        0   {ismo.<\n>Nu}-{do un r}
+       8        0   {l<\n>pueblo}-{}
+       8        0   {lítica" }-{r el blo}
+       8        0   {no.<\n>P.-~}-{r-<\n>seguir}
+       8        0   {nt}-{l PSOE p}
+       8        0   {o. Bilba}-{sidere }
+       8        0   {o?<\n>R.-~ N}-{ rico com}
+       8        0   {observan}-{3}
+       8        0   {opio}-{almente,}
+       8        0   {pacho. D}-{ impr}
+       8        0   {por "un}-{La inici}
+       8        0   {qu}-{d}
+       8        0   {rge para}-{e<\n>siendo}
+       8        0   {se<\n>la p}-{tamos<\n>un}
+       8        0   {sentada }-{quier<\n>}
+       8        0   {stra re-}-{}
+       8        0   {teléfono}-{bajara}
+       8        0   {}-{ ,}
+       8        0   {}-{(tran Br}
+       8        0   {}-{<\n>Ahora, }
+       8        0   {}-{<\n>náusea,}
+       8        0   {}-{a}
+       8        0   {}-{d y<\n>urge}
+       8        0   {}-{esti-<\n>no}
+       8        0   {}-{idad»<\n>al}
+       8        0   {}-{isterios}
+       8        0   {}-{l<\n>pueblo}
+       8        0   {}-{mer<\n>cida}
+       8        0   {}-{naria An}
+       8        0   {}-{nción<\n>::}
+       8        0   {}-{sim<\n>do e}
+       8        0   {}-{sonale<\n>r}
+       8        0   {}-{stado pa}
+       8        0   {}-{y el res}
+       8        0   {}-{| }
+       7        7   { juicio}-{o<\n>~}
+       7        7   {Cortés)}-{~}
+       7        7   {}-{1505<\n>~<\n>}
+       7        7   {}-{~<\n>(* N<\n>}
+       7        7   {}-{~<\n>~<\n>~~<\n>}
+       7        7   {}-{~~<\n>~ ~<\n>}
+       7        0   { "despr}-{iginalm}
+       7        0   { guerra}-{pacidad}
+       7        0   {".<\n>Por}-{e cante}
+       7        0   {"Día de}-{asumir}
+       7        0   {, Dougl}-{rz}
+       7        0   {. Magis}-{ extrac}
+       7        0   {<\n>afirma}-{ quede }
+       7        0   {<\n>public}-{s disp}
+       7        0   {Ch}-{como po}
+       7        0   {Combati}-{nu}
+       7        0   {Cámara}-{quienes}
+       7        0   {El jefe}-{¿Mainr}
+       7        0   {ado hay}-{roversi}
+       7        0   {ano.<\n>La}-{ysler}
+       7        0   {as<\n>meca}-{l Tribu}
+       7        0   {astar l}-{ech}
+       7        0   {beranía}-{nis-<\n>mo}
+       7        0   {básic}-{como un}
+       7        0   {cavalli}-{"despre}
+       7        0   {con otr}-{_ básic}
+       7        0   {consi}-{dirige<\n>}
+       7        0   {c}-{a )<\n>wWC}
+       7        0   {da<\n>que }-{teria<\n>d}
+       7        0   {de cont}-{R}
+       7        0   {debería}-{EL PAÍS}
+       7        0   {e cante}-{".<\n>Por}
+       7        0   {ebradas}-{}
+       7        0   {economí}-{}
+       7        0   {e}-{c}
+       7        0   {gobier}-{país ta}
+       7        0   {ica sob}-{o<\n>Quie}
+       7        0   {infor}-{la<\n>Bica}
+       7        0   {interes}-{colabor}
+       7        0   {is-<\n>ten}-{ de lu}
+       7        0   {l<\n>anál}-{y que d}
+       7        0   {liberal}-{mucho}
+       7        0   {lmente,}-{mos las}
+       7        0   {mayor",}-{de<\n>la}
+       7        0   {milit}-{preocup}
+       7        0   {mpuls}-{n-<\n>tent}
+       7        0   {nes}-{ado<\n>por}
+       7        0   {nstanci}-{<\n>querí}
+       7        0   {nte<\n>qu}-{blo, Mi}
+       7        0   {origin}-{interes}
+       7        0   {o}-{a}
+       7        0   {por}-{realizó}
+       7        0   {pruden-}-{DNI}
+       7        0   {que<\n>afe}-{no<\n>soli}
+       7        0   {ropo}-{ e »<\n>Au}
+       7        0   {s apoya}-{}
+       7        0   {s aut}-{e-<\n>de p}
+       7        0   {s resp}-{ contin}
+       7        0   {sraelís}-{ERO}
+       7        0   {stos}-{l juega}
+       7        0   {tuno.<\n>N}-{astar l}
+       7        0   {y que d}-{l<\n>anál}
+       7        0   {y que t}-{su<\n>prop}
+       7        0   {ya<\n>con}-{z. En e}
+       7        0   {yo<\n>haya}-{500.000}
+       7        0   {y}-{. Ce, l}
+       7        0   {y}-{v}
+       7        0   {}-{ Faecna}
+       7        0   {}-{ de que}
+       7        0   {}-{- "Si e}
+       7        0   {}-{-}
+       7        0   {}-{. :- Ca}
+       7        0   {}-{23 de m}
+       7        0   {}-{<\n>consid}
+       7        0   {}-{A ESPAN}
+       7        0   {}-{INTERNA}
+       7        0   {}-{IO Y TI}
+       7        0   {}-{LA VANG}
+       7        0   {}-{arre<\n>xi}
+       7        0   {}-{cia<\n>man}
+       7        0   {}-{de Anda}
+       7        0   {}-{giados }
+       7        0   {}-{id lace}
+       7        0   {}-{ires, l}
+       7        0   {}-{junto<\n>e}
+       7        0   {}-{la comu}
+       7        0   {}-{lante<\n>h}
+       7        0   {}-{lianos }
+       7        0   {}-{na<\n>los }
+       7        0   {}-{perol<\n>g}
+       7        0   {}-{s sd<\n>so}
+       7        0   {}-{través<\n>}
+       7        0   {}-{ve, la }
+       7        0   {~ Si }-{ Nosotro}
+       7        0   {ÁT}-{ A D R }
+       7        0   {ú}-{o gener}
+       7        0   {ü}-{u}
+       6        6   {d}-{l»=<\n>~<\n>}
+       6        6   {ez:}-{ó<\n>~<\n>La}
+       6        6   {}-{~<\n>1<\n>~<\n>}
+       6        6   {}-{~<\n>:<\n>?<\n>}
+       6        6   {}-{~<\n>~<\n>- }
+       6        6   {}-{~<\n>~<\n>| }
+       6        6   {}-{~<\n>~~~<\n>}
+       6        3   {iri}-{m}
+       6        2   {in}-{m}
+       6        2   {li}-{h}
+       6        2   {}-{ "}
+       6        1   {}-{d}
+       6        0   { Civil}-{nspor-}
+       6        0   { hombr}-{ident}
+       6        0   { m}-{ucha<\n>c}
+       6        0   { tan r}-{u<\n>prop}
+       6        0   { un<\n>se}-{rrota}
+       6        0   {, que }-{s<\n>ar}
+       6        0   {-<\n>nado}-{l "Día}
+       6        0   {. "Est}-{idad d}
+       6        0   {. El e}-{}
+       6        0   {<\n>Asens}-{vin-<\n>c}
+       6        0   {<\n>Legi}-{t ina }
+       6        0   {<\n>condi}-{tedes<\n>}
+       6        0   {El}-{tajan,}
+       6        0   {G}-{¿Qué c}
+       6        0   {MICIOS}-{}
+       6        0   {Shaat,}-{_}
+       6        0   {a, per}-{ici}
+       6        0   {a<\n>más }-{io, t}
+       6        0   {ajar }-{lecimi}
+       6        0   {alist}-{tó a l}
+       6        0   {ara}-{ueblo»}
+       6        0   {as, y }-{omici}
+       6        0   {bloqu}-{aparec}
+       6        0   {bsolut}-{ que<\n>}
+       6        0   {cal.)<\n>~}-{e}
+       6        0   {ción l}-{ pedid}
+       6        0   {combin}-{satisf}
+       6        0   {del ve}-{quí<\n>Ch}
+       6        0   {del}-{por}
+       6        0   {diario}-{sus}
+       6        0   {dipu-<\n>}-{en }
+       6        0   {e<\n>sien}-{ par }
+       6        0   {en }-{dipu-<\n>}
+       6        0   {espués}-{o, ya}
+       6        0   {fuerzo}-{}
+       6        0   {g<\n>Mien}-{}
+       6        0   {hacerl}-{prop}
+       6        0   {ia, du}-{}
+       6        0   {iales }-{ífica}
+       6        0   {idente}-{}
+       6        0   {io co}-{ Malvi}
+       6        0   {itánic}-{ef}
+       6        0   {i}-{í}
+       6        0   {jo<\n>a u}-{}
+       6        0   {jó}-{ la o<\n>}
+       6        0   {l-<\n>gun}-{s extr}
+       6        0   {la<\n>tit}-{com}
+       6        0   {lecimi}-{ajar }
+       6        0   {limitó}-{"dejar}
+       6        0   {liter}-{combin}
+       6        0   {l}-{mente }
+       6        0   {ment}-{ista r}
+       6        0   {mo<\n>Col}-{biern}
+       6        0   {nas du}-{deró<\n>"}
+       6        0   {no<\n>Qui}-{.<\n>No s}
+       6        0   {nsider}-{r falt}
+       6        0   {o.<\n>P.-~}-{amente,}
+       6        0   {o}-{e}
+       6        0   {para }-{los es}
+       6        0   {propu}-{finalm}
+       6        0   {putado}-{nforme}
+       6        0   {r<\n>prol}-{<\n>qué c}
+       6        0   {rn}-{m}
+       6        0   {s.<\n>Es}-{ner un}
+       6        0   {segura}-{ctos}
+       6        0   {sidenc}-{-<\n>ro f}
+       6        0   {ur}-{elefón}
+       6        0   {}-{ 1.280}
+       6        0   {}-{ ;}
+       6        0   {}-{ LUNES}
+       6        0   {}-{ britá}
+       6        0   {}-{ y}
+       6        0   {}-{, }
+       6        0   {}-{-<\n>}
+       6        0   {}-{<\n>Redac}
+       6        0   {}-{E Rech}
+       6        0   {}-{Moldtw}
+       6        0   {}-{Orlel }
+       6        0   {}-{acer d}
+       6        0   {}-{al<\n>par}
+       6        0   {}-{el 14 }
+       6        0   {}-{eo es<\n>}
+       6        0   {}-{es}
+       6        0   {}-{fue en}
+       6        0   {}-{isteri}
+       6        0   {}-{l Fede}
+       6        0   {}-{nal<\n>se}
+       6        0   {}-{n}
+       6        0   {}-{o.<\n>P.-}
+       6        0   {}-{onvenc}
+       6        0   {}-{onómic}
+       6        0   {}-{s<\n>de t}
+       6        0   {}-{tatal»}
+       6        0   {}-{ucharl}
+       6        0   {}-{utos e}
+       6        0   {}-{y no d}
+       6        0   {º}-{o}
+       6        0   {¿Ust}-{que mu}
+       6        0   {Á}-{A}
+       6        0   {ífica}-{iales }
+       6        0   {ó<\n>"raz}-{ante l}
+       5        5   {do co}-{~<\n>~<\n>U}
+       5        5   {izo}-{120 l}
+       5        5   {}-{31<\n>~<\n>}
+       5        5   {}-{D<\n>~<\n>A}
+       5        5   {}-{~~<\n>E<\n>}
+       5        2   {á}-{a}
+       5        0   { DNI<\n>}-{spach}
+       5        0   { Torr}-{r", s}
+       5        0   { al p}-{nje}
+       5        0   { disp}-{tanci}
+       5        0   { país}-{cción}
+       5        0   { pres}-{nocim}
+       5        0   {, Eli}-{}
+       5        0   {-<\n>mo}-{ toda}
+       5        0   {-<\n>pon}-{is d}
+       5        0   {-<\n>te }-{struy}
+       5        0   {.<\n>Aba}-{portu}
+       5        0   {200 m}-{}
+       5        0   {:}-{uaLdo}
+       5        0   {<\n>nal:}-{}
+       5        0   {An-<\n>t}-{así c}
+       5        0   {Asen}-{de la}
+       5        0   {Hurd.}-{ei}
+       5        0   {PULSO}-{23 de}
+       5        0   {Vladi}-{}
+       5        0   {actar}-{te de}
+       5        0   {anjer}-{e ell}
+       5        0   {as<\n>cu}-{ di}
+       5        0   {a}-{}
+       5        0   {bloqu}-{hombr}
+       5        0   {cción}-{era}
+       5        0   {ció}-{prolo}
+       5        0   {comis}-{que<\n>G}
+       5        0   {cont}-{el de}
+       5        0   {cto }-{spren}
+       5        0   {c}-{e}
+       5        0   {das}-{.<\n>P.-}
+       5        0   {de es}-{Cámar}
+       5        0   {de}-{quién}
+       5        0   {dio m}-{ob-<\n>J}
+       5        0   {dis-<\n>}-{¿Qué }
+       5        0   {eiko,}-{}
+       5        0   {en la}-{amo}
+       5        0   {ensio}-{}
+       5        0   {esa m}-{radic}
+       5        0   {españ}-{inf}
+       5        0   {estén}-{si el}
+       5        0   {exced}-{al pr}
+       5        0   {e}-{}
+       5        0   {falta}-{otras}
+       5        0   {firma}-{presi}
+       5        0   {f}-{ se h}
+       5        0   {g.}-{tas |}
+       5        0   {gú}-{n a e}
+       5        0   {icia}-{ polí}
+       5        0   {ifest}-{memor}
+       5        0   {is d}-{-<\n>pon}
+       5        0   {is-<\n>m}-{}
+       5        0   {izad}-{es<\n>y }
+       5        0   {i}-{e paí}
+       5        0   {ión}-{a, se}
+       5        0   {jante}-{llo}
+       5        0   {l Tri}-{}
+       5        0   {l de}-{s<\n>afi}
+       5        0   {l pu}-{guirs}
+       5        0   {la ge}-{tie-<\n>}
+       5        0   {la}-{surge}
+       5        0   {lucha}-{¿Bajo}
+       5        0   {m-<\n>br}-{ccion}
+       5        0   {mayor}-{de la}
+       5        0   {menaj}-{.<\n>Nu}
+       5        0   {merec}-{y » d}
+       5        0   {mo<\n>qu}-{der d}
+       5        0   {m}-{núa v}
+       5        0   {médic}-{apoy}
+       5        0   {mó.<\n>L}-{}
+       5        0   {n Esp}-{mple}
+       5        0   {n se}-{cació}
+       5        0   {na}-{estos}
+       5        0   {nmen}-{rlas }
+       5        0   {n}-{}
+       5        0   {oacas}-{}
+       5        0   {ob-<\n>j}-{dio m}
+       5        0   {ob}-{igina}
+       5        0   {omaci}-{egid}
+       5        0   {onoc}-{epres}
+       5        0   {orga}-{debie}
+       5        0   {os pe}-{ejan}
+       5        0   {os,<\n>y}-{ente}
+       5        0   {ozco}-{dible}
+       5        0   {por e}-{hacer}
+       5        0   {r-}-{ viva}
+       5        0   {rata}-{ del<\n>}
+       5        0   {rcero}-{ los}
+       5        0   {relam}-{}
+       5        0   {rig}-{nducc}
+       5        0   {s.<\n>EL}-{r en}
+       5        0   {s<\n>arm}-{ luch}
+       5        0   {spren}-{cto }
+       5        0   {starí}-{r hum}
+       5        0   {su d}-{el<\n>vi}
+       5        0   {s}-{ tene}
+       5        0   {s}-{<\n>haya}
+       5        0   {taron}-{}
+       5        0   {vicep}-{las }
+       5        0   {vie}-{desag}
+       5        0   {}-{ - Te}
+       5        0   {}-{ ...-}
+       5        0   {}-{ 1.36}
+       5        0   {}-{ EL P}
+       5        0   {}-{ Seba}
+       5        0   {}-{ es u}
+       5        0   {}-{ prop}
+       5        0   {}-{. 120}
+       5        0   {}-{. den}
+       5        0   {}-{22/ E}
+       5        0   {}-{<\n>cris}
+       5        0   {}-{AGENC}
+       5        0   {}-{EL NA}
+       5        0   {}-{Rosa<\n>}
+       5        0   {}-{__ _ }
+       5        0   {}-{ar la}
+       5        0   {}-{bos<\n>e}
+       5        0   {}-{das e}
+       5        0   {}-{e Jul}
+       5        0   {}-{efugi}
+       5        0   {}-{elebr}
+       5        0   {}-{enfri}
+       5        0   {}-{e}
+       5        0   {}-{iva<\n>t}
+       5        0   {}-{l mar}
+       5        0   {}-{mo da}
+       5        0   {}-{nside}
+       5        0   {}-{o dec}
+       5        0   {}-{o era}
+       5        0   {}-{o omn}
+       5        0   {}-{o; gr}
+       5        0   {}-{o}
+       5        0   {}-{r<\n>sin}
+       5        0   {}-{s Pla}
+       5        0   {}-{sal<\n>c}
+       5        0   {}-{stra }
+       5        0   {}-{te<\n>st}
+       5        0   {}-{tiva,}
+       5        0   {}-{torie}
+       5        0   {}-{uesti}
+       5        0   {}-{w da }
+       5        0   {}-{za.<\n>S}
+       5        0   {}-{ía ll}
+       5        0   {~<\n>Unos}-{}
+       5        0   {~}-{ K.Z.:}
+       5        0   {~}-{LUNES,}
+       5        0   {¿Q}-{con s}
+       4        4   {A}-{~<\n>~<\n>}
+       4        4   {apuñ}-{u3í}
+       4        4   {is}-{15}
+       4        4   {nifi}-{mñ}
+       4        4   {rge }-{t! .}
+       4        4   {}-{ :;Í}
+       4        4   {}-{~<\n>, }
+       4        4   {}-{~<\n>Co}
+       4        4   {}-{~<\n>L }
+       4        4   {}-{~~~<\n>}
+       4        2   {ni}-{m}
+       4        0   { Gue}-{<\n>de }
+       4        0   { a}-{dos,}
+       4        0   { est}-{surr}
+       4        0   { las}-{nsio}
+       4        0   { mue}-{n-<\n>t}
+       4        0   { que}-{s...}
+       4        0   { que}-{sta}
+       4        0   { }-{.}
+       4        0   {"dej}-{fund}
+       4        0   {"}-{- **}
+       4        0   {, n}-{<\n>Col}
+       4        0   {-<\n>ci}-{ad}
+       4        0   {10}-{unas}
+       4        0   {<\n>Es }-{blem}
+       4        0   {<\n>d}-{ar c}
+       4        0   {<\n>ges}-{ Al}
+       4        0   {<\n>qué}-{ lo}
+       4        0   {<\n>tra}-{ Si }
+       4        0   {AM}-{IBUN}
+       4        0   {Afir}-{un }
+       4        0   {A}-{INTE}
+       4        0   {CITY}-{1994}
+       4        0   {DE}-{ONAL}
+       4        0   {DE}-{mayo}
+       4        0   {Educ}-{habí}
+       4        0   {L<\n>SA}-{}
+       4        0   {LO]}-{IBRE}
+       4        0   {Malv}-{cons}
+       4        0   {PAÍS}-{boca}
+       4        0   {PONS}-{}
+       4        0   {Supr}-{exc}
+       4        0   {UNOS}-{9}
+       4        0   {a }-{}
+       4        0   {a,}-{i-<\n>9}
+       4        0   {a<\n>U}-{o co}
+       4        0   {acto}-{pre}
+       4        0   {al}-{esos}
+       4        0   {ap}-{orqu}
+       4        0   {as",}-{dida}
+       4        0   {asu}-{Afir}
+       4        0   {atus}-{es,}
+       4        0   {a}-{UNES}
+       4        0   {a}-{o}
+       4        0   {brac}-{st}
+       4        0   {cida}-{ mé}
+       4        0   {cili}-{g}
+       4        0   {ción}-{da}
+       4        0   {ción}-{yor}
+       4        0   {con }-{ta}
+       4        0   {cont}-{de D}
+       4        0   {cup}-{ vay}
+       4        0   {c}-{g}
+       4        0   {c}-{prop}
+       4        0   {de l}-{h}
+       4        0   {de l}-{prot}
+       4        0   {de }-{form}
+       4        0   {dipu}-{con}
+       4        0   {do v}-{<\n>Leg}
+       4        0   {do}-{Asen}
+       4        0   {d}-{ci}
+       4        0   {e di}-{to}
+       4        0   {e su}-{tado}
+       4        0   {e<\n>El}-{o}
+       4        0   {educ}-{tare}
+       4        0   {ero }-{i<\n>}
+       4        0   {e}-{as}
+       4        0   {fals}-{a un}
+       4        0   {fals}-{pr}
+       4        0   {fens}-{ l}
+       4        0   {form}-{de l}
+       4        0   {gobi}-{mu}
+       4        0   {habl}-{líne}
+       4        0   {h}-{uent}
+       4        0   {iar<\n>}-{se }
+       4        0   {ifes}-{tos }
+       4        0   {ign}-{ad p}
+       4        0   {impr}-{el s}
+       4        0   {ir u}-{ació}
+       4        0   {i}-{t}
+       4        0   {i}-{}
+       4        0   {ju}-{Gobi}
+       4        0   {l'}-{}
+       4        0   {lari}-{ni-<\n>}
+       4        0   {la}-{que }
+       4        0   {lice}-{}
+       4        0   {llan}-{}
+       4        0   {ll}-{se r}
+       4        0   {los}-{para}
+       4        0   {luta}-{res}
+       4        0   {l}-{!}
+       4        0   {l}-{<\n>P.-}
+       4        0   {l}-{I}
+       4        0   {líes}-{¿p}
+       4        0   {mbia}-{,}
+       4        0   {ment}-{ra<\n>}
+       4        0   {mil}-{la<\n>t}
+       4        0   {mos}-{rá a}
+       4        0   {mo}-{n di}
+       4        0   {n el}-{xtos}
+       4        0   {nada}-{1994}
+       4        0   {nc}-{slat}
+       4        0   {ntr}-{sa<\n>g}
+       4        0   {o en}-{a,}
+       4        0   {o l}-{ient}
+       4        0   {odos}-{ará}
+       4        0   {ond}-{ha f}
+       4        0   {opul}-{ar}
+       4        0   {pico}-{m}
+       4        0   {p}-{un s}
+       4        0   {que }-{cons}
+       4        0   {r }-{s<\n>me}
+       4        0   {ra G}-{esum}
+       4        0   {ra d}-{ qu}
+       4        0   {ra<\n>d}-{... }
+       4        0   {ra}-{ián,}
+       4        0   {rcha}-{l se}
+       4        0   {rea}-{tivo}
+       4        0   {rece}-{ o}
+       4        0   {res}-{luta}
+       4        0   {rido}-{}
+       4        0   {rva }-{jant}
+       4        0   {s Ve}-{ afi}
+       4        0   {s no}-{ral}
+       4        0   {s p}-{ bic}
+       4        0   {se d}-{publ}
+       4        0   {segu}-{cond}
+       4        0   {sema}-{ence}
+       4        0   {su<\n>p}-{lite}
+       4        0   {sum}-{n-<\n>c}
+       4        0   {s}-{dría}
+       4        0   {s}-{nto,}
+       4        0   {tago}-{bera}
+       4        0   {tens}-{a-<\n>l}
+       4        0   {teri}-{ncad}
+       4        0   {tivo}-{}
+       4        0   {tori}-{d}
+       4        0   {t}-{educ}
+       4        0   {t}-{me-<\n>}
+       4        0   {u<\n>fo}-{ pa}
+       4        0   {uere}-{adas}
+       4        0   {ura.}-{a do}
+       4        0   {u}-{orga}
+       4        0   {va b}-{c}
+       4        0   {volv}-{ dic}
+       4        0   {xpon}-{volv}
+       4        0   {ysl}-{<\n>núm}
+       4        0   {}-{ """}
+       4        0   {}-{ ' )}
+       4        0   {}-{ - '}
+       4        0   {}-{ - |}
+       4        0   {}-{ 132}
+       4        0   {}-{ 2 |}
+       4        0   {}-{ : .}
+       4        0   {}-{ el }
+       4        0   {}-{ e}
+       4        0   {}-{ i<\n>d}
+       4        0   {}-{ l |}
+       4        0   {}-{ s}
+       4        0   {}-{" *.}
+       4        0   {}-{"_ "}
+       4        0   {}-{'}
+       4        0   {}-{7 " }
+       4        0   {}-{: - }
+       4        0   {}-{<\n>- K}
+       4        0   {}-{Alfo}
+       4        0   {}-{Clau}
+       4        0   {}-{INTE}
+       4        0   {}-{IONA}
+       4        0   {}-{MIER}
+       4        0   {}-{MPO }
+       4        0   {}-{a Go}
+       4        0   {}-{a y }
+       4        0   {}-{ació}
+       4        0   {}-{ader}
+       4        0   {}-{ad}
+       4        0   {}-{as, }
+       4        0   {}-{clar}
+       4        0   {}-{d<\n>VI}
+       4        0   {}-{del<\n>}
+       4        0   {}-{e Br}
+       4        0   {}-{esta}
+       4        0   {}-{ilit}
+       4        0   {}-{in d}
+       4        0   {}-{i}
+       4        0   {}-{l co}
+       4        0   {}-{l<\n>te}
+       4        0   {}-{lleg}
+       4        0   {}-{mada}
+       4        0   {}-{nes?}
+       4        0   {}-{no.,}
+       4        0   {}-{o F }
+       4        0   {}-{o al}
+       4        0   {}-{pera}
+       4        0   {}-{que }
+       4        0   {}-{s ne}
+       4        0   {}-{tant}
+       4        0   {}-{tros}
+       4        0   {}-{ua C}
+       4        0   {}-{uand}
+       4        0   {}-{ul}
+       4        0   {}-{unes}
+       4        0   {}-{za q}
+       4        0   {}-{| - }
+       4        0   {}-{| _ }
+       4        0   {}-{¡ - }
+       4        0   {}-{© }
+       4        0   {}-{ÓNIM}
+       4        0   {}-{ític}
+       4        0   {}-{ó}
+       4        0   {¿Baj}-{com}
+       4        0   {á la}-{ias,}
+       4        0   {é}-{e}
+       4        0   {ña a}-{dos.}
+       4        0   {ü}-{li}
+       3        3   {ci}-{01_}
+       3        3   {da}-{cro}
+       3        3   {ins}-{mg}
+       3        3   {li}-{tzs}
+       3        3   {sió}-{51o}
+       3        3   {}-{<\n>~<\n>}
+       3        3   {«}-{~<\n>¿}
+       3        2   {}-{_}
+       3        0   { 30}-{nte}
+       3        0   { Eu}-{b}
+       3        0   { St}-{<\n>}
+       3        0   { ap}-{ní}
+       3        0   { de}-{ar }
+       3        0   { de}-{s}
+       3        0   { di}-{sta}
+       3        0   { h}-{ism}
+       3        0   { ju}-{ma}
+       3        0   { la}-{to}
+       3        0   { mi}-{s.}
+       3        0   { pa}-{ide}
+       3        0   { qu}-{ion}
+       3        0   { se}-{ro}
+       3        0   { se}-{}
+       3        0   { un}-{do}
+       3        0   { }-{nif}
+       3        0   {"}-{' '}
+       3        0   {"}-{<\n>99}
+       3        0   {, l}-{<\n>q}
+       3        0   {-<\n>d}-{naj}
+       3        0   {-<\n>r}-{nad}
+       3        0   {-<\n>}-{sa }
+       3        0   {-}-{:}
+       3        0   {...}-{mos}
+       3        0   {...}-{}
+       3        0   {.<\n>L}-{per}
+       3        0   {<\n>}-{ - }
+       3        0   {API}-{apr}
+       3        0   {Aun}-{te }
+       3        0   {Gue}-{t}
+       3        0   {IST}-{NAC}
+       3        0   {P.-~}-{bre,}
+       3        0   {S}-{ DE}
+       3        0   {a c}-{n}
+       3        0   {a s}-{vid}
+       3        0   {ac}-{pre}
+       3        0   {ad<\n>}-{os }
+       3        0   {adr}-{}
+       3        0   {alm}-{ d}
+       3        0   {ap}-{con}
+       3        0   {arm}-{sid}
+       3        0   {ars}-{rev}
+       3        0   {ar}-{ en}
+       3        0   {au}-{áti}
+       3        0   {ble}-{cto}
+       3        0   {cha}-{te,}
+       3        0   {cia}-{o}
+       3        0   {c}-{m}
+       3        0   {c}-{}
+       3        0   {dad}-{s}
+       3        0   {dad}-{}
+       3        0   {de }-{mi}
+       3        0   {de }-{pob}
+       3        0   {del}-{m}
+       3        0   {dem}-{ pr}
+       3        0   {de}-{hab}
+       3        0   {dip}-{e}
+       3        0   {do }-{e}
+       3        0   {do.}-{m-}
+       3        0   {dos}-{08}
+       3        0   {do}-{ció}
+       3        0   {d}-{l}
+       3        0   {d}-{}
+       3        0   {e q}-{ip}
+       3        0   {eme}-{éfo}
+       3        0   {er}-{uls}
+       3        0   {eso}-{pre}
+       3        0   {eso}-{que}
+       3        0   {est}-{id}
+       3        0   {est}-{tr}
+       3        0   {es}-{pro}
+       3        0   {ext}-{pa}
+       3        0   {ext}-{sob}
+       3        0   {e}-{ un}
+       3        0   {e}-{o}
+       3        0   {f}-{t}
+       3        0   {ga}-{rno}
+       3        0   {go}-{ el}
+       3        0   {gui}-{sca}
+       3        0   {hay}-{del}
+       3        0   {ibl}-{o d}
+       3        0   {ica}-{os }
+       3        0   {ige}-{es.}
+       3        0   {ion}-{}
+       3        0   {ién}-{e}
+       3        0   {jar}-{fi}
+       3        0   {l<\n>p}-{}
+       3        0   {la}-{que}
+       3        0   {les}-{10}
+       3        0   {lit}-{str}
+       3        0   {los}-{que}
+       3        0   {lo}-{que}
+       3        0   {l}-{est}
+       3        0   {l}-{tid}
+       3        0   {lín}-{d}
+       3        0   {mor}-{st}
+       3        0   {mos}-{ y}
+       3        0   {mos}-{cen}
+       3        0   {mu}-{ter}
+       3        0   {m}-{¡cn}
+       3        0   {mía}-{que}
+       3        0   {nes}-{ral}
+       3        0   {nis}-{}
+       3        0   {nte}-{ en}
+       3        0   {n}-{evo}
+       3        0   {o b}-{r}
+       3        0   {o d}-{es<\n>}
+       3        0   {o y}-{e}
+       3        0   {obi}-{ent}
+       3        0   {ogr}-{}
+       3        0   {or }-{asa}
+       3        0   {ove}-{ba}
+       3        0   {ovi}-{a }
+       3        0   {o}-{0}
+       3        0   {o}-{úme}
+       3        0   {pas}-{"un}
+       3        0   {paí}-{- }
+       3        0   {pe}-{vin}
+       3        0   {pre}-{u}
+       3        0   {pro}-{es}
+       3        0   {p}-{s<\n>l}
+       3        0   {que}-{del}
+       3        0   {que}-{los}
+       3        0   {qui}-{lib}
+       3        0   {r c}-{ci}
+       3        0   {rad}-{}
+       3        0   {re}-{esp}
+       3        0   {rn}-{: u}
+       3        0   {ro }-{ d}
+       3        0   {rte}-{zco}
+       3        0   {r}-{n}
+       3        0   {rá}-{ co}
+       3        0   {ría}-{ 30}
+       3        0   {s a}-{<\n>El}
+       3        0   {s d}-{ gu}
+       3        0   {s d}-{y}
+       3        0   {s, }-{nt}
+       3        0   {s.-~}-{nes,}
+       3        0   {s<\n>c}-{ p}
+       3        0   {se }-{Cám}
+       3        0   {sem}-{en }
+       3        0   {se}-{mía}
+       3        0   {so,}-{}
+       3        0   {sti}-{n}
+       3        0   {st}-{n l}
+       3        0   {s}-{, n}
+       3        0   {s}-{itm}
+       3        0   {tal}-{o y}
+       3        0   {tar}-{ es}
+       3        0   {te }-{blo}
+       3        0   {te,}-{cha}
+       3        0   {te}-{era}
+       3        0   {to}-{ la}
+       3        0   {tra}-{P.-}
+       3        0   {t}-{abl}
+       3        0   {uno}-{ni }
+       3        0   {un}-{U<\n>A}
+       3        0   {un}-{los}
+       3        0   {u}-{a-<\n>}
+       3        0   {u}-{}
+       3        0   {ver}-{sta}
+       3        0   {vid}-{a s}
+       3        0   {vin}-{pe}
+       3        0   {viv}-{cap}
+       3        0   {}-{ -)}
+       3        0   {}-{ --}
+       3        0   {}-{ -.}
+       3        0   {}-{ -=}
+       3        0   {}-{ -|}
+       3        0   {}-{ .-}
+       3        0   {}-{ a }
+       3        0   {}-{ di}
+       3        0   {}-{ e }
+       3        0   {}-{ lo}
+       3        0   {}-{!}
+       3        0   {}-{" '}
+       3        0   {}-{*}
+       3        0   {}-{. i}
+       3        0   {}-{., }
+       3        0   {}-{20 }
+       3        0   {}-{:- }
+       3        0   {}-{:<\n>m}
+       3        0   {}-{<Nu}
+       3        0   {}-{<\n>co}
+       3        0   {}-{<\n>pa}
+       3        0   {}-{ACI}
+       3        0   {}-{Ain}
+       3        0   {}-{A}
+       3        0   {}-{EL }
+       3        0   {}-{LIN}
+       3        0   {}-{LUN}
+       3        0   {}-{TO }
+       3        0   {}-{__ }
+       3        0   {}-{a c}
+       3        0   {}-{a d}
+       3        0   {}-{as }
+       3        0   {}-{cia}
+       3        0   {}-{c}
+       3        0   {}-{d e}
+       3        0   {}-{dig}
+       3        0   {}-{em<\n>}
+       3        0   {}-{he<\n>}
+       3        0   {}-{io }
+       3        0   {}-{la }
+       3        0   {}-{na }
+       3        0   {}-{ner}
+       3        0   {}-{nte}
+       3        0   {}-{o t}
+       3        0   {}-{ond}
+       3        0   {}-{opt}
+       3        0   {}-{oso}
+       3        0   {}-{rad}
+       3        0   {}-{rne}
+       3        0   {}-{rte}
+       3        0   {}-{ten}
+       3        0   {}-{tor}
+       3        0   {}-{ucí}
+       3        0   {}-{var}
+       3        0   {}-{y e}
+       3        0   {}-{|- }
+       3        0   {}-{ÍS,}
+       3        0   {~ }-{}
+       3        0   {ó,}-{o m}
+       3        0   {ón }-{st}
+       3        0   {ón}-{oda}
+       2        2   { p}-{b}
+       2        2   {.}-{<\n>~}
+       2        2   {aj}-{;u}
+       2        2   {a}-{á}
+       2        2   {ci}-{m}
+       2        2   {e}-{Ha}
+       2        2   {il}-{1|}
+       2        2   {io}-{10}
+       2        2   {o}-{ar}
+       2        2   {ri}-{m}
+       2        2   {si}-{51}
+       2        2   {}-{ri}
+       2        2   {}-{~}
+       2        2   {~}-{~<\n>e}
+       2        2   {~~'}-{a?<\n>~}
+       2        2   {ó,}-{o}
+       2        1   {,}-{"}
+       2        1   {i}-{l}
+       2        1   {i}-{¡}
+       2        1   {p}-{g}
+       2        1   {}-{g}
+       2        0   { J}-{j}
+       2        0   { S}-{g}
+       2        0   { a}-{vo}
+       2        0   { c}-{m}
+       2        0   { c}-{ri}
+       2        0   { d}-{<\n>s}
+       2        0   { d}-{lm}
+       2        0   { d}-{n}
+       2        0   { e}-{ll}
+       2        0   { f}-{nc}
+       2        0   { l}-{em}
+       2        0   { l}-{rr}
+       2        0   { m}-{<\n>c}
+       2        0   { p}-{ad}
+       2        0   { p}-{ic}
+       2        0   { s}-{nm}
+       2        0   { }-{-}
+       2        0   { }-{.-}
+       2        0   { }-{<\n>}
+       2        0   { }-{r<\n>}
+       2        0   { }-{ve}
+       2        0   {",}-{.}
+       2        0   {"}-{**}
+       2        0   {'}-{?}
+       2        0   {(}-{¿}
+       2        0   {,}-{;}
+       2        0   {,}-{do}
+       2        0   {-<\n>}-{ }
+       2        0   {-}-{.}
+       2        0   {-}-{»}
+       2        0   {.}-{ '}
+       2        0   {.}-{ *}
+       2        0   {.}-{:}
+       2        0   {1ª}-{lo}
+       2        0   {;}-{:}
+       2        0   {<\n>c}-{ m}
+       2        0   {<\n>d}-{mb}
+       2        0   {<\n>e}-{ C}
+       2        0   {<\n>}-{ci}
+       2        0   {AL}-{Es}
+       2        0   {A}-{a}
+       2        0   {A}-{}
+       2        0   {Cá}-{te}
+       2        0   {El}-{Fi}
+       2        0   {H}-{}
+       2        0   {IE}-{lF}
+       2        0   {I}-{T}
+       2        0   {I}-{i}
+       2        0   {LA}-{de}
+       2        0   {L}-{E.}
+       2        0   {L}-{}
+       2        0   {P}-{CI}
+       2        0   {Se}-{co}
+       2        0   {Sh}-{m}
+       2        0   {Ta}-{qu}
+       2        0   {Y}-{DE}
+       2        0   {`}-{"}
+       2        0   {a,}-{e}
+       2        0   {ac}-{ne}
+       2        0   {ac}-{ur}
+       2        0   {ad}-{ l}
+       2        0   {al}-{un}
+       2        0   {al}-{}
+       2        0   {am}-{o }
+       2        0   {ap}-{i}
+       2        0   {a}-{e}
+       2        0   {a}-{po}
+       2        0   {b.}-{}
+       2        0   {ba}-{,}
+       2        0   {ba}-{vi}
+       2        0   {bi}-{}
+       2        0   {bs}-{d}
+       2        0   {b}-{ns}
+       2        0   {b}-{pu}
+       2        0   {ca}-{ob}
+       2        0   {ce}-{s}
+       2        0   {co}-{Se}
+       2        0   {co}-{ma}
+       2        0   {co}-{y }
+       2        0   {c}-{rí}
+       2        0   {c}-{t}
+       2        0   {de}-{-}
+       2        0   {de}-{E}
+       2        0   {de}-{a}
+       2        0   {de}-{en}
+       2        0   {de}-{no}
+       2        0   {d}-{As}
+       2        0   {d}-{a }
+       2        0   {d}-{bs}
+       2        0   {d}-{el}
+       2        0   {d}-{qu}
+       2        0   {d}-{r}
+       2        0   {d}-{t}
+       2        0   {dí}-{ni}
+       2        0   {e }-{é}
+       2        0   {ed}-{pr}
+       2        0   {ej}-{}
+       2        0   {el}-{'}
+       2        0   {el}-{su}
+       2        0   {el}-{u}
+       2        0   {el}-{v}
+       2        0   {en}-{o }
+       2        0   {es}-{ad}
+       2        0   {e}-{ar}
+       2        0   {e}-{ma}
+       2        0   {e}-{tá}
+       2        0   {e}-{£:}
+       2        0   {fi}-{}
+       2        0   {fu}-{as}
+       2        0   {f}-{ta}
+       2        0   {f}-{í}
+       2        0   {ga}-{}
+       2        0   {gr}-{s}
+       2        0   {g}-{pu}
+       2        0   {hu}-{- }
+       2        0   {h}-{.a}
+       2        0   {h}-{er}
+       2        0   {i }-{}
+       2        0   {i-}-{:}
+       2        0   {i-}-{ro}
+       2        0   {id}-{pu}
+       2        0   {ig}-{}
+       2        0   {ir}-{e}
+       2        0   {ir}-{u}
+       2        0   {i}-{ }
+       2        0   {i}-{ta}
+       2        0   {ió}-{1o}
+       2        0   {ió}-{a}
+       2        0   {ja}-{fe}
+       2        0   {j}-{J}
+       2        0   {k}-{n-}
+       2        0   {la}-{DE}
+       2        0   {la}-{su}
+       2        0   {la}-{¿U}
+       2        0   {le}-{da}
+       2        0   {le}-{do}
+       2        0   {ll}-{op}
+       2        0   {ll}-{xp}
+       2        0   {l}-{¡}
+       2        0   {ma}-{co}
+       2        0   {ma}-{o}
+       2        0   {ma}-{s}
+       2        0   {me}-{}
+       2        0   {mi}-{d}
+       2        0   {mi}-{o}
+       2        0   {mo}-{s}
+       2        0   {m}-{:n}
+       2        0   {m}-{if}
+       2        0   {m}-{t}
+       2        0   {n-}-{l}
+       2        0   {nc}-{m}
+       2        0   {nd}-{ p}
+       2        0   {nd}-{ri}
+       2        0   {ni}-{l}
+       2        0   {no}-{:}
+       2        0   {no}-{e}
+       2        0   {ns}-{ d}
+       2        0   {nt}-{l }
+       2        0   {nt}-{v}
+       2        0   {nt}-{}
+       2        0   {nu}-{d}
+       2        0   {nu}-{}
+       2        0   {n}-{ci}
+       2        0   {n}-{s }
+       2        0   {n}-{s}
+       2        0   {n}-{t}
+       2        0   {n}-{ñ}
+       2        0   {nú}-{}
+       2        0   {o<\n>}-{a }
+       2        0   {ob}-{ca}
+       2        0   {of}-{l}
+       2        0   {on}-{c}
+       2        0   {on}-{}
+       2        0   {op}-{ic}
+       2        0   {os}-{ag}
+       2        0   {os}-{a}
+       2        0   {o}-{en}
+       2        0   {o}-{im}
+       2        0   {o}-{ás}
+       2        0   {pa}-{De}
+       2        0   {po}-{nt}
+       2        0   {pr}-{S}
+       2        0   {pu}-{}
+       2        0   {p}-{c}
+       2        0   {p}-{}
+       2        0   {qu}-{Ta}
+       2        0   {qu}-{p}
+       2        0   {r }-{ d}
+       2        0   {r }-{m}
+       2        0   {r }-{si}
+       2        0   {ra}-{so}
+       2        0   {ra}-{to}
+       2        0   {ra}-{}
+       2        0   {re}-{:c}
+       2        0   {re}-{vi}
+       2        0   {ri}-{y}
+       2        0   {ri}-{¡}
+       2        0   {ri}-{ñí}
+       2        0   {rl}-{s}
+       2        0   {rl}-{}
+       2        0   {ro}-{}
+       2        0   {rr}-{s}
+       2        0   {r}-{s}
+       2        0   {r}-{ya}
+       2        0   {rí}-{ }
+       2        0   {rí}-{}
+       2        0   {s }-{ m}
+       2        0   {s }-{ p}
+       2        0   {s }-{d<\n>}
+       2        0   {s }-{rn}
+       2        0   {sc}-{nt}
+       2        0   {se}-{Fo}
+       2        0   {si}-{t}
+       2        0   {so}-{ra}
+       2        0   {st}-{ h}
+       2        0   {st}-{ l}
+       2        0   {st}-{al}
+       2        0   {st}-{c}
+       2        0   {su}-{5}
+       2        0   {su}-{la}
+       2        0   {s}-{d}
+       2        0   {s}-{fi}
+       2        0   {s}-{l}
+       2        0   {s}-{n}
+       2        0   {s}-{qu}
+       2        0   {s}-{r}
+       2        0   {sí}-{l}
+       2        0   {te}-{Cá}
+       2        0   {te}-{en}
+       2        0   {te}-{o}
+       2        0   {tr}-{<\n>n}
+       2        0   {t}-{as}
+       2        0   {t}-{d}
+       2        0   {t}-{qu}
+       2        0   {un}-{c}
+       2        0   {u}-{ap}
+       2        0   {u}-{ú}
+       2        0   {va}-{se}
+       2        0   {vi}-{e }
+       2        0   {vo}-{}
+       2        0   {v}-{c}
+       2        0   {v}-{nt}
+       2        0   {xt}-{ y}
+       2        0   {y }-{}
+       2        0   {z.}-{}
+       2        0   {}-{ 1}
+       2        0   {}-{ 6}
+       2        0   {}-{ >}
+       2        0   {}-{ J}
+       2        0   {}-{ S}
+       2        0   {}-{ [}
+       2        0   {}-{ h}
+       2        0   {}-{ p}
+       2        0   {}-{" }
+       2        0   {}-{' }
+       2        0   {}-{* }
+       2        0   {}-{.-}
+       2        0   {}-{..}
+       2        0   {}-{/ }
+       2        0   {}-{1 }
+       2        0   {}-{; }
+       2        0   {}-{<\n>4}
+       2        0   {}-{<\n>l}
+       2        0   {}-{<\n>y}
+       2        0   {}-{= }
+       2        0   {}-{DO}
+       2        0   {}-{Ed}
+       2        0   {}-{I}
+       2        0   {}-{JU}
+       2        0   {}-{M<\n>}
+       2        0   {}-{OM}
+       2        0   {}-{PU}
+       2        0   {}-{P}
+       2        0   {}-{W }
+       2        0   {}-{[ }
+       2        0   {}-{a }
+       2        0   {}-{an}
+       2        0   {}-{b.}
+       2        0   {}-{be}
+       2        0   {}-{bl}
+       2        0   {}-{ch}
+       2        0   {}-{co}
+       2        0   {}-{cr}
+       2        0   {}-{gu}
+       2        0   {}-{ie}
+       2        0   {}-{ig}
+       2        0   {}-{io}
+       2        0   {}-{it}
+       2        0   {}-{iv}
+       2        0   {}-{l }
+       2        0   {}-{lo}
+       2        0   {}-{m<\n>}
+       2        0   {}-{ma}
+       2        0   {}-{na}
+       2        0   {}-{o<\n>}
+       2        0   {}-{pr}
+       2        0   {}-{p}
+       2        0   {}-{qu}
+       2        0   {}-{ra}
+       2        0   {}-{ró}
+       2        0   {}-{s }
+       2        0   {}-{t}
+       2        0   {}-{ud}
+       2        0   {}-{u}
+       2        0   {}-{vi}
+       2        0   {}-{yo}
+       2        0   {}-{zo}
+       2        0   {}-{¡ }
+       2        0   {}-{án}
+       2        0   {}-{ño}
+       2        0   {~}-{ o}
+       2        0   {«}-{LU}
+       2        0   {É}-{E}
+       2        0   {Ñ}-{N}
+       2        0   {á }-{<\n>f}
+       2        0   {ís}-{.»}
+       2        0   {ú}-{u}
+       2        0   {ü}-{úu}
+       1        1   { }-{~}
+       1        1   {F}-{E}
+       1        1   {I}-{Í}
+       1        1   {i}-{:}
+       1        1   {i}-{f}
+       1        1   {i}-{x}
+       1        1   {j}-{3}
+       1        1   {o}-{u}
+       1        1   {o}-{º}
+       1        1   {r}-{f}
+       1        1   {s}-{;}
+       1        1   {s}-{e}
+       1        1   {y}-{%}
+       1        0   { }-{P}
+       1        0   { }-{a}
+       1        0   { }-{c}
+       1        0   { }-{d}
+       1        0   { }-{e}
+       1        0   { }-{g}
+       1        0   { }-{i}
+       1        0   { }-{o}
+       1        0   { }-{r}
+       1        0   { }-{s}
+       1        0   { }-{v}
+       1        0   {"}-{ }
+       1        0   {"}-{*}
+       1        0   {'}-{"}
+       1        0   {'}-{}
+       1        0   {(}-{t}
+       1        0   {,}-{e}
+       1        0   {,}-{l}
+       1        0   {,}-{m}
+       1        0   {,}-{o}
+       1        0   {-}-{"}
+       1        0   {-}-{;}
+       1        0   {-}-{r}
+       1        0   {-}-{s}
+       1        0   {-~}-{»}
+       1        0   {.}-{;}
+       1        0   {6}-{8}
+       1        0   {8}-{3}
+       1        0   {<\n>}-{ }
+       1        0   {<\n>}-{}
+       1        0   {?}-{7}
+       1        0   {A}-{e}
+       1        0   {C}-{p}
+       1        0   {D}-{s}
+       1        0   {D}-{}
+       1        0   {E}-{B}
+       1        0   {E}-{P}
+       1        0   {E}-{i}
+       1        0   {E}-{}
+       1        0   {I}-{1}
+       1        0   {I}-{}
+       1        0   {J}-{F}
+       1        0   {L}-{E}
+       1        0   {L}-{l}
+       1        0   {M}-{m}
+       1        0   {M}-{p}
+       1        0   {N}-{d}
+       1        0   {P}-{}
+       1        0   {R}-{K}
+       1        0   {R}-{d}
+       1        0   {S}-{$}
+       1        0   {S}-{B}
+       1        0   {S}-{}
+       1        0   {U}-{Ú}
+       1        0   {`}-{}
+       1        0   {a}-{i}
+       1        0   {a}-{ó}
+       1        0   {b}-{ }
+       1        0   {b}-{<\n>}
+       1        0   {b}-{}
+       1        0   {c}-{E}
+       1        0   {c}-{h}
+       1        0   {c}-{l}
+       1        0   {c}-{n}
+       1        0   {c}-{p}
+       1        0   {d}-{ }
+       1        0   {d}-{b}
+       1        0   {d}-{g}
+       1        0   {d}-{p}
+       1        0   {d}-{s}
+       1        0   {e}-{<\n>}
+       1        0   {e}-{=}
+       1        0   {e}-{a}
+       1        0   {e}-{s}
+       1        0   {e}-{u}
+       1        0   {e}-{z}
+       1        0   {f}-{M}
+       1        0   {g}-{ }
+       1        0   {g}-{d}
+       1        0   {g}-{e}
+       1        0   {g}-{r}
+       1        0   {h}-{i}
+       1        0   {h}-{}
+       1        0   {i}-{h}
+       1        0   {i}-{r}
+       1        0   {l}-{J}
+       1        0   {l}-{M}
+       1        0   {l}-{V}
+       1        0   {l}-{X}
+       1        0   {l}-{d}
+       1        0   {l}-{f}
+       1        0   {l}-{m}
+       1        0   {l}-{n}
+       1        0   {l}-{r}
+       1        0   {l}-{t}
+       1        0   {l}-{y}
+       1        0   {m}-{-}
+       1        0   {m}-{b}
+       1        0   {m}-{f}
+       1        0   {m}-{s}
+       1        0   {m}-{}
+       1        0   {n}-{G}
+       1        0   {n}-{c}
+       1        0   {n}-{h}
+       1        0   {n}-{m}
+       1        0   {n}-{p}
+       1        0   {n}-{q}
+       1        0   {n}-{z}
+       1        0   {o}-{-}
+       1        0   {o}-{O}
+       1        0   {o}-{c}
+       1        0   {o}-{d}
+       1        0   {o}-{i}
+       1        0   {o}-{n}
+       1        0   {o}-{p}
+       1        0   {o}-{}
+       1        0   {p}-{M}
+       1        0   {p}-{h}
+       1        0   {p}-{o}
+       1        0   {p}-{s}
+       1        0   {q}-{S}
+       1        0   {q}-{a}
+       1        0   {q}-{}
+       1        0   {r}-{,}
+       1        0   {r}-{S}
+       1        0   {r}-{c}
+       1        0   {r}-{t}
+       1        0   {r}-{u}
+       1        0   {s}-{-}
+       1        0   {s}-{.}
+       1        0   {s}-{D}
+       1        0   {s}-{S}
+       1        0   {s}-{c}
+       1        0   {s}-{m}
+       1        0   {s}-{p}
+       1        0   {s}-{t}
+       1        0   {t}-{l}
+       1        0   {t}-{s}
+       1        0   {t}-{}
+       1        0   {t}-{í}
+       1        0   {u}-{a}
+       1        0   {u}-{e}
+       1        0   {v}-{l}
+       1        0   {v}-{p}
+       1        0   {v}-{y}
+       1        0   {v}-{}
+       1        0   {x}-{X}
+       1        0   {y}-{a}
+       1        0   {y}-{l}
+       1        0   {}-{3}
+       1        0   {}-{;}
+       1        0   {}-{<\n>}
+       1        0   {}-{S}
+       1        0   {}-{T}
+       1        0   {}-{W}
+       1        0   {}-{[}
+       1        0   {}-{q}
+       1        0   {}-{¡}
+       1        0   {}-{á}
+       1        0   {}-{í}
+       1        0   {~}-{ 0}
+       1        0   {~}-{ e}
+       1        0   {~}-{ ©}
+       1        0   {~}-{C)}
+       1        0   {~}-{EL}
+       1        0   {~}-{IN}
+       1        0   {«}-{1}
+       1        0   {«}-{s}
+       1        0   {«}-{}
+       1        0   {á}-{d}
+       1        0   {á}-{o}
+       1        0   {é}-{}
+       1        0   {í}-{1}
+       1        0   {í}-{Í}
+       1        0   {ñ}-{h}
+       1        0   {ñ}-{t}
+       1        0   {ü}-{l}
+
+   Count   Missed   %Right
+   10167      208    97.95   {<\n>}
+   48081      693    98.56   { }
+      10        0   100.00   {!}
+     828       33    96.01   {"}
+      26        0   100.00   {%}
+      27        8    70.37   {'}
+     206        9    95.63   {(}
+     205        8    96.10   {)}
+       3        0   100.00   {*}
+    3467      142    95.90   {,}
+    3184       85    97.33   {-}
+    1963       99    94.96   {.}
+      11        1    90.91   {/}
+     296        9    96.96   {0}
+     350        3    99.14   {1}
+     183        2    98.91   {2}
+     108        1    99.07   {3}
+     114        0   100.00   {4}
+     137        1    99.27   {5}
+      89        1    98.88   {6}
+      80        0   100.00   {7}
+     106        1    99.06   {8}
+     208        2    99.04   {9}
+     119        5    95.80   {:}
+      79        3    96.20   {;}
+      48        5    89.58   {?}
+     985       67    93.20   {A}
+     270       17    93.70   {B}
+    1003       51    94.92   {C}
+     399       26    93.48   {D}
+    1153       49    95.75   {E}
+     289       10    96.54   {F}
+     336       10    97.02   {G}
+     192       12    93.75   {H}
+     423       31    92.67   {I}
+     245        8    96.73   {J}
+      55        4    92.73   {K}
+     656       40    93.90   {L}
+     591       24    95.94   {M}
+     426       21    95.07   {N}
+     355       23    93.52   {O}
+     813       19    97.66   {P}
+      33        4    87.88   {Q}
+     541       22    95.93   {R}
+     634       37    94.16   {S}
+     293       18    93.86   {T}
+     276       17    93.84   {U}
+     140        3    97.86   {V}
+      24        0   100.00   {W}
+      27        0   100.00   {X}
+      98        5    94.90   {Y}
+      73        2    97.26   {Z}
+       2        1    50.00   {[}
+       2        1    50.00   {]}
+       6        0   100.00   {_}
+       3        3     0.00   {`}
+   31763      568    98.21   {a}
+    3118       74    97.63   {b}
+   11593      225    98.06   {c}
+   14078      286    97.97   {d}
+   34732      611    98.24   {e}
+    1979       52    97.37   {f}
+    2843       66    97.68   {g}
+    1732       44    97.46   {h}
+   18289      420    97.70   {i}
+     967       33    96.59   {j}
+      96        5    94.79   {k}
+   15384      335    97.82   {l}
+    6236      128    97.95   {m}
+   19645      390    98.01   {n}
+   22595      445    98.03   {o}
+    6915      149    97.85   {p}
+    2357       50    97.88   {q}
+   18579      346    98.14   {r}
+   19380      412    97.87   {s}
+   12052      233    98.07   {t}
+   10241      228    97.77   {u}
+    2395       59    97.54   {v}
+      20        1    95.00   {w}
+     570       11    98.07   {x}
+    2126       55    97.41   {y}
+    1177       19    98.39   {z}
+       8        0   100.00   {¡}
+       1        1     0.00   {ª}
+      97       97     0.00   {«}
+       6        6     0.00   {º}
+      95        5    94.74   {»}
+      47        4    91.49   {¿}
+      10        7    30.00   {Á}
+       2        2     0.00   {É}
+       6        1    83.33   {Í}
+       3        3     0.00   {Ñ}
+       2        0   100.00   {Ó}
+    1154       28    97.57   {á}
+     657       20    96.96   {é}
+    1386       90    93.51   {í}
+     409       11    97.31   {ñ}
+    2521       53    97.90   {ó}
+     374        7    98.13   {ú}
+      13       13     0.00   {ü}
